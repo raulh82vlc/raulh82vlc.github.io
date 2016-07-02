@@ -20,7 +20,7 @@ Firstly, I would mention that I am trying to practice clean architecture from Ma
 _Why?_
 Because, despite *clean architecture* is not an easy subject a first time you try it, at the end it solves in a very structured way, certain complex problems as well as supports a team to make structured code with a solid and clean architecture which really worths it. Moreover, as an added value, this would make tests easier, which in the end is what everyones want. To be able to test easily and sleep well at night.
 
-Note: I have to confess that at thi iteration of this small project, there are not tests, but I am expecting to add them little by little.
+Note: I have to confess that at this iteration about this small project, there are not tests, but I am expecting to add them little by little.
 
 I hope this contribution to the community would like you, and enjoy it as much as I did when I created it.
 Waiting for your comments and suggestions though!
