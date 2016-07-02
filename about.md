@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: About the author
 permalink: /about/
 ---
 
-Some information about you!
+Raúl Hernández López
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I would like to introduce myself as a continuous learner,
+apart from being an experienced Software Engineer, currently specialised on the Android platform.
+
+I do enjoy meeting new cultures, learning from others, listening rock music, running or travelling.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[raul.h82@gmail.com](mailto:raul.h82@gmail.com)
