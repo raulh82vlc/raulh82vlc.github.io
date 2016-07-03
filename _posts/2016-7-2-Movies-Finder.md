@@ -9,7 +9,7 @@ Hello everyone!! I recently started an open-source project based on *Clean archi
 I would like to show you the project:
 [Movies Finder](https://github.com/raulh82vlc/Movies-Finder) on GitHub.
 
-I am explaining further details at the _README.md_ file about the project itself.
+I am explaining further details at the [README](https://github.com/raulh82vlc/Movies-Finder/blob/master/README.md) file about the project itself.
 
 But at this post, I would introduce you a little bit about my background regarding *clean architecture*.
 
