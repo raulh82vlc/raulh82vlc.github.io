@@ -14,9 +14,8 @@ at *Polytechnic University of Valencia*. Thus, it really enhanced my interest fo
 This made me sure, that *Android* would be the right decision for the project and the foreseeable future.
 
 At my original post at *2012* on my previous blog
-- [Insights and projects](http://insightsandprojects.tumblr.com/) on Tumblr,
-I mentioned the following information:
-MSc Thesis project final screenshots of the validation test.
+- Insights and projects on Tumblr, I mentioned the following information:
+*MSc Thesis project final screenshots of the validation test.*
 
 The final topic of my MSc thesis project was: **Using Augmented Reality and Geo-location in Android Mobile Devices to Visualise time dependent data**
 ![Look For Events Location AR]({{ site.baseurl }}/images/field_research_AR_set.png)
