@@ -18,13 +18,12 @@ At my original post at *2012* on my previous blog
 I mentioned the following information:
 MSc Thesis project final screenshots of the validation test.
 
+The final topic of my MSc thesis project was: **Using Augmented Reality and Geo-location in Android Mobile Devices to Visualise time dependent data**
 ![Look For Events Location AR]({{ site.baseurl }}/images/field_research_AR_set.png)
 As it is shown different events of interest are shown by the Augmented Reality / Geo-location system.
 
-## Description:
-- 3 ongoing events
-- 1 event that will start in 1 hour at least
-- and 1 event that will start in more than an hour
+## Overview:
+- In the screen there are 3 ongoing events, 1 event that will start in 1 hour at least as well 1 event that will start in more than an hour
 - Basically are *color* dependent, where each *color* indicates the proximity in *time* to the current time wherever you are.
 - Circles *sizes* indicate the proximity in *distance*.
 
