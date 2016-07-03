@@ -16,7 +16,14 @@ But at this post, I would introduce you a little bit about my background regardi
 Firstly, I would mention that I am trying to practice clean architecture from March 2015, when I discovered this approach and colleague and I at work, decide that it was really helpful for maintainable projects.
 
 ## Why?
-Because, despite *clean architecture* is not an easy subject a first time you try it, at the end it solves in a very structured way, certain complex problems as well as supports a team to make structured code with a solid and clean architecture which really worths it.
+Because, despite *clean architecture* is not an easy subject a first time you try it, at the end it solves in a very structured way, certain complex problems as well as supports a team to make structured code with a solid and clean architecture which really worths it, mainly following a SOLID approach.
+
+## SOLID principles
+- **The Single Responsibility Principle**, "A class should have one, and only one, reason to change."
+- **The Open Closed Principle**, "You should be able to extend a classes behavior, without modifying it."
+- **The Liskov Substitution Principle**, "Derived classes must be substitutable for their base classes." see also [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract)
+- **The Interface Segregation Principle**, "Make fine grained interfaces that are client specific."
+- **The Dependency Inversion Principle**, "Depend on abstractions, not on concretions."
 
 ## Tests
 Moreover, as an added value, this would make tests easier, which in the end is what everyones want. To be able to test easily and sleep well at night.
@@ -27,6 +34,8 @@ I hope this small contribution to the community would like you, and enjoy it as 
 Waiting for your comments, contributions and suggestions though!
 
 ## References
+- [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) by Uncle Bob
+- [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract) by Wikipedia
 - [Como crear tu blog post](http://devexperto.com/como-crear-un-blog/) by devexperto in Spanish
 - [Video Tutorial](https://youtu.be/lsvRyE5tPQQ?list=PLhhn5jd7McxcGT0Qh3nB_Exat6Pm8HEHq) by devexperto in Spanish
 
