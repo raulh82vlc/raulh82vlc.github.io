@@ -14,5 +14,5 @@ apart from being an experienced Software Engineer, currently specialised on the 
 I do enjoy meeting new cultures, learning from others, listening rock music, running or travelling.
 
 ### Contact me
-
-[raul.h82@gmail.com](mailto:raul.h82@gmail.com)
+- [@RaulHernandezL (Twitter)](https://twitter.com/RaulHernandezL)
+- [raul.h82@gmail.com](mailto:raul.h82@gmail.com)
