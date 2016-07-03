@@ -25,3 +25,9 @@ Note: I have to confess that at this iteration about this small project, there a
 ## Contributions are welcome
 I hope this small contribution to the community would like you, and enjoy it as much as I did when I created it.
 Waiting for your comments, contributions and suggestions though!
+
+## References
+- [Como crear tu blog post](http://devexperto.com/como-crear-un-blog/) by devexperto in Spanish
+- [Video Tutorial](https://youtu.be/lsvRyE5tPQQ?list=PLhhn5jd7McxcGT0Qh3nB_Exat6Pm8HEHq) by devexperto in Spanish
+
+
