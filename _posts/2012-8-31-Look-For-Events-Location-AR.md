@@ -25,11 +25,12 @@ As it is shown different events of interest are shown by the Augmented Reality /
 - 3 ongoing events
 - 1 event that will start in 1 hour at least
 - and 1 event that will start in more than an hour
-- Basically are color dependent, where each color indicates the proximity in time to the current time wherever you are.
+- Basically are *color* dependent, where each *color* indicates the proximity in *time* to the current time wherever you are.
+- Circles *sizes* indicate the proximity in *distance*.
 
 ## Rules:
-- Blue for events than are far away in time.
-- Green for events about one hour
-- Yellow for events that have more than 30 minutes
-- Red for events really close in time
-- White for ongoing events.
+- *Blue* for events than are far away in time.
+- *Green* for events about one hour
+- *Yellow* for events that have more than 30 minutes
+- *Red* for events really close in time
+- *White* for ongoing events.
