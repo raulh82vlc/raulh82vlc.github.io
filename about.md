@@ -26,9 +26,9 @@ I am from Valencia (Spain), nowadays I am living, working and enjoying meetups i
   - **IT Supporting Staff** in **Valencia Institute of Statistics and applied sciencies** (internship granted) in *Valencia (Spain)*
 
 ## Studies
-- **MSc Computational & Software Techniques in Engineering** in *Cranfield University (UK)*
-- **BSc(Hons) Information Systems + MSc Software Engineering** in *Polytechnic University of Valencia (Spain)*
-- **BSc(Hons) Information technology** in *Edinburgh Napier University (UK)*
+- **MSc Computational & Software Techniques in Engineering** at *Cranfield University (UK)*
+- **BSc(Hons) Information Systems + MSc Software Engineering** (usually called *Computer Engineering* in Spain) at *Polytechnic University of Valencia (Spain)*
+- **BSc(Hons) Information technology** at *Edinburgh Napier University (UK)*
 
 ## Hobbies
 I do enjoy meeting new cultures, learning from others, listening rock music, running or travelling.
