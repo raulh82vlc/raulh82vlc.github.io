@@ -13,8 +13,8 @@ apart from being an experienced Software Engineer, currently specialised on the 
 I am from Valencia (Spain), nowadays I am living, working and enjoying meetups in London (UK).
 
 ## Work experience
-- Currently working as **Android developer** at **YouView** in *London (UK)*
-- Previously:
+- Formerly:
+  - **Android developer** at **YouView** in *London (UK)*
   - **Senior Android Developer** working at a startup called **Critizen** (Next Chance Stocks) in *Madrid (Spain)*
   - **Android Developer** and **Team Lead** at a mobile agency (Mobilendo) in *Valencia (Spain)*
   - **Software Development Engineer** in **C++** at the Mid-back office for **Amadeus** (on behalf of *Harvey Nash*) in *Antwerp (Belgium)*
