@@ -10,10 +10,15 @@ permalink: /about/
 I would like to introduce myself as a continuous learner,
 apart from being an experienced Software Engineer, currently specialised on the Android platform.
 
-I am from Valencia (Spain), nowadays I am living, working and enjoying meetups in London (UK).
+I am from Valencia (Spain), nowadays I am living, working and enjoying meetups in London (UK) and conferences
+everywhere.
+
+I do love travelling when I can, listening music gigs, reading tech/no-tech books, hanging out with friends, a very cold beer or running.
 
 ## Work experience
+Currently **Senior Android Developer** at Touch Surgery 
 - Formerly:
+  - **Senior Android Developer** at Rise Project London
   - **Android developer** at **YouView** in *London (UK)*
   - **Senior Android Developer** working at a startup called **Critizen** (Next Chance Stocks) in *Madrid (Spain)*
   - **Android Developer** and **Team Lead** at a mobile agency (Mobilendo) in *Valencia (Spain)*
