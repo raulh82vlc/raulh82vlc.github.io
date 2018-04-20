@@ -36,9 +36,14 @@ Later (...) will be announced the 30th of April
   - **IT Supporting and Development staff** in **Servipoli - Polytecnic University of Valencia** (students job granted) in *Valencia (Spain)*
   - **IT Supporting Staff** in **Valencia Institute of Statistics and applied sciencies** (internship granted) in *Valencia (Spain)*
 
+## Public speaking
+- Building a Minimum Viable Product (MVP) with Face recognition and AR at Droidcon UK 2017 (London) [Info & video](https://skillsmatter.com/skillscasts/10786-building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android) / [Slides](https://speakerdeck.com/raulh82vlc/building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android-at-droidcon-london-2017)
+- Light talk “Quest of a Hero” Londroid April 2017 [Info & Video](https://skillsmatter.com/skillscasts/10128-quest-of-a-hero) / [Slides](https://speakerdeck.com/raulh82vlc/quest-of-a-hero-at-londroid-april-2017)
+- Light talk “From junior to experienced in few years” at Freakend Mobile 2017 [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be) / [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
+
 ## Studies
-- **MSc Computational & Software Techniques in Engineering** at *Cranfield University (UK)*
-- **BSc(Hons) Information Systems + MSc Software Engineering** (usually called *Computer Engineering* in Spain) at *Polytechnic University of Valencia (Spain)*
+- **MSc Computational & Software Techniques in Engineering** specialisation of *Software Engineering* at *Cranfield University (UK)*
+- **Engineer in Computer Science** specialisation of *Software Engineering* (second cycle) & *Information Systems* (first cycle) or **BSc(Hons) Information Systems + MSc Software Engineering** (BSc + MSc is equivalent to the Spanish Engineer degree) at *Polytechnic University of Valencia (Spain)*
 - **BSc(Hons) Information technology** at *Edinburgh Napier University (UK)*
 
 ## Hobbies
@@ -47,3 +52,4 @@ I do enjoy meeting new cultures, learning from others, listening rock music, run
 ### Contact me
 - [@RaulHernandezL (Twitter)](https://twitter.com/RaulHernandezL)
 - [raul.h82@gmail.com](mailto:raul.h82@gmail.com)
+- [Raul Hernandez Lopez´s LinkedIn profile](https://www.linkedin.com/in/raulhernandezl/)
