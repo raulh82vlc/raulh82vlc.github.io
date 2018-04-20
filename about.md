@@ -8,8 +8,9 @@ permalink: /about/
 
 ### Overview
 I would like to introduce myself as a continuous learner,
-apart from being an experienced Software Engineer,
-specialised on the Android platform (& Kotlin lover), as well as a beginner speaker.
+apart from being an experienced Software Engineer
+specialised on the Android platform & Kotlin lover,
+as well as a beginner speaker.
 
 I am from Valencia (Spain), nowadays I am living, working and enjoying meetups in London (UK) and conferences
 everywhere.
@@ -17,7 +18,8 @@ everywhere.
 I do love travelling when I can, listening music gigs, reading tech/no-tech books, hanging out with friends, a very cold beer or running.
 
 ## Work experience
-Currently and until the 27th **Lead Android Developer / Chapter Android Lead** at Touch Surgery.
+Currently and until the *27th*:
+**Lead Android Developer / Chapter Android Lead** at Touch Surgery.
 
 Later (...) will be announced the 30th of April
 
