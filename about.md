@@ -47,7 +47,7 @@ Later (...) will be announced the 30th of April
 - **BSc(Hons) Information technology** at *Edinburgh Napier University (UK)*
 
 ## Hobbies
-I do enjoy meeting new cultures, learning from others, listening rock music, running or travelling.
+I do enjoy meeting new cultures, learning from others & self-learning myself, listening rock / metal music, running, reading or travelling.
 
 ### Contact me
 - [@RaulHernandezL (Twitter)](https://twitter.com/RaulHernandezL)
