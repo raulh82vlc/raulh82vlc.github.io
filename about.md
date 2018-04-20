@@ -52,4 +52,7 @@ I do enjoy meeting new cultures, learning from others & self-learning myself, li
 ### Contact me
 - [@RaulHernandezL (Twitter)](https://twitter.com/RaulHernandezL)
 - [raul.h82@gmail.com](mailto:raul.h82@gmail.com)
-- [Raul Hernandez Lopez´s LinkedIn profile](https://www.linkedin.com/in/raulhernandezl/)
+
+### Other public profiles
+- [Raul's Medium](https://medium.com/@raul.h82/)
+- [Raul's LinkedIn](https://www.linkedin.com/in/raulhernandezl/)
