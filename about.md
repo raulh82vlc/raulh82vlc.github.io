@@ -18,13 +18,13 @@ everywhere.
 I do love travelling when I can, listening music gigs, reading tech/no-tech books, hanging out with friends, a very cold beer or running.
 
 ## Work experience
-Currently and until the *27th*:
-**Lead Android Developer / Chapter Android Lead** at Touch Surgery.
 
-Later (...) will be announced the 30th of April
+- From *30th of April*:
+  - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)*
 
 - Formerly:
-  - **Senior Android Developer** at Rise Project London
+  - **Lead Android Developer / Chapter Android Lead** at Touch Surgery in *London (UK)* - till *27th May*:
+  - **Senior Android Developer** at Rise Project *London (UK)*
   - **Android developer** at **YouView** in *London (UK)*
   - **Senior Android Developer** working at a startup called **Critizen** (Next Chance Stocks) in *Madrid (Spain)*
   - **Android Developer** and **Team Lead** at a mobile agency (Mobilendo) in *Valencia (Spain)*
