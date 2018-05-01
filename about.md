@@ -5,16 +5,16 @@ permalink: /about/
 ---
 
 # Raúl Hernández López / Raul Hernandez Lopez
-**Senior Software Engineer - Android at Twitter UK & Kotlin lover**
+*Senior Software Engineer - Android at Twitter UK & Kotlin lover*
 
 ### Overview
-I would like to introduce myself as a continuous learner, apart from being an experienced Software Engineer, currently working at Twitter UK, specialised on the Android platform (& Kotlin lover), as well as a beginner speaker.
 I would like to introduce myself as a continuous learner,
-apart from being an experienced Software Engineer
-specialised on the Android platform & Kotlin lover,
-as well as a beginner speaker.
+apart from being an experienced Software Engineer,
+specialised on the Android platform & Kotlin lover, as well as a beginner speaker.
 
-I am from Valencia (Spain), nowadays I am living, working and enjoying meetups in London (UK) and conferences
+I am from Valencia (Spain), where we use to love paella and horchata,
+nowadays I am living, working and enjoying meetups in London (UK)
+and conferences
 everywhere.
 
 I do love travelling when I can, listening music gigs, reading tech/no-tech books, hanging out with friends, a very cold beer or running.
@@ -25,7 +25,7 @@ I do love travelling when I can, listening music gigs, reading tech/no-tech book
   - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)*
 
 - Formerly:
-  - **Lead Android Developer / Chapter Android Lead** at Touch Surgery in *London (UK)* - till *27th May*
+  - **Lead Android Developer / Chapter Android Lead** at Touch Surgery in *London (UK)* - till *27th April*
   - **Senior Android Developer** at Rise Project *London (UK)*
   - **Android developer** at **YouView** in *London (UK)*
   - **Senior Android Developer** working at a startup called **Critizen** (Next Chance Stocks) in *Madrid (Spain)*
