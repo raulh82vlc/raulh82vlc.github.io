@@ -45,7 +45,7 @@ I do love travelling when I can, listening music gigs, reading tech/no-tech book
 
 ## 2020
 - "Fueled Reactive apps With Asynchronous Flow" related interview at AndroidDevPodcast in Spanish with David Hackro [Podcast audio interview](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
-- "Fueled Reactive apps with Asynchronous Flow" at Android Makers Paris (France) [Video](https://youtu.be/A5CaEOOQy3M) / [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow)
+- "Fueled Reactive apps with Asynchronous Flow" at Android Makers (France) - Virtual Android Makers edition [Video](https://youtu.be/A5CaEOOQy3M) / [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow)
 - "Qué necesita un desarrollador para alcanzar sus metas?" interview at DevExperto's "I stay at home" series in Spanish with Antonio Leiva [Video interview](https://youtu.be/igKXuX4h3HE)
 
 ## 2019 
