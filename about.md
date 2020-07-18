@@ -48,7 +48,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - Light talk “Quest of a Hero” Londroid April 2017 [Info & Video](https://skillsmatter.com/skillscasts/10128-quest-of-a-hero) / [Slides](https://speakerdeck.com/raulh82vlc/quest-of-a-hero-at-londroid-april-2017)
 - Light talk “From junior to experienced in few years” at Freakend Mobile 2017 [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be) / [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
 
-# Written Technical articles
+# Public written technical articles
 
 ## 2020
 - "Fueled Reactive apps with Asynchronous Flow - Part 1 - Use case & Migration Strategy" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)
@@ -60,6 +60,10 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## 2018
 - "Learning functional programming at Twitter’s #Hackweek #1" [Article](https://medium.com/@raul.h82/learning-functional-programming-at-twitters-hackweek-1-10612f74ffe2)
+
+# Public code snippets & side projects
+- [Github](https://github.com/raulh82vlc)
+- [Gist](https://gist.github.com/raulh82vlc)
 
 # Studies
 - **MSc Computational & Software Techniques in Engineering** specialisation of *Software Engineering* at *Cranfield University (UK)*
