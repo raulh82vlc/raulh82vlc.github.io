@@ -10,36 +10,28 @@ permalink: /about/
 ### Overview
 I would like to introduce myself as a continuous learner,
 apart from being an experienced Software Engineer,
-specialised on the Android platform & Kotlin lover, as well as a beginner speaker.
+specialised on the Android platform & Kotlin, as well as eventual public speaker.
 
 I am from Valencia (Spain), where we use to love paella and horchata,
-nowadays I am living, working and enjoying meetups in London (UK)
-and conferences
-everywhere.
+nowadays I am living, working (from home) in London (UK).
 
-I do love travelling when I can, listening music gigs, reading tech/no-tech books, hanging out with friends, a very cold beer or running.
+I do love travelling when I can, listening music metal/rock gigs, reading tech/no-tech books, hanging out with friends, a very cold beer or running sometime.
 
 # Work experience
 
-- From *July 2018*:
-  - **Senior Software Engineer - Android** at **Twitter** in *London (UK)* for Consumer Search Clients team.
-    - Previously collaborated at Live Events / Events Clients team.
-    - Previously collaborated at Periscope / Hydra team.
+## Currently
+- **Senior Software Engineer - Android** at **Twitter** in *London (UK)* for the Consumer Search Clients (CSC) team. - From *July 2018*
+  - Previously collaborated for the Live Events / Events Clients (EC) team.
+  - Previously collaborated for the Periscope / Hydra team.
 
-- Formerly:
-  - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* for Live Events team. - from *April the 30th*
-  - **Lead Android Developer / Chapter Android Lead** at Touch Surgery in *London (UK)* June 2017 until April the 27th 2018
-  - **Senior Android Developer** at Rise Project *London (UK)* 2016-2017
-  - **Android developer** at **YouView** in *London (UK)* 2015-2016
-  - **Senior Android Developer** working at a startup called **Critizen** (Next Chance Stocks) in *Madrid (Spain)*
-  - **Android Developer** and **Team Lead** (contract) at a mobile agency (Mobilendo) in *Valencia (Spain)*
-  - **Software Development Engineer - C++** (contract) at the Mid-back office for **Amadeus** (on behalf of *Harvey Nash*) in *Antwerp (Belgium)*
-  - **Junior Software developer** at **Openbet** in *London (UK)*
-  - **Junior Researcher and Android Software Engineer** at **Cranfield University** (Erasmus internship) in *Cranfield (UK)*
-  - **Technical Engineer In Administrative Data Processing** at **Common Council of Valencia** (contract / internship granted for *<30* recently graduates) in *Valencia (Spain)*
-  - **Junior Software engineer - PHP* at a "bioinformatics startup" called Biotechvana in *Valencia (Spain)*
-  - **IT Support and Development staff** (contract) at **Servipoli - Polytecnic University of Valencia** (uni students job granted) in *Valencia (Spain)*
-  - **IT Support Staff** at **Valencian Institute of Statistics and applied sciencies** (internship granted) in *Valencia (Spain)*
+## Formerly
+- **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* for Live Events team. - from *April the 30th 2018*
+- **Lead Android Developer / Chapter Android Lead** at **Touch Surgery** in *London (UK)* June 2017 until April the 27th 2018
+- **Senior Android Developer** at *Supe app / Rise Project UK* *London (UK)* 2016-2017
+- **Android developer** at **YouView** in *London (UK)* 2015-2016
+- **Senior Android Developer** working at a startup called *Critizen app / Next Chance Stocks SL* in *Madrid (Spain)* 2015
+- **Android Developer** and **Team Lead** (contract) at a mobile little agency called *Mobilendo* in *Valencia (Spain)* 2014-2015
+- **Software Development Engineer - C++** (contract) at the Mid-back office for **Amadeus** (on behalf of *Harvey Nash*) in *Antwerp (Belgium)* 2013-2014
 
 # Public speaking
 
@@ -76,6 +68,14 @@ I do love travelling when I can, listening music gigs, reading tech/no-tech book
 
 ## Hobbies
 I do enjoy meeting new cultures, learning from others & self-learning myself, listening rock / metal music, running, reading or travelling.
+
+### Formerly work experience
+  - **Junior Software developer** at **Openbet** in *London (UK)* 2012-2013
+  - **Junior Researcher and Android Software Engineer** at **Cranfield University** (Erasmus internship) in *Cranfield (UK)* 2012
+  - **Technical Engineer In Administrative Data Processing** at **Common Council of Valencia** (contract / internship granted for *<30* recently graduates) in *Valencia (Spain)* 2010-2011
+  - **Junior Software engineer - PHP* at a "bioinformatics startup" called Biotechvana in *Valencia (Spain)* 2010
+  - **IT Support and Development staff** (contract) at **Servipoli - Polytecnic University of Valencia** (uni students job granted) in *Valencia (Spain)* 2008-2009
+  - **IT Support Staff** at **Valencian Institute of Statistics and applied sciencies** (internship granted) in *Valencia (Spain)* 2007-2008
 
 ### Contact me
 - [@RaulHernandezL (Twitter)](https://twitter.com/RaulHernandezL)
