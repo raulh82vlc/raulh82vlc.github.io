@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Fueled Reactive... Asynchronous Flow - Part 1 - Use case & Migration Strategy
+title: Fueled Reactive apps with Asynchronous Flow - Part 1
 ---
-***"Fueled Reactive apps with Asynchronous Flow - Part 1 - Use case & Migration Strategy"*** [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)
+***"Part 1 - Use case & Migration Strategy"*** [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)
