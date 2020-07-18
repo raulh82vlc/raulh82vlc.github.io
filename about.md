@@ -73,13 +73,13 @@ I do enjoy meeting new cultures, learning from others & self-learning myself, li
   - **Junior Software developer** at **Openbet** in *London (UK)* 2012-2013
   - **Junior Researcher and Android Software Engineer** at **Cranfield University** (Erasmus internship) in *Cranfield (UK)* 2012
   - **Technical Engineer In Administrative Data Processing** at **Common Council of Valencia** (contract / internship granted for *<30* recently graduates) in *Valencia (Spain)* 2010-2011
-  - **Junior Software engineer - PHP* at a "bioinformatics startup" called Biotechvana in *Valencia (Spain)* 2010
+  - **Junior Software engineer - PHP** at a "bioinformatics startup" called Biotechvana in *Valencia (Spain)* 2010
   - **IT Support and Development staff** (contract) at **Servipoli - Polytecnic University of Valencia** (uni students job granted) in *Valencia (Spain)* 2008-2009
   - **IT Support Staff** at **Valencian Institute of Statistics and applied sciencies** (internship granted) in *Valencia (Spain)* 2007-2008
 
 ### Contact me
-- [@RaulHernandezL (Twitter)](https://twitter.com/RaulHernandezL)
-- [raul.h82@gmail.com](mailto:raul.h82@gmail.com)
+- [@RaulHernandezL (my Twitter handle)](https://twitter.com/RaulHernandezL)
+- [mail-me](mailto:raul.h82@gmail.com)
 
 ### Other public profiles
 - [Raul's Medium](https://medium.com/@raul.h82/)
