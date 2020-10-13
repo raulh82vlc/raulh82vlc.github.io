@@ -8,21 +8,28 @@ permalink: /about/
 *Senior Software Engineer - Android at Twitter & Kotlin lover*
 
 ### Overview
-I would like to introduce myself as a continuous learner,
-apart from being an experienced Software Engineer,
-specialised on the Android platform & Kotlin, as well as eventual public speaker.
+I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ years experience), specialised on the Android platform (8 years) & the Kotlin language (4 years).
 
-I am from Valencia (Spain), where we use to love paella and horchata,
-nowadays I am living, working (from home) in London (UK).
+Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events: a podcast, meetups or conferences such as Droidcon: UK 2017/19, Spain 2019, EMEA 2020; GOTO Copenhagen 2019; AndroidDevPodcast, Londroid 2017 meetup or Virtual Android Makers 2020 (links to my slides are here https://speakerdeck.com/raulh82vlc). I write some articles in Medium (linked from this blog), typically not technical at the end of the year to summarize the past year and technical ones too.
+
+I am from Valencia (Spain) originally, where we use to love paella and horchata, nowadays I am living, working (from home) in London (UK) but I've also lived/worked in Antwerp (Belgium) for almost 1 year and a half.
 
 I do love travelling when I can, listening music metal/rock gigs, reading tech/no-tech books, hanging out with friends, a very cold beer or running sometime.
 
 # Work experience
 
 ## Currently
-- **Senior Software Engineer - Android** at **Twitter** in *London (UK)* for the Consumer Search Clients (CSC) team. - From *July 2018*
-  - Previously collaborated for the Live Events / Events Clients (EC) team.
-  - Previously collaborated for the Periscope / Hydra team.
+- **Senior Software Engineer - Android** at **Twitter** in *London timezone (UK) from July 2018*
+  - Currently collaborating for the Consumer Search Clients (CSC) team. Dec'19 - Nowadays.
+  - Previously collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
+  - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
+  -	Roles:
+	- Project Tech Lead (PTL).
+	- Mentor of new members in the team.
+	- Tech debt optimisations (PTL / Sphepherd).
+	- Engineer on call to fix issues (maintainer).
+	- Speaker for Internal tech events / talks.
+	- Kotlin community active member.
 
 ## Formerly
 - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* for Live Events team. - from *April the 30th 2018*
@@ -32,10 +39,12 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - **Senior Android Developer** working at a startup called *Critizen app / Next Chance Stocks SL* in *Madrid (Spain)* 2015
 - **Android Developer** and **Team Lead** (contract) at a mobile little agency called *Mobilendo* in *Valencia (Spain)* 2014-2015
 - **Software Development Engineer - C++** (contract) at the Mid-back office for **Amadeus** (on behalf of *Harvey Nash*) in *Antwerp (Belgium)* 2013-2014
+- ...more below...
 
 # Public speaking
 
 ## 2020
+- "Fueled Reactive apps with Asynchronous Flow" v2 at Droidcon EMEA [Schedule (Video soon)](https://www.online.droidcon.com/emea-speaker/raul-hernandez-lopez) / [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-v2)
 - "Fueled Reactive apps With Asynchronous Flow" related interview at AndroidDevPodcast in Spanish with David Hackro [Podcast audio interview](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
 - "Fueled Reactive apps with Asynchronous Flow" at Android Makers (France) - Virtual Android Makers edition [Video](https://youtu.be/A5CaEOOQy3M) / [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow)
 - "Qué necesita un desarrollador para alcanzar sus metas?" interview at DevExperto's "I stay at home" series in Spanish with Antonio Leiva [Video interview](https://youtu.be/igKXuX4h3HE)
@@ -51,6 +60,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public written technical articles
 
 ## 2020
+- (soon) Synchronous communication with the UI with StateFlow - Following Fueled Reactive apps with Asynchronous Flow series but in an independent article.
 - "Fueled Reactive apps with Asynchronous Flow - Part 1 - Use case & Migration Strategy" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)
 - "Fueled Reactive apps with Asynchronous Flow - Part 2 - Asynchronous communication: Streams & Basics" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-2-asynchronous-communication-streams-ed5b98f1fff8)
 - "Fueled Reactive apps with Asynchronous Flow - Part 3 - Data layer Implementation" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-3-data-layer-implementation-f6754d3f880)
