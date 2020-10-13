@@ -19,17 +19,17 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Work experience
 
 ## Currently
-- **Senior Software Engineer - Android** at **Twitter** in *London timezone (UK) from July 2018*
+**Senior Software Engineer - Android** at **Twitter** in *London timezone (UK) from July 2018*
   - Currently collaborating for the Consumer Search Clients (CSC) team. Dec'19 - Nowadays.
   - Previously collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
   - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
   -	Roles:
-	 - Project Tech Lead (PTL).
-	 - Mentor of new members in the team.
-	 - Tech debt optimisations (PTL / Sphepherd).
-	 - Engineer on call to fix issues (maintainer).
-	 - Speaker for Internal tech events / talks.
-	 - Kotlin community active member.
+    - Project Tech Lead (PTL).
+	  - Mentor of new members in the team.
+	  - Tech debt optimisations (PTL / Shepherd).
+	  - Engineer on call to fix issues (maintainer).
+	  - Speaker for Internal tech events / talks.
+	  - Kotlin community active member.
 
 ## Formerly
 - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* for Live Events team. - from *April the 30th 2018*
@@ -84,12 +84,12 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 I do enjoy meeting new cultures, learning from others & self-learning myself, listening rock / metal music, running, reading or travelling.
 
 ### Formerly work experience
-  - **Junior Software developer** at **Openbet** in *London (UK)* 2012-2013
-  - **Junior Researcher and Android Software Engineer** at **Cranfield University** (Erasmus internship) in *Cranfield (UK)* 2012
-  - **Technical Engineer In Administrative Data Processing** at **Common Council of Valencia** (contract / internship granted for *<30* recently graduates) in *Valencia (Spain)* 2010-2011
-  - **Junior Software engineer - PHP** at a "bioinformatics startup" called Biotechvana in *Valencia (Spain)* 2010
-  - **IT Support and Development staff** (contract) at **Servipoli - Polytecnic University of Valencia** (uni students job granted) in *Valencia (Spain)* 2008-2009
-  - **IT Support Staff** at **Valencian Institute of Statistics and applied sciencies** (internship granted) in *Valencia (Spain)* 2007-2008
+- **Junior Software developer** at **Openbet** in *London (UK)* 2012-2013
+- **Junior Researcher and Android Software Engineer** at **Cranfield University** (Erasmus internship) in *Cranfield (UK)* 2012
+- **Technical Engineer In Administrative Data Processing** at **Common Council of Valencia** (contract / internship granted for *<30* recently graduates) in *Valencia (Spain)* 2010-2011
+- **Junior Software engineer - PHP** at a "bioinformatics startup" called Biotechvana in *Valencia (Spain)* 2010
+- **IT Support and Development staff** (contract) at **Servipoli - Polytecnic University of Valencia** (uni students job granted) in *Valencia (Spain)* 2008-2009
+- **IT Support Staff** at **Valencian Institute of Statistics and applied sciencies** (internship granted) in *Valencia (Spain)* 2007-2008
 
 ### Contact me
 - [@RaulHernandezL (my Twitter handle)](https://twitter.com/RaulHernandezL)
