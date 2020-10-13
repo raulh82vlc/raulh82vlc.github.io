@@ -24,12 +24,12 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
   - Previously collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
   - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
   -	Roles:
-	- Project Tech Lead (PTL).
-	- Mentor of new members in the team.
-	- Tech debt optimisations (PTL / Sphepherd).
-	- Engineer on call to fix issues (maintainer).
-	- Speaker for Internal tech events / talks.
-	- Kotlin community active member.
+	 - Project Tech Lead (PTL).
+	 - Mentor of new members in the team.
+	 - Tech debt optimisations (PTL / Sphepherd).
+	 - Engineer on call to fix issues (maintainer).
+	 - Speaker for Internal tech events / talks.
+	 - Kotlin community active member.
 
 ## Formerly
 - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* for Live Events team. - from *April the 30th 2018*
@@ -60,7 +60,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public written technical articles
 
 ## 2020
-- (soon) Synchronous communication with the UI with StateFlow - Following Fueled Reactive apps with Asynchronous Flow series but in an independent article.
+- (soon) Synchronous communication with the UI using StateFlow - Following Fueled Reactive apps with Asynchronous Flow series but in an independent article.
 - "Fueled Reactive apps with Asynchronous Flow - Part 1 - Use case & Migration Strategy" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)
 - "Fueled Reactive apps with Asynchronous Flow - Part 2 - Asynchronous communication: Streams & Basics" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-2-asynchronous-communication-streams-ed5b98f1fff8)
 - "Fueled Reactive apps with Asynchronous Flow - Part 3 - Data layer Implementation" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-3-data-layer-implementation-f6754d3f880)
