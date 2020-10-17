@@ -57,7 +57,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public written technical articles
 
 ## 2020
-- Synchronous communication with the UI using StateFlow" [ProAndroidDev Article](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)
+- "Synchronous communication with the UI using StateFlow - Synchronous communication with Kotlin StateFlow" [ProAndroidDev Article](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)
 - "Fueled Reactive apps with Asynchronous Flow - Part 1 - Use case & Migration Strategy" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)
 - "Fueled Reactive apps with Asynchronous Flow - Part 2 - Asynchronous communication: Streams & Basics" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-2-asynchronous-communication-streams-ed5b98f1fff8)
 - "Fueled Reactive apps with Asynchronous Flow - Part 3 - Data layer Implementation" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-3-data-layer-implementation-f6754d3f880)
