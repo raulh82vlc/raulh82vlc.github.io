@@ -32,14 +32,11 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	  - Kotlin community active member.
 
 ## Formerly
-- **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* for Live Events team. - from *April the 30th 2018*
+- **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* - from *April the 30th to July 2018*. Collaborating for Live Events team.
 - **Lead Android Developer / Chapter Android Lead** at **Touch Surgery** in *London (UK)* June 2017 until April the 27th 2018
 - **Senior Android Developer** at *Supe app / Rise Project UK* *London (UK)* 2016-2017
 - **Android developer** at **YouView** in *London (UK)* 2015-2016
-- **Senior Android Developer** working at a startup called *Critizen app / Next Chance Stocks SL* in *Madrid (Spain)* 2015
-- **Android Developer** and **Team Lead** (contract) at a mobile little agency called *Mobilendo* in *Valencia (Spain)* 2014-2015
-- **Software Development Engineer - C++** (contract) at the Mid-back office for **Amadeus** (on behalf of *Harvey Nash*) in *Antwerp (Belgium)* 2013-2014
-- ...more below...
+- ...more at the bottom section...
 
 # Public speaking
 
@@ -60,7 +57,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public written technical articles
 
 ## 2020
-- (soon) Synchronous communication with the UI using StateFlow - Following Fueled Reactive apps with Asynchronous Flow series but in an independent article.
+- Synchronous communication with the UI using StateFlow" [ProAndroidDev Article](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)
 - "Fueled Reactive apps with Asynchronous Flow - Part 1 - Use case & Migration Strategy" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)
 - "Fueled Reactive apps with Asynchronous Flow - Part 2 - Asynchronous communication: Streams & Basics" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-2-asynchronous-communication-streams-ed5b98f1fff8)
 - "Fueled Reactive apps with Asynchronous Flow - Part 3 - Data layer Implementation" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-3-data-layer-implementation-f6754d3f880)
@@ -83,7 +80,10 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 ## Hobbies
 I do enjoy meeting new cultures, learning from others & self-learning myself, listening rock / metal music, running, reading or travelling.
 
-### Formerly work experience
+### Extension of Formerly work experience
+- **Senior Android Developer** working at a startup called *Critizen app / Next Chance Stocks SL* in *Madrid (Spain)* 2015
+- **Android Developer** and **Team Lead** (contract) at a mobile little agency called *Mobilendo* in *Valencia (Spain)* 2014-2015
+- **Software Development Engineer - C++** (contract) at the Mid-back office for **Amadeus** (on behalf of *Harvey Nash*) in *Antwerp (Belgium)* 2013-2014
 - **Junior Software developer** at **Openbet** in *London (UK)* 2012-2013
 - **Junior Researcher and Android Software Engineer** at **Cranfield University** (Erasmus internship) in *Cranfield (UK)* 2012
 - **Technical Engineer In Administrative Data Processing** at **Common Council of Valencia** (contract / internship granted for *<30* recently graduates) in *Valencia (Spain)* 2010-2011
