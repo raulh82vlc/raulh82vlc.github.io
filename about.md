@@ -10,7 +10,7 @@ permalink: /about/
 ### Overview
 I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ years experience), specialised on the Android platform (8 years) & the Kotlin language (4 years).
 
-Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events: a podcast, meetups or conferences such as Droidcon: UK 2017/19, Spain 2019, EMEA 2020; GOTO Copenhagen 2019; AndroidDevPodcast, Londroid 2017 meetup or Virtual Android Makers 2020 (links to my slides are here https://speakerdeck.com/raulh82vlc). I write some articles in Medium (linked from this blog), typically not technical at the end of the year to summarize the past year and technical ones too.
+Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events: a podcast, meetups or conferences such as Droidcon: UK 2017/19, Spain 2019, EMEA 2020; GOTO Copenhagen 2019; AndroidDevPodcast, Londroid 2017 meetup or Virtual Android Makers 2020 - [presentations slides index](https://speakerdeck.com/raulh82vlc). I write some articles in Medium (linked from this blog too), typically not technical at the end of the year to summarize the past year and technical ones too.
 
 I am from Valencia (Spain) originally, where we use to love paella and horchata, nowadays I am living, working (from home) in London (UK) but I've also lived/worked in Antwerp (Belgium) for almost 1 year and a half.
 
@@ -25,11 +25,11 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
   - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
   -	Roles:
     - Project Tech Lead (PTL).
-	  - Mentor of new members in the team.
-	  - Tech debt optimisations (PTL / Shepherd).
-	  - Engineer on call to fix issues (maintainer).
-	  - Speaker for Internal tech events / talks.
-	  - Kotlin community active member.
+	- Mentor of new members in the team.
+	- Tech debt optimisations (PTL / Tech design shepherd).
+	- Engineer on call to fix issues (maintainer).
+	- Speaker for Internal tech events / talks.
+	- Kotlin community active member (Kotlin shepherd).
 
 ## Formerly
 - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* - from *April the 30th to July 2018*. Collaborating for Live Events team.
