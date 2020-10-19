@@ -55,13 +55,13 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public written technical articles
 
 ## 2020
-- "Synchronous communication with the UI using StateFlow - Synchronous communication with Kotlin StateFlow" featured at [Android #436](https://androidweekly.net/issues/issue-436) & [Kotlin #220](https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=08b17a8df5) / Weekly - [ProAndroidDev Article link](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)
-- "Fueled Reactive apps with Asynchronous Flow - Part 1 - Use case & Migration Strategy" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)
-- "Fueled Reactive apps with Asynchronous Flow - Part 2 - Asynchronous communication: Streams & Basics" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-2-asynchronous-communication-streams-ed5b98f1fff8)
-- "Fueled Reactive apps with Asynchronous Flow - Part 3 - Data layer Implementation" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-3-data-layer-implementation-f6754d3f880)
-- "Fueled Reactive apps with Asynchronous Flow - Part 4 - Use Case layer Implementation" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-4-use-case-layer-implementation-98737af8130a)
+- "Synchronous communication with the UI using StateFlow" featured at [Android #436](https://androidweekly.net/issues/issue-436) & [Kotlin #220](https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=08b17a8df5) / Weekly - [ProAndroidDev Article link](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)
+- "Fueled Reactive apps with Asynchronous Flow - Part 6 - Lessons learned & Next steps"  featured at [Android #421](https://mailchi.mp/androidweekly/android-weekly-421) & [Kotlin #205](https://mailchi.mp/kotlinweekly/kotlin-weekly-205) [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-6-lessons-learned-next-steps-59d853dc4b97)
 - "Fueled Reactive apps with Asynchronous Flow - Part 5 - View Delegate Implementation" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-5-view-delegate-implementation-61a47a727e95)
-- "Fueled Reactive apps with Asynchronous Flow - Part 6 - Lessons learned & Next steps" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-6-lessons-learned-next-steps-59d853dc4b97)
+- "Fueled Reactive apps with Asynchronous Flow - Part 4 - Use Case layer Implementation" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-4-use-case-layer-implementation-98737af8130a)
+- "Fueled Reactive apps with Asynchronous Flow - Part 3 - Data layer Implementation" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-3-data-layer-implementation-f6754d3f880)
+- "Fueled Reactive apps with Asynchronous Flow - Part 2 - Asynchronous communication: Streams & Basics" [ProAndroidDev Article](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-2-asynchronous-communication-streams-ed5b98f1fff8)
+- "Fueled Reactive apps with Asynchronous Flow - Part 1 - Use case & Migration Strategy" [ProAndroidDev Article link](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)
 
 ## 2018
 - "Learning functional programming at Twitter’s #Hackweek #1" [Article](https://medium.com/@raul.h82/learning-functional-programming-at-twitters-hackweek-1-10612f74ffe2)
