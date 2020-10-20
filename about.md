@@ -29,7 +29,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- Tech debt optimisations (PTL / Tech design shepherd).
 	- Engineer on call to fix issues (maintainer).
 	- Speaker for Internal tech events / talks.
-	- Kotlin community active member (Kotlin shepherd).
+	- Kotlin community active member (Kotlin & QE Automation shepherd).
 
 ## Formerly
 - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* - from *April the 30th to July 2018*. Collaborating for Live Events team.
@@ -39,18 +39,38 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public speaking
 
 ## 2020
-- "Fueled Reactive apps with Asynchronous Flow" v2 at Droidcon EMEA [Schedule (Video soon)](https://www.online.droidcon.com/emea-speaker/raul-hernandez-lopez) / [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-v2)
-- "Fueled Reactive apps With Asynchronous Flow" related interview at AndroidDevPodcast in Spanish with David Hackro [Podcast audio interview](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
-- "Fueled Reactive apps with Asynchronous Flow" at Android Makers (France) - Virtual Android Makers edition [Video](https://youtu.be/A5CaEOOQy3M) / [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow)
+- ***"Fueled Reactive apps with Asynchronous Flow" v2*** at Droidcon EMEA.
+	- Featured at [Kotlin #221 Weekly](https://mailchi.mp/kotlinweekly/kotlin-weekly-221)
+	- v2 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / StateFlow / Channels.
+	- [Video](https://www.droidcon.com/media-detail?video=470160616)
+	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-v2)
+	- v2 Basics section was reduced going to the key points only in order to include a new section migrating Clean Architecture Callbacks on behalf of Kotlin StateFlow for Synchronous communication with the UI.
+- ***Fueled Reactive apps with Asynchronous Flow"*** interview at AndroidDevPodcast (in Spanish) with David Hackro
+	- [Podcast audio interview](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
+	- We discussed step by step, talking about keypoints and reasoning behind why we would like to migrate a well-assembled app with a pre-existing foundation using RxJava 2 to use Kotlin Flow and friends instead.
+- ***"Fueled Reactive apps with Asynchronous Flow"*** v1 at Android Makers (France) - Virtual Android Makers edition.
+	- v1 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / Channels.
+	- [Video](https://youtu.be/A5CaEOOQy3M)
+	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow)
+	-  v1 includes a longer Basics section as well as Asynchronous communication section. Migration for Clean Architecture and View Delegates to Kotlin Flow & Channels with Coroutines. Callbacks still pass results from the Use Cases / Interactors.
 - "Qué necesita un desarrollador para alcanzar sus metas?" interview at DevExperto's "I stay at home" series in Spanish with Antonio Leiva [Video interview](https://youtu.be/igKXuX4h3HE)
 
 ## 2019 
-- "Pushing Dynamic Features Your Users Want, As Quick As They Want Them" at Droidcon UK (London), Droidcon Spain (Madrid), Droidcon Austria (Vienna), GOTO Copenhagen (Denmark) [Video UK](https://www.droidcon.com/media-detail?video=392830637) / [Slides](https://speakerdeck.com/raulh82vlc/pushing-dynamic-features-your-users-want-as-quick-as-they-want-them)
+- "Pushing Dynamic Features Your Users Want, As Quick As They Want Them"
+	- Given at Droidcon UK (London), Droidcon Spain (Madrid), Droidcon Austria (Vienna), GOTO Copenhagen (Denmark)
+	- [Video Droidcon UK](https://www.droidcon.com/media-detail?video=392830637)
+	- [Slides](https://speakerdeck.com/raulh82vlc/pushing-dynamic-features-your-users-want-as-quick-as-they-want-them)
 
 ## 2017
-- "Building a Minimum Viable Product (MVP) with Face recognition and AR" at Droidcon UK (London) [Info & video](https://skillsmatter.com/skillscasts/10786-building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android) / [Slides](https://speakerdeck.com/raulh82vlc/building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android-at-droidcon-london-2017)
-- Light talk “Quest of a Hero” Londroid April 2017 [Info & Video](https://skillsmatter.com/skillscasts/10128-quest-of-a-hero) / [Slides](https://speakerdeck.com/raulh82vlc/quest-of-a-hero-at-londroid-april-2017)
-- Light talk “From junior to experienced in few years” at Freakend Mobile 2017 [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be) / [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
+- "Building a Minimum Viable Product (MVP) with Face recognition and AR" at Droidcon UK (London)
+	- [Info & video](https://skillsmatter.com/skillscasts/10786-building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android)
+	- [Slides](https://speakerdeck.com/raulh82vlc/building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android-at-droidcon-london-2017)
+- Light talk “Quest of a Hero” Londroid April
+	- [Info & Video](https://skillsmatter.com/skillscasts/10128-quest-of-a-hero)
+	- [Slides](https://speakerdeck.com/raulh82vlc/quest-of-a-hero-at-londroid-april-2017)
+- Light talk “From junior to experienced in few years” at Freakend Mobile
+	- [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be)
+	- [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
 
 # Public written technical articles
 
