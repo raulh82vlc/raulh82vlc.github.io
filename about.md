@@ -39,7 +39,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public speaking
 
 ## 2020
-- "Fueled Reactive apps with Asynchronous Flow" v2 at Droidcon EMEA [Schedule (Video soon)](https://www.online.droidcon.com/emea-speaker/raul-hernandez-lopez) / [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-v2)
+- "Fueled Reactive apps with Asynchronous Flow" v2 at Droidcon EMEA [Video](https://www.droidcon.com/media-detail?video=470160616) / [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-v2)
 - "Fueled Reactive apps With Asynchronous Flow" related interview at AndroidDevPodcast in Spanish with David Hackro [Podcast audio interview](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
 - "Fueled Reactive apps with Asynchronous Flow" at Android Makers (France) - Virtual Android Makers edition [Video](https://youtu.be/A5CaEOOQy3M) / [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow)
 - "Qué necesita un desarrollador para alcanzar sus metas?" interview at DevExperto's "I stay at home" series in Spanish with Antonio Leiva [Video interview](https://youtu.be/igKXuX4h3HE)
@@ -49,8 +49,8 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## 2017
 - "Building a Minimum Viable Product (MVP) with Face recognition and AR" at Droidcon UK (London) [Info & video](https://skillsmatter.com/skillscasts/10786-building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android) / [Slides](https://speakerdeck.com/raulh82vlc/building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android-at-droidcon-london-2017)
-- Light talk “Quest of a Hero” Londroid April 2017 [Info & Video](https://skillsmatter.com/skillscasts/10128-quest-of-a-hero) / [Slides](https://speakerdeck.com/raulh82vlc/quest-of-a-hero-at-londroid-april-2017)
-- Light talk “From junior to experienced in few years” at Freakend Mobile 2017 [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be) / [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
+- Light talk “Quest of a Hero” Londroid April [Info & Video](https://skillsmatter.com/skillscasts/10128-quest-of-a-hero) / [Slides](https://speakerdeck.com/raulh82vlc/quest-of-a-hero-at-londroid-april-2017)
+- Light talk “From junior to experienced in few years” at Freakend Mobile [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be) / [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
 
 # Public written technical articles
 
