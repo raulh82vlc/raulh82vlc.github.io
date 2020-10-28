@@ -39,15 +39,15 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public speaking
 
 ## 2020
-- ***"Fueled Reactive apps with Asynchronous Flow" v2*** at Droidcon EMEA.
+- ***"Fueled Reactive apps with Asynchronous Flow"*** v2 at Droidcon EMEA.
 	- Featured at [Kotlin #221 Weekly](https://mailchi.mp/kotlinweekly/kotlin-weekly-221)
 	- v2 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / StateFlow / Channels.
 	- [Video](https://www.droidcon.com/media-detail?video=470160616)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-v2)
 	- v2 Basics section was reduced going to the key points only in order to include a new section migrating Clean Architecture Callbacks on behalf of Kotlin StateFlow for Synchronous communication with the UI.
-- ***Fueled Reactive apps with Asynchronous Flow"*** interview at AndroidDevPodcast (in Spanish) with David Hackro
+- ***"Fueled Reactive apps with Asynchronous Flow"*** interview at AndroidDevPodcast (in Spanish) with David Hackro
 	- [Podcast audio interview](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
-	- We discussed step by step, talking about keypoints and reasoning behind why we would like to migrate a well-assembled app with a pre-existing foundation using RxJava 2 to use Kotlin Flow and friends instead.
+	- We discussed step by step, talking about keypoints and reasoning behind why we would like to migrate a well-assembled Android app with a pre-existing foundation using RxJava 2 to use Kotlin Flow and friends instead.
 - ***"Fueled Reactive apps with Asynchronous Flow"*** v1 at Android Makers (France) - Virtual Android Makers edition.
 	- v1 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / Channels.
 	- [Video](https://youtu.be/A5CaEOOQy3M)
