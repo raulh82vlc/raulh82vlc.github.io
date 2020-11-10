@@ -39,11 +39,14 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public speaking
 
 ## 2020
-- ***"Fueled Reactive apps with Asynchronous Flow"*** v2 at Droidcon EMEA.
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Madrid Android Developer Group (MADG) meetup (in Spanish).
+	- [Event the 10th Nov](https://www.meetup.com/madrid-android-dev-group/events/274389213)
+	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** v2 at Droidcon EMEA.
 	- Featured at [Kotlin #221 Weekly](https://mailchi.mp/kotlinweekly/kotlin-weekly-221)
 	- v2 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / StateFlow / Channels.
 	- [Video](https://www.droidcon.com/media-detail?video=470160616)
-	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-v2)
+	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- v2 Basics section was reduced going to the key points only in order to include a new section migrating Clean Architecture Callbacks on behalf of Kotlin StateFlow for Synchronous communication with the UI.
 - ***"Fueled Reactive apps with Asynchronous Flow"*** interview at AndroidDevPodcast (in Spanish) with David Hackro
 	- [Podcast audio interview](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
