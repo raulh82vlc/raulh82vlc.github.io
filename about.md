@@ -65,8 +65,11 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## 2019 
 - "Pushing Dynamic Features Your Users Want, As Quick As They Want Them"
-	- Given at Droidcon UK (London), Droidcon Spain (Madrid), Droidcon Austria (Vienna), GOTO Copenhagen (Denmark)
+	- Given at Droidcon UK (London) October:
 	- [Video Droidcon UK](https://www.droidcon.com/media-detail?video=392830637)
+	- Given at Droidcon Spain (Madrid) December
+	- [Video Droidcon Spain](https://youtu.be/QbPQjwKjcaQ)
+	- Also given at Droidcon Austria (Vienna) September & GOTO Copenhagen (Denmark) November
 	- [Slides](https://speakerdeck.com/raulh82vlc/pushing-dynamic-features-your-users-want-as-quick-as-they-want-them)
 
 ## 2017
