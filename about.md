@@ -39,9 +39,14 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public speaking
 
 ## 2020
-- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Madrid Android Developer Group (MADG) meetup (in Spanish).
-	- [Event the 10th Nov](https://www.meetup.com/madrid-android-dev-group/events/274389213)
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Kotlin London meetup.
+	- Video (soon)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
+	- Agenda on December the 2nd (soon)
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Madrid Android Developer Group (MADG) meetup (in Spanish).
+	- [Video](https://youtu.be/s8tJK3hlmmo?t=4225)
+	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
+	- [Event Agenda on Nov the 10th](https://www.meetup.com/madrid-android-dev-group/events/274389213)
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** v2 at Droidcon EMEA.
 	- Featured at [Kotlin #221 Weekly](https://mailchi.mp/kotlinweekly/kotlin-weekly-221)
 	- v2 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / StateFlow / Channels.
