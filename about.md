@@ -45,7 +45,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Kotlin London meetup.
 	- [Videos list](https://www.youtube.com/c/kotlinlondon/) - soon available after meeting happens
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
-	- [Event Agenda on December the 2nd)[https://www.meetup.com/kotlin-london/events/274549174/]
+	- [Event Agenda on December the 2nd](https://www.meetup.com/kotlin-london/events/274549174/)
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Madrid Android Developer Group (MADG) meetup (in Spanish).
 	- [Video](https://youtu.be/s8tJK3hlmmo?t=4225)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
@@ -68,21 +68,21 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## 2019 
 - "Pushing Dynamic Features Your Users Want, As Quick As They Want Them".
-	- Given at Droidcon UK (London) October:
-		- [Video Droidcon UK](https://www.droidcon.com/media-detail?video=392830637)
-	- Given at Droidcon Spain (Madrid) December:
-		- [Video Droidcon Spain](https://youtu.be/QbPQjwKjcaQ)
-	- Also given at Droidcon Austria (Vienna) September & GOTO Copenhagen (Denmark) November.
+	- Given at Droidcon Spain (Madrid) in December:
+		- [Video](https://youtu.be/QbPQjwKjcaQ)
+	- Given at Droidcon UK (London) in October:
+		- [Video](https://www.droidcon.com/media-detail?video=392830637)
+	- In addition to [GOTO Copenhagen](https://gotocph.com/2019/sessions/1133/pushing-dynamic-features-your-users-want-as-quick-as-they-want-them) (Denmark) in November & [Droidcon Austria](https://twitter.com/RaulHernandezL/status/1175024220889391115) (Vienna) in September.
 	- [Slides](https://speakerdeck.com/raulh82vlc/pushing-dynamic-features-your-users-want-as-quick-as-they-want-them)
 
 ## 2017
-- "Building a Minimum Viable Product (MVP) with Face recognition and AR" at Droidcon UK (London).
+- "Building a Minimum Viable Product (MVP) with Face recognition and AR" at Droidcon UK (London) in October.
 	- [Info & video](https://skillsmatter.com/skillscasts/10786-building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android)
 	- [Slides](https://speakerdeck.com/raulh82vlc/building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android-at-droidcon-london-2017)
 - Light talk “Quest of a Hero” at Londroid April.
 	- [Info & Video](https://skillsmatter.com/skillscasts/10128-quest-of-a-hero)
 	- [Slides](https://speakerdeck.com/raulh82vlc/quest-of-a-hero-at-londroid-april-2017)
-- Light talk “From junior to experienced in few years” at Freakend Mobile.
+- Light talk “From junior to experienced in few years” at Freakend Mobile in February.
 	- [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be)
 	- [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
 
