@@ -30,6 +30,9 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- Engineer on call to fix issues (maintainer).
 	- Speaker for Internal tech events / talks.
 	- Kotlin community active member (Kotlin & QE Automation shepherd).
+	- Active interviewer for hiring new candidates for:
+		- All levels: SWE 1 to Sr SWE.
+		- All surfaces / platforms: Android -> specific expertise interview or iOS & RWEB -> general technical interviews.
 
 ## Formerly
 - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* - from *April the 30th to July 2018*. Collaborating for Live Events team.
@@ -40,9 +43,9 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## 2020
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Kotlin London meetup.
-	- Video (soon)
+	- [Videos list](https://www.youtube.com/c/kotlinlondon/) - soon available after meeting happens
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
-	- Agenda on December the 2nd (soon)
+	- [Event Agenda on December the 2nd)[https://www.meetup.com/kotlin-london/events/274549174/]
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Madrid Android Developer Group (MADG) meetup (in Spanish).
 	- [Video](https://youtu.be/s8tJK3hlmmo?t=4225)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
@@ -64,22 +67,22 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - "Qué necesita un desarrollador para alcanzar sus metas?" interview at DevExperto's "I stay at home" series in Spanish with Antonio Leiva [Video interview](https://youtu.be/igKXuX4h3HE)
 
 ## 2019 
-- "Pushing Dynamic Features Your Users Want, As Quick As They Want Them"
+- "Pushing Dynamic Features Your Users Want, As Quick As They Want Them".
 	- Given at Droidcon UK (London) October:
-	- [Video Droidcon UK](https://www.droidcon.com/media-detail?video=392830637)
-	- Given at Droidcon Spain (Madrid) December
-	- [Video Droidcon Spain](https://youtu.be/QbPQjwKjcaQ)
-	- Also given at Droidcon Austria (Vienna) September & GOTO Copenhagen (Denmark) November
+		- [Video Droidcon UK](https://www.droidcon.com/media-detail?video=392830637)
+	- Given at Droidcon Spain (Madrid) December:
+		- [Video Droidcon Spain](https://youtu.be/QbPQjwKjcaQ)
+	- Also given at Droidcon Austria (Vienna) September & GOTO Copenhagen (Denmark) November.
 	- [Slides](https://speakerdeck.com/raulh82vlc/pushing-dynamic-features-your-users-want-as-quick-as-they-want-them)
 
 ## 2017
-- "Building a Minimum Viable Product (MVP) with Face recognition and AR" at Droidcon UK (London)
+- "Building a Minimum Viable Product (MVP) with Face recognition and AR" at Droidcon UK (London).
 	- [Info & video](https://skillsmatter.com/skillscasts/10786-building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android)
 	- [Slides](https://speakerdeck.com/raulh82vlc/building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android-at-droidcon-london-2017)
-- Light talk “Quest of a Hero” Londroid April
+- Light talk “Quest of a Hero” at Londroid April.
 	- [Info & Video](https://skillsmatter.com/skillscasts/10128-quest-of-a-hero)
 	- [Slides](https://speakerdeck.com/raulh82vlc/quest-of-a-hero-at-londroid-april-2017)
-- Light talk “From junior to experienced in few years” at Freakend Mobile
+- Light talk “From junior to experienced in few years” at Freakend Mobile.
 	- [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be)
 	- [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
 
