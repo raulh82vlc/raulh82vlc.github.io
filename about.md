@@ -42,29 +42,34 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public speaking
 
 ## 2020
-- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Kotlin London meetup.
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Kotlin London User Group (KUG) meetup.
 	- [Videos list](https://www.youtube.com/c/kotlinlondon/) - soon available after meeting happens
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Event Agenda on December the 2nd](https://www.meetup.com/kotlin-london/events/274549174/)
-- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Madrid Android Developer Group (MADG) meetup (in Spanish).
-	- [Video](https://youtu.be/s8tJK3hlmmo?t=4225)
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Kotlin Munich User Group (KUG) meetup.
+	- [Video](https://youtu.be/WQ9SVCxvfjE?t=2758)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
-	- [Event Agenda on Nov the 10th](https://www.meetup.com/madrid-android-dev-group/events/274389213)
+	- [Event Agenda on November the 18th](https://www.meetup.com/Kotlin-User-Group-Munich/events/274387028/)
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Madrid Android Developer Group (MADG) meetup.
+	- [Video (in Spanish)](https://youtu.be/s8tJK3hlmmo?t=4225)
+	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
+	- [Event Agenda on November the 10th](https://www.meetup.com/madrid-android-dev-group/events/274389213)
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** v2 at Droidcon EMEA.
 	- Featured at [Kotlin #221 Weekly](https://mailchi.mp/kotlinweekly/kotlin-weekly-221)
 	- v2 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / StateFlow / Channels.
 	- [Video](https://www.droidcon.com/media-detail?video=470160616)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- v2 Basics section was reduced going to the key points only in order to include a new section migrating Clean Architecture Callbacks on behalf of Kotlin StateFlow for Synchronous communication with the UI.
-- ***"Fueled Reactive apps with Asynchronous Flow"*** interview at AndroidDevPodcast (in Spanish) with David Hackro
-	- [Podcast audio interview](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
+- ***"Fueled Reactive apps with Asynchronous Flow"*** interview at AndroidDevPodcast with David Hackro
+	- [Podcast audio interview (in Spanish)](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
 	- We discussed step by step, talking about keypoints and reasoning behind why we would like to migrate a well-assembled Android app with a pre-existing foundation using RxJava 2 to use Kotlin Flow and friends instead.
 - ***"Fueled Reactive apps with Asynchronous Flow"*** v1 at Android Makers (France) - Virtual Android Makers edition.
 	- v1 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / Channels.
 	- [Video](https://youtu.be/A5CaEOOQy3M)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow)
 	-  v1 includes a longer Basics section as well as Asynchronous communication section. Migration for Clean Architecture and View Delegates to Kotlin Flow & Channels with Coroutines. Callbacks still pass results from the Use Cases / Interactors.
-- "Qué necesita un desarrollador para alcanzar sus metas?" interview at DevExperto's "I stay at home" series in Spanish with Antonio Leiva [Video interview](https://youtu.be/igKXuX4h3HE)
+- "Qué necesita un desarrollador para alcanzar sus metas?" interview at DevExperto's "I stay at home" series with Antonio Leiva.
+	- [Video interview (in Spanish)](https://youtu.be/igKXuX4h3HE)
 
 ## 2019 
 - "Pushing Dynamic Features Your Users Want, As Quick As They Want Them".
