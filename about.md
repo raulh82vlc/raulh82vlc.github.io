@@ -42,8 +42,12 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public speaking
 
 ## 2020
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Droidcon APAC.
+	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
+	- [Agenda on December the 14th](https://www.online.droidcon.com/agenda-apac)
+	- (Video soon)
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Kotlin London User Group (KUG) meetup.
-	- [Videos list](https://www.youtube.com/c/kotlinlondon/) - soon available after meeting happens
+	- [Videos](https://youtu.be/2k5SWJiFOd0?t=236)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Event Agenda on December the 2nd](https://www.meetup.com/kotlin-london/events/274549174/)
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at Kotlin Munich User Group (KUG) meetup.
