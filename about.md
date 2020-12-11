@@ -51,7 +51,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Event Agenda on December the 2nd](https://www.meetup.com/kotlin-london/events/274549174/)
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Kotlin Munich*** User Group (KUG) meetup.
-	- [Video](https://youtu.be/WQ9SVCxvfjE?t=2758)
+	- [Video](https://youtu.be/WQ9SVCxvfjE?t=2758) featured at [Kotlin #225](https://mailchi.mp/kotlinweekly/kotlin-weekly-225) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Event Agenda on November the 18th](https://www.meetup.com/Kotlin-User-Group-Munich/events/274387028/)
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Madrid Android*** Developer Group (MADG) meetup.
