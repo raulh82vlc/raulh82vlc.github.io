@@ -43,7 +43,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## 2020
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Droidcon APAC***.
-	- [Video](https://droidcon.com/media-detail?video=491053236)
+	- [Video](https://droidcon.com/media-detail?video=491053236) featured at [Kotlin #229](https://mailchi.mp/kotlinweekly/kotlin-weekly-229) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Agenda on December the 14th](https://www.online.droidcon.com/agenda-apac)
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Kotlin London*** User Group (KUG) meetup.
@@ -139,5 +139,5 @@ I do enjoy meeting new cultures, learning from others & self-learning myself, li
 - [mail-me](mailto:raul.h82@gmail.com)
 
 ### Other public profiles
-- [Raul's Medium](https://medium.com/@raul.h82/)
+- [Raul's Medium](https://raul-h82.medium.com/)
 - [Raul's LinkedIn](https://www.linkedin.com/in/raulhernandezl/)
