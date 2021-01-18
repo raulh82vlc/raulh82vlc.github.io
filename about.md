@@ -86,7 +86,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- [Video interview (in Spanish)](https://youtu.be/igKXuX4h3HE)
 
 ## 2019 
-- "Pushing Dynamic Features Your Users Want, As Quick As They Want Them".
+- ***"Pushing Dynamic Features Your Users Want, As Quick As They Want Them"***.
 	- Given at Droidcon Spain (Madrid) in December:
 		- [Video](https://youtu.be/QbPQjwKjcaQ)
 	- Given at Droidcon UK (London) in October:
@@ -95,13 +95,13 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- [Slides](https://speakerdeck.com/raulh82vlc/pushing-dynamic-features-your-users-want-as-quick-as-they-want-them)
 
 ## 2017
-- "Building a Minimum Viable Product (MVP) with Face recognition and AR" at Droidcon UK (London) in October.
+- ***"Building a Minimum Viable Product (MVP) with Face recognition and AR"*** at Droidcon UK (London) in October.
 	- [Info & video](https://skillsmatter.com/skillscasts/10786-building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android)
 	- [Slides](https://speakerdeck.com/raulh82vlc/building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android-at-droidcon-london-2017)
-- Light talk “Quest of a Hero” at Londroid April.
+- Light talk ***“Quest of a Hero”*** at Londroid April.
 	- [Info & Video](https://skillsmatter.com/skillscasts/10128-quest-of-a-hero)
 	- [Slides](https://speakerdeck.com/raulh82vlc/quest-of-a-hero-at-londroid-april-2017)
-- Light talk “From junior to experienced in few years” at Freakend Mobile in February.
+- Light talk ***“From junior to experienced in few years”*** at Freakend Mobile in February.
 	- [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be)
 	- [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
 
