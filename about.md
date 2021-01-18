@@ -49,7 +49,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- Slides soon
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***DevFest DACH 2020 (Germany, Austria & Switzerland)*** (Jan).
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
-	- [Agenda of DevFest the delay version, on January the 24th](https://gdg.community.dev/events/details/google-gdg-dusseldorf-presents-devfest-dach-2020-edition-the-delayed/)
+	- [Agenda of DevFest DACH 2020, the Delayed version on January the 24th](https://gdg.community.dev/events/details/google-gdg-dusseldorf-presents-devfest-dach-2020-edition-the-delayed/)
 
 ## 2020
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Droidcon APAC*** (Dec).
