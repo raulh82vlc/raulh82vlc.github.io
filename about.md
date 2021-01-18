@@ -10,7 +10,7 @@ permalink: /about/
 ### Overview
 I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ years experience), specialised on the Android platform (8 years) & the Kotlin language (4 years).
 
-Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events: a podcast, meetups or conferences such as Droidcon: UK 2017/19, Spain 2019, EMEA 2020; GOTO Copenhagen 2019; AndroidDevPodcast, Londroid 2017 meetup or Virtual Android Makers 2020 - [presentations slides index](https://speakerdeck.com/raulh82vlc). I write some articles in Medium (linked from this blog too), typically not technical at the end of the year to summarize the past year and technical ones too.
+Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events like a podcast, meetups or conferences such as Droidcon: UK'17 & '19, Spain'19, EMEA & APAC'20; FOSDEM'21; GOTO Copenhagen'19; AndroidDevPodcast Jul'20; Kotlin London Dec'20, MADG Spain Nov'20 or Londroid April'17 meetups - [presentations slides index](https://speakerdeck.com/raulh82vlc). I write some articles in Medium (linked from this blog too), typically not technical at the end of the year to summarize the past year and technical ones too.
 
 I am from Valencia (Spain) originally, where we use to love paella and horchata, nowadays I am living, working (from home) in London (UK) but I've also lived/worked in Antwerp (Belgium) for almost 1 year and a half.
 
@@ -42,47 +42,47 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public speaking
 
 ## 2021
-- ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***FOSDEM 2021***.
+- ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***FOSDEM 2021*** (Feb).
 	- [Talk abstract on February the 7th](https://fosdem.org/2021/schedule/event/declarative_ready_unidirectionaldataflow_with_coroutines/)
 	- [Kotlin devroom agenda](https://fosdem.org/2021/schedule/track/kotlin/)
 	- Video soon
 	- Slides soon
-- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***DevFest DACH 2020 (Germany, Austria & Switzerland)***.
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***DevFest DACH 2020 (Germany, Austria & Switzerland)*** (Jan).
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
-	- [Agenda on January the 24th](https://gdg.community.dev/events/details/google-gdg-dusseldorf-presents-devfest-dach-2020-edition-the-delayed/)
+	- [Agenda of DevFest the delay version, on January the 24th](https://gdg.community.dev/events/details/google-gdg-dusseldorf-presents-devfest-dach-2020-edition-the-delayed/)
 
 ## 2020
-- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Droidcon APAC***.
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Droidcon APAC*** (Dec).
 	- [Video](https://droidcon.com/media-detail?video=491053236) featured at [Kotlin #229](https://mailchi.mp/kotlinweekly/kotlin-weekly-229) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Agenda on December the 14th](https://www.online.droidcon.com/agenda-apac)
-- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Kotlin London*** User Group (KUG) meetup.
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Kotlin London*** User Group (KUG) meetup (Dec).
 	- [Video](https://youtu.be/2k5SWJiFOd0?t=236)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Event Agenda on December the 2nd](https://www.meetup.com/kotlin-london/events/274549174/)
-- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Kotlin Munich*** User Group (KUG) meetup.
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Kotlin Munich*** User Group (KUG) meetup (Nov).
 	- [Video](https://youtu.be/WQ9SVCxvfjE?t=2758) featured at [Kotlin #225](https://mailchi.mp/kotlinweekly/kotlin-weekly-225) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Event Agenda on November the 18th](https://www.meetup.com/Kotlin-User-Group-Munich/events/274387028/)
-- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Madrid Android*** Developer Group (MADG) meetup.
+- ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Madrid Android*** Developer Group (MADG) meetup (Nov).
 	- [Video (in Spanish)](https://youtu.be/s8tJK3hlmmo?t=4225)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Event Agenda on November the 10th](https://www.meetup.com/madrid-android-dev-group/events/274389213)
-- ***"Fueled Reactive apps with Asynchronous Flow (& StateFlow to Sync with the UI)"*** at ***Droidcon EMEA***.
+- ***"Fueled Reactive apps with Asynchronous Flow (& StateFlow to Sync with the UI)"*** at ***Droidcon EMEA*** (Oct).
 	- Featured at [Kotlin #221 Weekly](https://mailchi.mp/kotlinweekly/kotlin-weekly-221)
 	- v2 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / StateFlow / Channels.
 	- [Video](https://www.droidcon.com/media-detail?video=470160616)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- v2 Basics section was reduced going to the key points only in order to include a new section migrating Clean Architecture Callbacks on behalf of Kotlin StateFlow for Synchronous communication with the UI.
-- ***"Fueled Reactive apps with Asynchronous Flow"*** interview at ***AndroidDevPodcast*** with David Hackro
+- ***"Fueled Reactive apps with Asynchronous Flow"*** interview at ***AndroidDevPodcast*** with David Hackro (Jul)
 	- [Podcast audio interview (in Spanish)](https://androiddevpodcast.com/podcast/fueled-reactive-apps-with-asynchronous-flow/)
 	- We discussed step by step, talking about keypoints and reasoning behind why we would like to migrate a well-assembled Android app with a pre-existing foundation using RxJava 2 to use Kotlin Flow and friends instead.
-- ***"Fueled Reactive apps with Asynchronous Flow"*** v1 at ***Android Makers*** (Paris, France) - ***Virtual Android Makers*** edition.
+- ***"Fueled Reactive apps with Asynchronous Flow"*** v1 at ***Android Makers*** (Paris, France) - ***Virtual Android Makers*** edition (Apr).
 	- v1 explains in detail a full migration from RxJava 2 to Kotlin Coroutines & Flows / Channels.
 	- [Video](https://youtu.be/A5CaEOOQy3M)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow)
 	-  v1 includes a longer Basics section as well as Asynchronous communication section. Migration for Clean Architecture and View Delegates to Kotlin Flow & Channels with Coroutines. Callbacks still pass results from the Use Cases / Interactors.
-- "Qué necesita un desarrollador para alcanzar sus metas?" interview at ***DevExperto's "I stay at home"*** series with Antonio Leiva.
+- "Qué necesita un desarrollador para alcanzar sus metas?" interview at ***DevExperto's "I stay at home"*** series with Antonio Leiva (Mar).
 	- [Video interview (in Spanish)](https://youtu.be/igKXuX4h3HE)
 
 ## 2019 
