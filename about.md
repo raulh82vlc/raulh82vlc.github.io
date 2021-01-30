@@ -20,7 +20,8 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## Currently
 **Senior Software Engineer - Android** at **Twitter** in *London timezone (UK) from July 2018*
-  - Currently collaborating for the Consumer Search Clients (CSC) team. Dec'19 - Nowadays.
+  - Previously Currently collaborating for the Rogue 1 team. Jan'21 - Nowadays.
+  - Previously collaborating for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21.
   - Previously collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
   - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
   -	Roles:
@@ -48,9 +49,9 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- Video soon
 	- Slides soon
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***DevFest DACH 2020 (Germany, Austria & Switzerland)*** (Jan).
+	- [Video](https://youtu.be/7XxU9AB0UKs?t=17437)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Abstract for DACH DevFest 2020 (the Delayed version) on January the 24th](https://devfestdach.online/schedule/2021-01-24?sessionId=120)
-	- Video soon
 
 ## 2020
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Droidcon APAC*** (Dec).
