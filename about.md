@@ -20,8 +20,8 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## Currently
 **Senior Software Engineer - Android** at **Twitter** in *London timezone (UK) from July 2018*
-  - Previously Currently collaborating for the Rogue 1 team. Jan'21 - Nowadays.
-  - Previously collaborating for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21.
+  - Currently collaborating for the Rogue 1 team. Jan'21 - Nowadays.
+  - Previously collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21.
   - Previously collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
   - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
   -	Roles:
