@@ -109,6 +109,9 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 # Public written technical articles
 
+## 2021
+- "Getting ready for Declarative UIs" - ***["Part 1 - Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d)***
+
 ## 2020
 - ***["Synchronous communication with the UI using StateFlow"](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)*** featured at [Android #436](https://androidweekly.net/issues/issue-436) & [Kotlin #220](https://mailchi.mp/kotlinweekly/kotlin-weekly-220) Weekly
 - "Fueled Reactive apps with Asynchronous Flow" - Part 6 ***["Lessons learned & Next steps"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-6-lessons-learned-next-steps-59d853dc4b97)*** featured at [Android #421](https://mailchi.mp/androidweekly/android-weekly-421) & [Kotlin #205](https://mailchi.mp/kotlinweekly/kotlin-weekly-205) Weekly
