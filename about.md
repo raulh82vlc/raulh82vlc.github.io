@@ -44,10 +44,10 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## 2021
 - ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***FOSDEM 2021*** (Feb).
+	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Talk abstract on February the 7th](https://fosdem.org/2021/schedule/event/declarative_ready_unidirectionaldataflow_with_coroutines/)
 	- [Kotlin devroom agenda](https://fosdem.org/2021/schedule/track/kotlin/)
 	- Video soon
-	- Slides soon
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***DevFest DACH 2020 (Germany, Austria & Switzerland)*** (Jan).
 	- [Video](https://youtu.be/7XxU9AB0UKs?t=17437)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
@@ -110,7 +110,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Public written technical articles
 
 ## 2021
-- "Getting ready for Declarative UIs" - Part 1 ***["Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d)*** featured at [Compose #3](https://us7.campaign-archive.com/?u=68cc676cd60c12ff962c2f023&id=c97f16f72e) Digest & [Kotlin](https://mailchi.mp/kotlinweekly/kotlin-weekly-236) Weekly
+- "Getting ready for Declarative UIs" - Part 1 ***["Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d)*** featured at featured at [Compose #3](https://us7.campaign-archive.com/?u=68cc676cd60c12ff962c2f023&id=c97f16f72e) Digest, [Android #452](https://androidweekly.net/issues/issue-452) & [Kotlin #236](https://mailchi.mp/kotlinweekly/kotlin-weekly-236) Weekly
 
 ## 2020
 - ***["Synchronous communication with the UI using StateFlow"](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)*** featured at [Android #436](https://androidweekly.net/issues/issue-436) & [Kotlin #220](https://mailchi.mp/kotlinweekly/kotlin-weekly-220) Weekly
