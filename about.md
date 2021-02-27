@@ -44,12 +44,13 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## 2021
 - ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***FOSDEM 2021*** (Feb).
+	- Featured at [Android #454 Weekly](https://androidweekly.net/issues/issue-454)
+	- [Video](https://ftp.fau.de/fosdem/2021/D.kotlin/declarative_ready_unidirectionaldataflow_with_coroutines.webm)
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Talk abstract on February the 7th](https://fosdem.org/2021/schedule/event/declarative_ready_unidirectionaldataflow_with_coroutines/)
 	- [Kotlin devroom agenda](https://fosdem.org/2021/schedule/track/kotlin/)
-	- Video soon
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***DevFest DACH 2020 (Germany, Austria & Switzerland)*** (Jan).
-	- [Video](https://youtu.be/7XxU9AB0UKs?t=17437)
+	- [Video](https://youtu.be/aNdYhkBT6U4)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Abstract for DACH DevFest 2020 (the Delayed version) on January the 24th](https://devfestdach.online/schedule/2021-01-24?sessionId=120)
 
