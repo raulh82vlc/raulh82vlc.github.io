@@ -40,9 +40,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - **Lead Android Developer / Chapter Android Lead** at **Touch Surgery** in *London (UK)* June 2017 until April the 27th 2018
 - ...more at the bottom section...
 
-# Public speaking
-
-## 2021
+# 2021 Public speaking
 - ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***FOSDEM 2021*** (Feb).
 	- [Video](https://ftp.fau.de/fosdem/2021/D.kotlin/declarative_ready_unidirectionaldataflow_with_coroutines.webm) featured at [Android #454](https://androidweekly.net/issues/issue-454) & [Kotlin #239](https://mailchi.mp/kotlinweekly/kotlin-weekly-239) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
@@ -53,7 +51,12 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
 	- [Abstract for DACH DevFest 2020 (the Delayed version) on January the 24th](https://devfestdach.online/schedule/2021-01-24?sessionId=120)
 
-## 2020
+# 2021 Public written technical articles
+- ***"Getting ready for Declarative UIs"*** - Part 2 - ***["Implementating Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-part-2-implementing-unidirectional-data-flow-2e829e9f6f50)*** (Mar)
+- ***"Getting ready for Declarative UIs"*** - Part 1 ***["Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d)*** (Feb)
+	- Featured at featured at [Compose #3](https://us7.campaign-archive.com/?u=68cc676cd60c12ff962c2f023&id=c97f16f72e) Digest, [Android #452](https://androidweekly.net/issues/issue-452) & [Kotlin #236](https://mailchi.mp/kotlinweekly/kotlin-weekly-236) Weekly
+
+## 2020 Public speaking
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Droidcon APAC*** (Dec).
 	- [Video](https://droidcon.com/media-detail?video=491053236) featured at [Kotlin #229](https://mailchi.mp/kotlinweekly/kotlin-weekly-229) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
@@ -87,7 +90,16 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - "Qué necesita un desarrollador para alcanzar sus metas?" interview at ***DevExperto's "I stay at home"*** series with Antonio Leiva (Mar).
 	- [Video interview (in Spanish)](https://youtu.be/igKXuX4h3HE)
 
-## 2019 
+## 2020 Public written technical articles
+- ***["Synchronous communication with the UI using StateFlow"](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)*** featured at [Android #436](https://androidweekly.net/issues/issue-436) & [Kotlin #220](https://mailchi.mp/kotlinweekly/kotlin-weekly-220) Weekly
+- "Fueled Reactive apps with Asynchronous Flow" - Part 6 ***["Lessons learned & Next steps"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-6-lessons-learned-next-steps-59d853dc4b97)*** featured at [Android #421](https://mailchi.mp/androidweekly/android-weekly-421) & [Kotlin #205](https://mailchi.mp/kotlinweekly/kotlin-weekly-205) Weekly
+- "Fueled Reactive apps with Asynchronous Flow" - Part 5 ***["View Delegate Implementation"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-5-view-delegate-implementation-61a47a727e95)*** featured at [Android #420](https://mailchi.mp/androidweekly/android-weekly-420) & [Kotlin #204](https://mailchi.mp/kotlinweekly/kotlin-weekly-204) Weekly
+- "Fueled Reactive apps with Asynchronous Flow" - Part 4 - ***["Use Case layer Implementation"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-4-use-case-layer-implementation-98737af8130a)*** featured at [Android #419](https://mailchi.mp/androidweekly/android-weekly-419) & [Kotlin #203](https://mailchi.mp/kotlinweekly/kotlin-weekly-203) Weekly
+- "Fueled Reactive apps with Asynchronous Flow" - Part 3 - ***["Data layer Implementation"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-3-data-layer-implementation-f6754d3f880)*** featured at [Android #418](https://mailchi.mp/androidweekly/android-weekly-418) Weekly
+- "Fueled Reactive apps with Asynchronous Flow" - Part 2 - ***["Asynchronous communication: Streams & Basics"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-2-asynchronous-communication-streams-ed5b98f1fff8)***  featured at [Android #418](https://mailchi.mp/androidweekly/android-weekly-418) & [Kotlin #201](https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=881b3d1ead) Weekly
+- "Fueled Reactive apps with Asynchronous Flow" - Part 1 - ***["Use case & Migration Strategy"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)*** featured at [Android #418](https://mailchi.mp/androidweekly/android-weekly-418) & [Kotlin #200](https://mailchi.mp/kotlinweekly/kotlin-weekly-200) Weekly
+
+## 2019 Public speaking
 - ***"Pushing Dynamic Features Your Users Want, As Quick As They Want Them"***.
 	- Given at Droidcon Spain (Madrid) in December:
 		- [Video](https://youtu.be/QbPQjwKjcaQ)
@@ -96,7 +108,10 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- In addition to [GOTO Copenhagen](https://gotocph.com/2019/sessions/1133/pushing-dynamic-features-your-users-want-as-quick-as-they-want-them) (Denmark) in November & [Droidcon Austria](https://twitter.com/RaulHernandezL/status/1175024220889391115) (Vienna) in September.
 	- [Slides](https://speakerdeck.com/raulh82vlc/pushing-dynamic-features-your-users-want-as-quick-as-they-want-them)
 
-## 2017
+## 2018 Public written technical article
+- ***["Learning functional programming at Twitter’s #Hackweek #1"](https://medium.com/@raul.h82/learning-functional-programming-at-twitters-hackweek-1-10612f74ffe2)*** featured at [Kotlin #98](https://mailchi.mp/kotlinweekly/kotlin-weekly-98) Weekly
+
+## 2017 Public speaking
 - ***"Building a Minimum Viable Product (MVP) with Face recognition and AR"*** at Droidcon UK (London) in October.
 	- [Info & video](https://skillsmatter.com/skillscasts/10786-building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android)
 	- [Slides](https://speakerdeck.com/raulh82vlc/building-a-minimum-viable-product-mvp-with-face-recognition-and-ar-in-android-at-droidcon-london-2017)
@@ -106,23 +121,6 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - Light talk ***“From junior to experienced in few years”*** at Freakend Mobile in February.
 	- [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be)
 	- [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
-
-# Public written technical articles
-
-## 2021
-- "Getting ready for Declarative UIs" - Part 1 ***["Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d)*** featured at featured at [Compose #3](https://us7.campaign-archive.com/?u=68cc676cd60c12ff962c2f023&id=c97f16f72e) Digest, [Android #452](https://androidweekly.net/issues/issue-452) & [Kotlin #236](https://mailchi.mp/kotlinweekly/kotlin-weekly-236) Weekly
-
-## 2020
-- ***["Synchronous communication with the UI using StateFlow"](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)*** featured at [Android #436](https://androidweekly.net/issues/issue-436) & [Kotlin #220](https://mailchi.mp/kotlinweekly/kotlin-weekly-220) Weekly
-- "Fueled Reactive apps with Asynchronous Flow" - Part 6 ***["Lessons learned & Next steps"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-6-lessons-learned-next-steps-59d853dc4b97)*** featured at [Android #421](https://mailchi.mp/androidweekly/android-weekly-421) & [Kotlin #205](https://mailchi.mp/kotlinweekly/kotlin-weekly-205) Weekly
-- "Fueled Reactive apps with Asynchronous Flow" - Part 5 ***["View Delegate Implementation"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-5-view-delegate-implementation-61a47a727e95)*** featured at [Android #420](https://mailchi.mp/androidweekly/android-weekly-420) & [Kotlin #204](https://mailchi.mp/kotlinweekly/kotlin-weekly-204) Weekly
-- "Fueled Reactive apps with Asynchronous Flow" - Part 4 - ***["Use Case layer Implementation"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-4-use-case-layer-implementation-98737af8130a)*** featured at [Android #419](https://mailchi.mp/androidweekly/android-weekly-419) & [Kotlin #203](https://mailchi.mp/kotlinweekly/kotlin-weekly-203) Weekly
-- "Fueled Reactive apps with Asynchronous Flow" - Part 3 - ***["Data layer Implementation"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-3-data-layer-implementation-f6754d3f880)*** featured at [Android #418](https://mailchi.mp/androidweekly/android-weekly-418) Weekly
-- "Fueled Reactive apps with Asynchronous Flow" - Part 2 - ***["Asynchronous communication: Streams & Basics"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-2-asynchronous-communication-streams-ed5b98f1fff8)***  featured at [Android #418](https://mailchi.mp/androidweekly/android-weekly-418) & [Kotlin #201](https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=881b3d1ead) Weekly
-- "Fueled Reactive apps with Asynchronous Flow" - Part 1 - ***["Use case & Migration Strategy"](https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0)*** featured at [Android #418](https://mailchi.mp/androidweekly/android-weekly-418) & [Kotlin #200](https://mailchi.mp/kotlinweekly/kotlin-weekly-200) Weekly
-
-## 2018
-- ***["Learning functional programming at Twitter’s #Hackweek #1"](https://medium.com/@raul.h82/learning-functional-programming-at-twitters-hackweek-1-10612f74ffe2)*** featured at [Kotlin #98](https://mailchi.mp/kotlinweekly/kotlin-weekly-98) Weekly
 
 # Public code snippets & side projects
 - [Github](https://github.com/raulh82vlc)
