@@ -44,7 +44,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## 2021
 - ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***FOSDEM 2021*** (Feb).
-	- [Video](https://ftp.fau.de/fosdem/2021/D.kotlin/declarative_ready_unidirectionaldataflow_with_coroutines.webm) featured at [Android #454](https://androidweekly.net/issues/issue-454) Weekly
+	- [Video](https://ftp.fau.de/fosdem/2021/D.kotlin/declarative_ready_unidirectionaldataflow_with_coroutines.webm) featured at [Android #454](https://androidweekly.net/issues/issue-454) & [Kotlin #239](https://mailchi.mp/kotlinweekly/kotlin-weekly-239) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Talk abstract on February the 7th](https://fosdem.org/2021/schedule/event/declarative_ready_unidirectionaldataflow_with_coroutines/)
 	- [Kotlin devroom agenda](https://fosdem.org/2021/schedule/track/kotlin/)
