@@ -53,8 +53,9 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 # 2021 Public written technical articles
 - ***"Getting ready for Declarative UIs"*** - Part 2 - ***["Implementing Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-part-2-implementing-unidirectional-data-flow-2e829e9f6f50)*** (Mar)
+	- Featured at [Compose #7](https://mailchi.mp/c273d087522e/compose-digest-13358923) Digest, [Android #456](https://androidweekly.net/issues/issue-456) & [Kotlin #240](https://mailchi.mp/kotlinweekly/kotlin-weekly-240) Weekly
 - ***"Getting ready for Declarative UIs"*** - Part 1 ***["Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d)*** (Feb)
-	- Featured at featured at [Compose #3](https://us7.campaign-archive.com/?u=68cc676cd60c12ff962c2f023&id=c97f16f72e) Digest, [Android #452](https://androidweekly.net/issues/issue-452) & [Kotlin #236](https://mailchi.mp/kotlinweekly/kotlin-weekly-236) Weekly
+	- Featured at [Compose #3](https://us7.campaign-archive.com/?u=68cc676cd60c12ff962c2f023&id=c97f16f72e) Digest, [Android #452](https://androidweekly.net/issues/issue-452) & [Kotlin #236](https://mailchi.mp/kotlinweekly/kotlin-weekly-236) Weekly
 
 ## 2020 Public speaking
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Droidcon APAC*** (Dec).
