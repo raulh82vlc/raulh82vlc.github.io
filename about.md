@@ -20,7 +20,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## Currently
 **Senior Software Engineer - Android** at **Twitter** in *London timezone (UK) from July 2018*
-  - Currently collaborating for the Rogue 1 team. Jan'21 - Nowadays.
+  - Currently collaborating for the Rogue One / Subscriptions team. Jan'21 - Nowadays.
   - Previously collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21.
   - Previously collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
   - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
@@ -29,8 +29,9 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- Mentor of new members in the team.
 	- Tech debt optimisations (PTL / Tech design shepherd).
 	- Engineer on call to fix issues (maintainer).
-	- Speaker for Internal tech events / talks.
+	- Luna shepherd (helping interview huddles to embrace good practices)
 	- Kotlin community active member (Kotlin & QE Automation shepherd).
+	- Speaker for Internal tech events / talks.
 	- Active interviewer for hiring new candidates for:
 		- All levels: SWE 1 to Sr SWE.
 		- All surfaces / platforms: Android -> specific expertise interview or iOS & RWEB -> general technical interviews.
