@@ -41,6 +41,14 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - ...more at the bottom section...
 
 # 2021 Public speaking
+- ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** -in Spanish- at ***RockNDroid Vigo, Spain*** (May).
+	- [Video coming soon here](https://youtu.be/Ztizf83Vz1s)
+	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
+	- [Meetup abstract & schedule on May the 12th](https://www.meetup.com/es/rockndroidvig/events/277870944/)
+- ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***Virtual Kotlin Group (KUG)*** (April).
+	- [Video](https://youtu.be/Z35VrEzmXrE)
+	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
+	- [Meetup abstract & schedule on April the 29th](https://www.meetup.com/es/Virtual-Kotlin-User-Group/events/277375504/)
 - ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***FOSDEM 2021*** (Feb).
 	- [Video](https://ftp.fau.de/fosdem/2021/D.kotlin/declarative_ready_unidirectionaldataflow_with_coroutines.webm) featured at [Android #454](https://androidweekly.net/issues/issue-454) & [Kotlin #239](https://mailchi.mp/kotlinweekly/kotlin-weekly-239) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
@@ -52,10 +60,12 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- [Abstract for DACH DevFest 2020 (the Delayed version) on January the 24th](https://devfestdach.online/schedule/2021-01-24?sessionId=120)
 
 # 2021 Public written technical articles
+- ***"Getting ready for Declarative UIs"*** - Part 3 - ***["Why Declarative UIs on Android?"](https://proandroiddev.com/getting-ready-for-declarative-uis-part-3-why-declarative-uis-on-android-96e69984b0c0)*** (April)
+	- Featured at [Compose #14](https://us7.campaign-archive.com/?u=68cc676cd60c12ff962c2f023&id=af65b77dd4) Digest, [Android #463](https://androidweekly.net/issues/issue-463), [Kotlin #247](https://mailchi.mp/kotlinweekly/kotlin-weekly-247) Weekly & [jetc.dev #62](https://www.getrevue.co/profile/jetc/issues/jetc-dev-newsletter-issue-62-571304)
 - ***"Getting ready for Declarative UIs"*** - Part 2 - ***["Implementing Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-part-2-implementing-unidirectional-data-flow-2e829e9f6f50)*** (Mar)
-	- Featured at [Compose #7](https://mailchi.mp/c273d087522e/compose-digest-13358923) Digest, [Android #456](https://androidweekly.net/issues/issue-456) & [Kotlin #240](https://mailchi.mp/kotlinweekly/kotlin-weekly-240) Weekly
+	- Featured at [Compose #7](https://mailchi.mp/c273d087522e/compose-digest-13358923) Digest, [Android #456](https://androidweekly.net/issues/issue-456), [Kotlin #240](https://mailchi.mp/kotlinweekly/kotlin-weekly-240) Weekly & [jetc.dev #55](https://www.getrevue.co/profile/jetc/issues/jetc-dev-newsletter-issue-55-427293)
 - ***"Getting ready for Declarative UIs"*** - Part 1 ***["Unidirectional Data Flow"](https://proandroiddev.com/getting-ready-for-declarative-uis-8eedb5f8ed0d)*** (Feb)
-	- Featured at [Compose #3](https://us7.campaign-archive.com/?u=68cc676cd60c12ff962c2f023&id=c97f16f72e) Digest, [Android #452](https://androidweekly.net/issues/issue-452) & [Kotlin #236](https://mailchi.mp/kotlinweekly/kotlin-weekly-236) Weekly
+	- Featured at [Compose #3](https://us7.campaign-archive.com/?u=68cc676cd60c12ff962c2f023&id=c97f16f72e) Digest, [Android #452](https://androidweekly.net/issues/issue-452), [Kotlin #236](https://mailchi.mp/kotlinweekly/kotlin-weekly-236) Weekly & [jetc.dev #51](https://www.getrevue.co/profile/jetc/issues/jetc-dev-newsletter-issue-51-327485)
 
 ## 2020 Public speaking
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***Droidcon APAC*** (Dec).
