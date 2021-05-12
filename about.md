@@ -42,11 +42,18 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - ...more at the bottom section...
 
 # 2021 Public speaking
-- ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** *-in Spanish-* at ***RockNDroid Vigo, Spain*** (May).
+- ***"Getting ready for Declarative UIs"*** at ***DevDays Europe 2021*** (June the 9th).
+	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
+	- [Talk abstract](https://devdays.lt/Raul-Hernandez-Lopez/)
+	- [Conference schedule, June the 9th at 2:30 pm GMT+3](https://devdays.lt/schedule/)
+- ***"Getting ready for Declarative UIs"*** at ***Kotlin London (KUG)*** (June the 2nd).
+	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
+	- Meetup agenda soon
+- ***"Getting ready for Declarative UIs"*** *-in Spanish-* at ***RockNDroid Vigo meetup, Spain*** (May).
 	- [Video coming soon here](https://youtu.be/Ztizf83Vz1s)
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup abstract & schedule on May the 12th](https://www.meetup.com/es/rockndroidvig/events/277870944/)
-- ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***Virtual Kotlin Group (KUG)*** (April).
+- ***"Getting ready for Declarative UIs"*** at ***Virtual Kotlin Group (KUG)*** (April).
 	- [Video](https://youtu.be/Z35VrEzmXrE) featured at [Android #464](https://androidweekly.net/issues/issue-464) & [Kotlin #249](https://mailchi.mp/kotlinweekly/kotlin-weekly-249) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup abstract & schedule on April the 29th](https://www.meetup.com/es/Virtual-Kotlin-User-Group/events/277375504/)
