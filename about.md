@@ -42,12 +42,12 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - ...more at the bottom section...
 
 # 2021 Public speaking
-- ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** -in Spanish- at ***RockNDroid Vigo, Spain*** (May).
+- ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** *-in Spanish-* at ***RockNDroid Vigo, Spain*** (May).
 	- [Video coming soon here](https://youtu.be/Ztizf83Vz1s)
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup abstract & schedule on May the 12th](https://www.meetup.com/es/rockndroidvig/events/277870944/)
 - ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***Virtual Kotlin Group (KUG)*** (April).
-	- [Video](https://youtu.be/Z35VrEzmXrE)
+	- [Video](https://youtu.be/Z35VrEzmXrE) featured at [Android #464](https://androidweekly.net/issues/issue-464) & [Kotlin #249](https://mailchi.mp/kotlinweekly/kotlin-weekly-249) Weekly
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup abstract & schedule on April the 29th](https://www.meetup.com/es/Virtual-Kotlin-User-Group/events/277375504/)
 - ***"Getting ready for Declarative UIs with Unidirectional Data Flow using Kotlin Coroutines"*** at ***FOSDEM 2021*** (Feb).
