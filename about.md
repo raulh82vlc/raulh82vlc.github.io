@@ -8,7 +8,7 @@ permalink: /about/
 *Senior Software Engineer - Android at Twitter & Kotlin lover*
 
 ### Overview
-I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ years experience), specialised on the Android platform (8 years) & the Kotlin language (4 years).
+I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ years experience), specialised on the Android platform (8 years) & the Kotlin language (5 years).
 
 Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events like a podcast, meetups or conferences such as Droidcon: UK'17 & '19, Spain'19, EMEA & APAC'20; FOSDEM'21; GOTO Copenhagen'19; AndroidDevPodcast Jul'20; Kotlin London Dec'20, MADG Spain Nov'20 or Londroid April'17 meetups - [presentations slides index](https://speakerdeck.com/raulh82vlc). I write some articles in Medium (linked from this blog too), typically not technical at the end of the year to summarize the past year and technical ones too.
 
@@ -19,19 +19,19 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Work experience
 
 ## Currently
-**Senior Software Engineer - Android** at **Twitter** in *London timezone (UK) from July 2018*
-  - Currently collaborating for the Rogue One / Subscriptions team. Jan'21 - Nowadays.
+**Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018*
+  - Currently collaborating for the Subscriptions team. Jan'21 - Nowadays.
   - Previously collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21.
   - Previously collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
   - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
   -	Roles:
     - Project Tech Lead (PTL).
-	- Mentor of new members in the team.
-	- Tech debt optimisations (PTL / Tech design shepherd).
+	- Mentor for members of my teams.
+	- Tech debt & architectural optimisations (PTL / Tech design shepherd).
 	- Engineer on call to fix issues (maintainer).
-	- Luna shepherd (helping interview huddles to embrace good practices)
+	- Luna shepherd (helping interview huddles to embrace good practices).
 	- Kotlin community active member (Kotlin & QE Automation shepherd).
-	- Speaker for Internal tech events / talks.
+	- Speaker & Driver/Enabler for Internal/External tech events / talks / podcasts.
 	- Active interviewer for hiring new candidates for:
 		- All levels: SWE 1 to Sr SWE.
 		- All surfaces / platforms: Android -> specific expertise interview or iOS & RWEB -> general technical interviews.
@@ -50,7 +50,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- Meetup agenda soon
 - ***"Getting ready for Declarative UIs"*** *-in Spanish-* at ***RockNDroid Vigo meetup, Spain*** (May).
-	- [Video coming soon here](https://youtu.be/Ztizf83Vz1s)
+	- [Video](https://youtu.be/Ztizf83Vz1s)
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup abstract & schedule on May the 12th](https://www.meetup.com/es/rockndroidvig/events/277870944/)
 - ***"Getting ready for Declarative UIs"*** at ***Virtual Kotlin Group (KUG)*** (April).
