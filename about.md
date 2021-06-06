@@ -48,7 +48,8 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- [Conference schedule, June the 9th at 2:30 pm GMT+3](https://devdays.lt/schedule/)
 - ***"Getting ready for Declarative UIs"*** at ***Kotlin London (KUG)*** (June the 2nd).
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
-	- Meetup agenda soon
+	- [Video](https://youtu.be/hIKruBc6aeg?t=195)
+	- [Meetup agenda](https://www.meetup.com/kotlin-london/events/278197968/)
 - ***"Getting ready for Declarative UIs"*** *-in Spanish-* at ***RockNDroid Vigo meetup, Spain*** (May).
 	- [Video](https://youtu.be/Ztizf83Vz1s)
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
