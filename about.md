@@ -42,7 +42,13 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - ...more at the bottom section...
 
 # 2021 Public speaking
+- ***"Episodio 16 Twitter Android Team at #ChimichurriCode"*** (June the 16th).
+	- [Podcast](https://open.spotify.com/episode/5oMxQBZcWmb7OThI03QVLT)
+	- [@TwitterEng](https://twitter.com/TwitterEng/status/1405202610781519877) tweet in Spanish 
+	- [@TwitterEng](https://twitter.com/TwitterEng/status/1405202606171987975) tweet in English
+	- Helped coordinating with the awesome host Nicolás Patarino and internally creating our script for this content to be approved. Thanks to my awesome colleagues César Puerta, Nacho López and Yoali Sotomayor for such a great episode together.
 - ***"Getting ready for Declarative UIs"*** at ***DevDays Europe 2021*** (June the 9th).
+	- [Video](https://youtu.be/R0ZwMINWDtE)
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Talk abstract](https://devdays.lt/Raul-Hernandez-Lopez/)
 	- [Conference schedule, June the 9th at 2:30 pm GMT+3](https://devdays.lt/schedule/)
