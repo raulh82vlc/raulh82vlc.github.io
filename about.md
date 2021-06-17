@@ -10,11 +10,13 @@ permalink: /about/
 ### Overview
 I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ years experience), specialised on the Android platform (8 years) & the Kotlin language (5 years).
 
-Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events like a podcast, meetups or conferences such as Droidcon: UK'17 & '19, Spain'19, EMEA & APAC'20; FOSDEM'21; GOTO Copenhagen'19; AndroidDevPodcast Jul'20; Kotlin London Dec'20, MADG Spain Nov'20 or Londroid April'17 meetups - [presentations slides index](https://speakerdeck.com/raulh82vlc). I write some articles in Medium (linked from this blog too), typically not technical at the end of the year to summarize the past year and technical ones too.
+Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events like podcasts, meetups or conferences such as Droidcon: UK'17 & '19, Spain'19, EMEA & APAC'20; FOSDEM'21; GOTO Copenhagen'19; AndroidDevPodcast Jul'20 or #ChimichurriCode Jun'21 podcasts; Kotlin London Dec'20 & Jun'21, MADG Spain Nov'20 RockNDroid Vigo May'21 or Londroid April'17 meetups. I write some articles in Medium (linked from this blog too), typically not technical at the end of the year to summarize the past year and technical ones too.
 
 I am from Valencia (Spain) originally, where we use to love paella and horchata, nowadays I am living, working (from home) in London (UK) but I've also lived/worked in Antwerp (Belgium) for almost 1 year and a half.
 
 I do love travelling when I can, listening music metal/rock gigs, reading tech/no-tech books, hanging out with friends, a very cold beer or running sometime.
+
+- [Presentations slides](https://speakerdeck.com/raulh82vlc) index in SpeakerDeck.
 
 # Work experience
 
