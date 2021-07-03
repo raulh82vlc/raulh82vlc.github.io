@@ -44,7 +44,13 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - ...more at the bottom section...
 
 # 2021 Public speaking
-- ***"Episodio 16 Twitter Android Team at #ChimichurriCode"*** (June the 16th).
+- ***"Getting ready for Declarative UIs" at ***Kotlin Stuttgart*** (Vol. 9) (KUG) (July the 14th).
+	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
+	- [Meetup agenda](https://www.meetup.com/Kotlin-User-Group-Stuttgart/events/279019895/)
+- ***"Getting ready for Declarative UIs" at ***Brighton Kotlin*** (June the 24th).
+	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
+	- [Meetup agenda](https://www.meetup.com/en-GB/Brighton-Kotlin/events/278385095/)
+- ***"Episodio 16", Twitter Android Team at #ChimichurriCode*** (June the 16th).
 	- [Podcast](https://open.spotify.com/episode/5oMxQBZcWmb7OThI03QVLT)
 	- [@TwitterEng](https://twitter.com/TwitterEng/status/1405202610781519877) tweet in Spanish 
 	- [@TwitterEng](https://twitter.com/TwitterEng/status/1405202606171987975) tweet in English
