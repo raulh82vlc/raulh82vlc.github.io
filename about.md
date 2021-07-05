@@ -44,10 +44,10 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - ...more at the bottom section...
 
 # 2021 Public speaking
-- ***"Getting ready for Declarative UIs" at ***Kotlin Stuttgart*** (Vol. 9) (KUG) (July the 14th).
+- ***"Getting ready for Declarative UIs"*** at ***Kotlin Stuttgart*** (Vol. 9) (KUG) (July the 14th).
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup agenda](https://www.meetup.com/Kotlin-User-Group-Stuttgart/events/279019895/)
-- ***"Getting ready for Declarative UIs" at ***Brighton Kotlin*** (June the 24th).
+- ***"Getting ready for Declarative UIs"*** at ***Brighton Kotlin*** (June the 24th).
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup agenda](https://www.meetup.com/en-GB/Brighton-Kotlin/events/278385095/)
 - ***"Episodio 16", Twitter Android Team at #ChimichurriCode*** (June the 16th).
@@ -78,9 +78,8 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- [Talk abstract on February the 7th](https://fosdem.org/2021/schedule/event/declarative_ready_unidirectionaldataflow_with_coroutines/)
 	- [Kotlin devroom agenda](https://fosdem.org/2021/schedule/track/kotlin/)
 - ***"Fueled Reactive apps with Asynchronous Flow & StateFlow to Sync with the UI"*** at ***DevFest DACH 2020 (Germany, Austria & Switzerland)*** (Jan).
-	- [Video](https://youtu.be/aNdYhkBT6U4)
+	- [Video Jan the 24th](https://youtu.be/aNdYhkBT6U4)
 	- [Slides](https://speakerdeck.com/raulh82vlc/fueled-reactive-apps-with-asynchronous-flow-and-stateflow-to-sync-with-the-ui-v2)
-	- [Abstract for DACH DevFest 2020 (the Delayed version) on January the 24th](https://devfestdach.online/schedule/2021-01-24?sessionId=120)
 
 # 2021 Public written technical articles
 - ***"Getting ready for Declarative UIs"*** - Part 3 - ***["Why Declarative UIs on Android?"](https://proandroiddev.com/getting-ready-for-declarative-uis-part-3-why-declarative-uis-on-android-96e69984b0c0)*** (April)
