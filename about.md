@@ -8,7 +8,7 @@ permalink: /about/
 *Senior Software Engineer - Android at Twitter & Kotlin lover*
 
 ### Overview
-I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ years experience), specialised on the Android platform (8 years) & the Kotlin language (5 years).
+I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ Years Experience), specialised on the Android platform (8 YE) & the Kotlin language (5 YE).
 
 Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events like podcasts, meetups or conferences such as Droidcon: UK'17 & '19, Spain'19, EMEA & APAC'20; FOSDEM'21; GOTO Copenhagen'19; AndroidDevPodcast Jul'20 or #ChimichurriCode Jun'21 podcasts; Kotlin London Dec'20 & Jun'21, MADG Spain Nov'20 RockNDroid Vigo May'21 or Londroid April'17 meetups. I write some articles in Medium (linked from this blog too), typically not technical at the end of the year to summarize the past year and technical ones too.
 
@@ -22,7 +22,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## Currently
 **Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018*
-  - Currently collaborating for the Subscriptions team. Jan'21 - Nowadays.
+  - Currently collaborating for the Twitter Blue team. Jan'21 - Nowadays.
   - Previously collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21.
   - Previously collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
   - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
@@ -48,6 +48,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup agenda](https://www.meetup.com/Kotlin-User-Group-Stuttgart/events/279019895/)
 - ***"Getting ready for Declarative UIs"*** at ***Brighton Kotlin*** (June the 24th).
+	- [Video](https://youtu.be/wCU4AK8Z39w)
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup agenda](https://www.meetup.com/en-GB/Brighton-Kotlin/events/278385095/)
 - ***"Episodio 16", Twitter Android Team at #ChimichurriCode*** (June the 16th).
