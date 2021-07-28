@@ -45,6 +45,7 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 # 2021 Public speaking
 - ***"Getting ready for Declarative UIs"*** at ***Kotlin Stuttgart*** (Vol. 9) (KUG) (July the 14th).
+	- [Video](https://youtu.be/T6MnIZh7PPs)
 	- [Slides](https://speakerdeck.com/raulh82vlc/getting-ready-for-declarative-uis-with-unidirectional-data-flow-using-kotlin-coroutines)
 	- [Meetup agenda](https://www.meetup.com/Kotlin-User-Group-Stuttgart/events/279019895/)
 - ***"Getting ready for Declarative UIs"*** at ***Brighton Kotlin*** (June the 24th).
