@@ -184,7 +184,7 @@ I do enjoy meeting new cultures, learning from others & self-learning myself, li
 
 ### Contact me
 - [@RaulHernandezL (my Twitter handle)](https://twitter.com/RaulHernandezL)
-- [mail-me](mailto:raul.h82@gmail.com)
+- [mail-me](mailto:raulh82vlc@duck.com)
 
 ### Other public profiles
 - [Raul's Medium](https://raul-h82.medium.com/)
