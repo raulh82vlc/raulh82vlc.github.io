@@ -43,6 +43,9 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - **Lead Android Developer / Chapter Android Lead** at **Touch Surgery** in *London (UK)* June 2017 until April the 27th 2018
 - ...more at the bottom section...
 
+# 2022 In general
+- [***"Bye 2021, Long Live 2022!"***](https://raul-h82.medium.com/bye-2021-long-live-2022-49fad78b6360) featured into Specials section at [Android #499](https://androidweekly.net/issues/issue-499)
+
 # 2021 Public speaking
 - ***"Getting ready for Declarative UIs"*** at ***Kotlin Stuttgart*** (Vol. 9) (KUG) (July the 14th).
 	- [Video](https://youtu.be/T6MnIZh7PPs)
