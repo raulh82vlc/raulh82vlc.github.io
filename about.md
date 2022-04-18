@@ -25,17 +25,18 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 ## Formerly
 **Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018*
-  - Currently collaborating for the Twitter Blue team. Jan'21 - Nowadays.
-  - Previously collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21.
-  - Previously collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
-  - Previously collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
+  - Collaborated for the Twitter Blue team. Jan'21 - Nowadays.
+  - Collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21
+  - Collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
+  - Collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
   -	Roles:
     - Project Tech Lead (PTL).
-	- Mentor for members of my teams.
+		- Mentor for members of my teams.
+		- Shepherd:
+			- Kotlin community active member (Kotlin & QE Automation shepherd).
+			- Luna shepherd (helping interview huddles to embrace good practices).
 	- Tech debt & architectural optimisations (PTL / Tech design shepherd).
 	- Engineer on call to fix issues (maintainer).
-	- Luna shepherd (helping interview huddles to embrace good practices).
-	- Kotlin community active member (Kotlin & QE Automation shepherd).
 	- Speaker & Driver/Enabler for Internal/External tech events / talks / podcasts.
 	- Active interviewer for hiring new candidates for:
 		- All levels: SWE 1 to Sr SWE.
