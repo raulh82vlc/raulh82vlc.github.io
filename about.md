@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Raúl Hernández López / Raul Hernandez Lopez
-*Senior Software Engineer - Android at Twitter & Kotlin lover*
+*Experienced Software Engineer - focused on Android & Kotlin*
 
 ### Overview
 I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ Years Experience), specialised on the Android platform (8 YE) & the Kotlin language (5 YE).
@@ -21,6 +21,9 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 # Work experience
 
 ## Currently
+- Taking a break before my next adventure.
+
+## Formerly
 **Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018*
   - Currently collaborating for the Twitter Blue team. Jan'21 - Nowadays.
   - Previously collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21.
@@ -37,8 +40,6 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- Active interviewer for hiring new candidates for:
 		- All levels: SWE 1 to Sr SWE.
 		- All surfaces / platforms: Android -> specific expertise interview or iOS & RWEB -> general technical interviews.
-
-## Formerly
 - **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* - from *April the 30th to July 2018*. Collaborating for Live Events team.
 - **Lead Android Developer / Chapter Android Lead** at **Touch Surgery** in *London (UK)* June 2017 until April the 27th 2018
 - ...more at the bottom section...
