@@ -20,10 +20,6 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 # Work experience
 
-## Currently
-- Taking a break before my next adventure.
-
-## Formerly
 **Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018*
   - Collaborated for the Twitter Blue team. Jan'21 - Nowadays.
   - Collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21
