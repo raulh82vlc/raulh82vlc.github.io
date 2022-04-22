@@ -20,8 +20,8 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 # Work experience
 
-**Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018*
-  - Collaborated for the Twitter Blue team. Jan'21 - Nowadays.
+**Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018 until April 2022*
+  - Collaborated for the Twitter Blue team. Jan'21 - April'22.
   - Collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21
   - Collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
   - Collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
