@@ -26,12 +26,12 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
   - Collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
   - Collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
   -	Roles:
+    - Software Engineer.
     - Project Tech Lead (PTL).
 		- Mentor for members of my teams.
-		- Shepherd:
-			- Kotlin community active member (Kotlin & QE Automation shepherd).
-			- Luna shepherd (helping interview huddles to embrace good practices).
-	- Tech debt & architectural optimisations (PTL / Tech design shepherd).
+		- Kotlin Shepherd, for our Kotlin community active member (Kotlin & QE Automation shepherd).
+		- Luna Shepherd, helping interview huddles to embrace good practices).
+	- Tech debt & architectural optimisations (PTL / Tech design shepherd).	
 	- Engineer on call to fix issues (maintainer).
 	- Speaker & Driver/Enabler for Internal/External tech events / talks / podcasts.
 	- Active interviewer for hiring new candidates for:
