@@ -20,6 +20,8 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 # Work experience
 
+**Remote Staff Software Engineer (Mobile SDKs)** from June 2022 - Currently
+	- Helping Zendesk creating delightful customer experiences as a Staff Software Engineer for the Mobile SDKs team.
 **Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018 until April 2022*
   - Collaborated for the Twitter Blue team. Jan'21 - April'22.
   - Collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21
