@@ -20,16 +20,18 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 # Work experience
 
-**Remote Staff Software Engineer (Mobile SDKs)** from June 2022 - Currently
-	- Helping Zendesk creating delightful customer experiences as a Staff Software Engineer for the Mobile SDKs team.
-**Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018 until April 2022*
-  - Collaborated for the Twitter Blue team. Jan'21 - April'22.
-  - Collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21
-  - Collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
-  - Collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
-  -	Roles:
-    - Software Engineer.
-    - Project Tech Lead (PTL).
+## Currently
+- **Remote Staff Software Engineer (Mobile SDKs)** from June 2022.
+	- Helping Zendesk creating delightful customer experiences for the Mobile SDKs team.
+## Formerly
+- **Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018 until April 2022*
+	- Collaborated for the Twitter Blue team. Jan'21 - April'22.
+	- Collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21
+	- Collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
+	- Collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
+	-	Roles:
+  	- Software Engineer.
+  	- Project Tech Lead (PTL).
 		- Mentor for members of my teams.
 		- Kotlin Shepherd, for our Kotlin community active member (Kotlin & QE Automation shepherd).
 		- Luna Shepherd, helping interview huddles to embrace good practices).
@@ -39,7 +41,8 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- Active interviewer for hiring new candidates for:
 		- All levels: SWE 1 to Sr SWE.
 		- All surfaces / platforms: Android -> specific expertise interview or iOS & RWEB -> general technical interviews.
-- **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* - from *April the 30th to July 2018*. Collaborating for Live Events team.
+- **Senior Software Engineer - Android** (contract) at **Twitter** in *London (UK)* - from *April the 30th to July 2018*.
+	- Collaborating for Live Events team.
 - **Lead Android Developer / Chapter Android Lead** at **Touch Surgery** in *London (UK)* June 2017 until April the 27th 2018
 - ...more at the bottom section...
 
