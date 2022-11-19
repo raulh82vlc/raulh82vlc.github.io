@@ -189,8 +189,9 @@ I do enjoy meeting new cultures, learning from others & self-learning myself, li
 - **IT Support Staff** at **Valencian Institute of Statistics and applied sciencies** (internship granted) in *Valencia (Spain)* 2007-2008
 
 ### Contact me
-- [@RaulHernandezL (my Twitter handle)](https://twitter.com/RaulHernandezL)
+- [@RaulHernandez androiddev.social](https://androiddev.social/@RaulHernandez)
 - [mail-me](mailto:raulh82vlc@duck.com)
+- [@RaulHernandezL (my Twitter handle)](https://twitter.com/RaulHernandezL)
 
 ### Other public profiles
 - [Raul's Medium](https://raul-h82.medium.com/)
