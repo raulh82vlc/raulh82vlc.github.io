@@ -9,7 +9,7 @@ name: Raúl Hernández López
 description: Insights & Projects
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/1535259956362067968/TDEAStoY_400x400.jpg
+avatar: https://cdn.masto.host/androiddevsocial/accounts/avatars/109/370/256/526/736/516/original/2f69fe82ccb7576d.jpg
 
 #
 # Flags below are optional
@@ -17,19 +17,12 @@ avatar: https://pbs.twimg.com/profile_images/1535259956362067968/TDEAStoY_400x40
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: raulh82vlc@duck.com
-  facebook:
-  flickr:
   github: raulh82vlc
-  instagram:
   linkedin: raulhernandezl
-  pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: RaulHernandezL
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: #
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
