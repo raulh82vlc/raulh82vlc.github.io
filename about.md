@@ -188,10 +188,13 @@ I do enjoy meeting new cultures, learning from others & self-learning myself, li
 - **IT Support and Development staff** (contract) at **Servipoli - Polytecnic University of Valencia** (uni students job granted) in *Valencia (Spain)* 2008-2009
 - **IT Support Staff** at **Valencian Institute of Statistics and applied sciencies** (internship granted) in *Valencia (Spain)* 2007-2008
 
-### Contact me
+### Social media
 - [@RaulHernandez androiddev.social](https://androiddev.social/@RaulHernandez)
+- [@RaulHernandez kotlin.social](https://kotlin.social/@RaulHernandez)
+- [@RaulHernandezL (deprecated account at Twitter)](https://twitter.com/RaulHernandezL)
+
+### Contact me
 - [mail-me](mailto:raulh82vlc@duck.com)
-- [@RaulHernandezL (my Twitter handle)](https://twitter.com/RaulHernandezL)
 
 ### Other public profiles
 - [Raul's Medium](https://raul-h82.medium.com/)
