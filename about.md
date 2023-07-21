@@ -8,11 +8,11 @@ permalink: /about/
 *Experienced Software Engineer - focused on Android & Kotlin*
 
 ### Overview
-I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ Years Experience), specialised on the Android platform (8 YE) & the Kotlin language (5 YE).
+I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (10+ Years Experience), specialised on the Android platform (9 YE) & the Kotlin language (6 YE).
 
-Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events like podcasts, meetups or conferences such as Droidcon: UK'17 & '19, Spain'19, EMEA & APAC'20; FOSDEM'21; GOTO Copenhagen'19; AndroidDevPodcast Jul'20 or #ChimichurriCode Jun'21 podcasts; Kotlin London Dec'20 & Jun'21, MADG Spain Nov'20 RockNDroid Vigo May'21 or Londroid April'17 meetups. I write some articles in Medium (linked from this blog too), typically not technical at the end of the year to summarize the past year and technical ones too.
+Moreover, I am a public speaker when I get the chance for it, so far I've participated like an international speaker in different events like podcasts, meetups or conferences such as Droidcon: Berlin'23, UK'19 & '17, Spain'19, GOTO Copenhagen'19 or Remote's such as EMEA & APAC'20 or FOSDEM'21; Podcasts such as AndroidDevPodcast Jul'20 or #ChimichurriCode Jun'21; Meetups such as Londroid April'17 or Virtual Meetups such as Kotlin London Dec'20 & Jun'21, MADG Spain Nov'20 RockNDroid Vigo May'21. I write some articles in Medium (linked from this blog too), typically not technical at the end of the year to summarize the past year and technical ones too.
 
-I am from Valencia (Spain) originally, where we use to love paella and horchata, nowadays I am living, working (from home) in London (UK) but I've also lived/worked in Antwerp (Belgium) for almost 1 year and a half.
+I am from Valencia (Spain) originally, where we use to love paella and horchata, nowadays I am also living and working (from home) in Valencia (Spain). Nevertheless, I've also lived/worked in London (UK) and Antwerp (Belgium).
 
 I do love travelling when I can, listening music metal/rock gigs, reading tech/no-tech books, hanging out with friends, a very cold beer or running sometime.
 
@@ -45,6 +45,12 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 	- Collaborating for Live Events team.
 - **Lead Android Developer / Chapter Android Lead** at **Touch Surgery** in *London (UK)* June 2017 until April the 27th 2018
 - ...more at the bottom section...
+
+## 2023 Public speaking
+- ***"What I wish I knew when I was a junior developer that I would tell as a staff software engineer"*** at ***Droidcon Berlin (Germany)*** (July).
+	- [Speaker card](https://berlin.droidcon.com/raul-hernandez-lopez/)
+	- Recording with video to be published soon
+
 
 # 2022 In general
 - [***"Bye 2021, Long Live 2022!"***](https://raul-h82.medium.com/bye-2021-long-live-2022-49fad78b6360) featured into Specials section at [Android #499](https://androidweekly.net/issues/issue-499)
