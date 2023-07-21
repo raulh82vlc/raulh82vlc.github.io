@@ -46,9 +46,10 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - **Lead Android Developer / Chapter Android Lead** at **Touch Surgery** in *London (UK)* June 2017 until April the 27th 2018
 - ...more at the bottom section...
 
-## 2023 Public speaking
-- ***"What I wish I knew when I was a junior developer that I would tell as a staff software engineer"*** at ***Droidcon Berlin (Germany)*** (July).
-	- [Speaker card](https://berlin.droidcon.com/raul-hernandez-lopez/)
+# 2023 Public speaking
+- ***Panel: "What I wish I knew when I was a junior developer that I would tell as a staff software engineer"*** at ***Droidcon Berlin (Germany)*** (July).
+	- Role during Pre-Panel: Creator and Coordinator. Invited other well experienced friends such as [Mada Aflak](https://berlin.droidcon.com/mada-aflak/) and [Sinan Kozak](https://berlin.droidcon.com/sinan-kozak/).
+	- Role during Panel: Moderator as well as Panellist: [Speaker card](https://berlin.droidcon.com/raul-hernandez-lopez/).
 	- Recording with video to be published soon
 
 
