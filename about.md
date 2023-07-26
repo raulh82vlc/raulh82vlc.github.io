@@ -50,7 +50,8 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 - ***Panel: "What I wish I knew when I was a junior developer that I would tell as a staff software engineer"*** at ***Droidcon Berlin (Germany)*** (July).
 	- Role during Pre-Panel: Creator and Coordinator. Invited other well experienced friends such as [Mada Aflak](https://berlin.droidcon.com/mada-aflak/) and [Sinan Kozak](https://berlin.droidcon.com/sinan-kozak/).
 	- Role during Panel: Moderator as well as Panellist: [Speaker card](https://berlin.droidcon.com/raul-hernandez-lopez/).
-	- Recording with video to be published soon
+	- [Intro Slides](https://speakerdeck.com/raulh82vlc/what-i-wish-i-knew-when-i-was-a-junior-developer-that-i-would-tell-as-a-staff-software-engineer)
+	- Recording with video to be published soon.
 
 
 # 2022 In general
