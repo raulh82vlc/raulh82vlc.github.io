@@ -48,11 +48,10 @@ I do love travelling when I can, listening music metal/rock gigs, reading tech/n
 
 # 2023 Public speaking
 - ***Panel: "What I wish I knew when I was a junior developer that I would tell as a staff software engineer"*** at ***Droidcon Berlin (Germany)*** (July).
+	- [Video](https://www.droidcon.com/2023/07/31/what-i-wish-i-knew-when-i-was-a-junior-developer-that-i-would-tell-as-a-staff-software-engineer/)
+	- [Intro Slides](https://speakerdeck.com/raulh82vlc/what-i-wish-i-knew-when-i-was-a-junior-developer-that-i-would-tell-as-a-staff-software-engineer)
 	- Role during Pre-Panel: Creator and Coordinator. Invited other well experienced friends such as [Mada Aflak](https://berlin.droidcon.com/mada-aflak/) and [Sinan Kozak](https://berlin.droidcon.com/sinan-kozak/).
 	- Role during Panel: Moderator as well as Panellist: [Speaker card](https://berlin.droidcon.com/raul-hernandez-lopez/).
-	- [Intro Slides](https://speakerdeck.com/raulh82vlc/what-i-wish-i-knew-when-i-was-a-junior-developer-that-i-would-tell-as-a-staff-software-engineer)
-	- Recording with video to be published soon.
-
 
 # 2022 In general
 - [***"Bye 2021, Long Live 2022!"***](https://raul-h82.medium.com/bye-2021-long-live-2022-49fad78b6360) featured into Specials section at [Android #499](https://androidweekly.net/issues/issue-499)
