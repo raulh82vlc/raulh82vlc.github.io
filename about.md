@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Raúl Hernández López / Raul Hernandez Lopez
-*Senior Staff / Principal Software Engineer - focused on Android & Kotlin*
+*Senior Staff Software Engineer for Mobile*
 
 ### Overview
 I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (11+ Years Experience), specializing in the Android platform (10 YE) & the Kotlin language (7 YE).
@@ -14,17 +14,36 @@ Moreover, I am a public speaker when I get the chance for it, so far I've partic
 
 I am from Valencia (Spain) originally, where we used to love paella and horchata, nowadays I am also living and working (from home) in Valencia (Spain). Nevertheless, I've also lived/worked in London (UK) and Antwerp (Belgium).
 
-I do love traveling when I can, listening to music metal/rock gigs, reading tech/no-tech books, hanging out with friends, a very cold beer, or running sometimes.
+I do love traveling when I can, listening to technical and not so technical music, either attending metal/rock gigs, reading tech/no-tech books, hanging out with friends, a very cold beer, or running.
 
 - [Presentations slides](https://speakerdeck.com/raulh82vlc) index in SpeakerDeck.
 
 # Work experience
 
 ## Currently
-- **Remote Staff Software Engineer (Mobile SDKs)** from June 2022.
-	- Helping Zendesk creating delightful customer experiences for the Mobile SDKs team.
+- **Remote Senior Staff Software Engineer (Mobile)** from March 2024 onwards.
+	
+	- Creating delightful Customer Experiences (CX) with the best teams at Zendesk.
+	- Working on the Android Native Messaging SDK.
+	- Working on Scaling Mobile SDKs.
+	
+Roles:
+	
+- Senior Technical Lead for Mobile.
+- Staff Plus: Architect archetype.
+- Senior Technical Lead for Android.
+- Mentor.
+
 ## Formerly
-- **Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018 until April 2022*
+- **Remote Staff Software Engineer (Mobile SDKs)** from June 2022 until February 2024.
+	- Helping Zendesk creating delightful customer experiences for the Mobile SDKs team.
+	- Working on the Android Native Messaging SDK.
+	- Working on Scaling Mobile SDKs.
+	- Senior Technical Lead for Android.
+	- Mentor.
+
+- **Remote Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018 until April 2022*
+	- Fully Remote from 2020 to 2022.
 	- Collaborated for the Twitter Blue team. Jan'21 - April'22.
 	- Collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21
 	- Collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
