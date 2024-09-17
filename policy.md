@@ -10,24 +10,7 @@ This privacy policy applies to the Smart Tiny Calculator app (hereby referred to
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
-
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
-
-The Application does not gather precise information about the location of your mobile device.
-
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
-
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
-
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
-
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to none. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+The Application does not collect any information when you download and use it. However, calculus may be recorded at a later point.
 
 **Third Party Access**
 
@@ -49,7 +32,7 @@ You can stop all collection of information by the Application easily by uninstal
 
 **Data Retention Policy**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at raul.h82@gmail.com and they will respond in a reasonable time.
+The Service Provider do not retain any User Provided data, thus, the Application is working offline, please contact them at raul.h82@gmail.com and they will respond in a reasonable time if you have any further questions. 
 
 **Children**
 
@@ -69,7 +52,7 @@ This privacy policy is effective as of 2024-09-17
 
 **Your Consent**
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+By using the Application, you are consenting to the processing of your calculations as set forth in this Privacy Policy now and as amended by us.
 
 **Contact Us**
 
