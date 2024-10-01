@@ -23,12 +23,11 @@ I do love traveling when I can, listening to technical and not so technical musi
 ## Currently
 - **Remote Senior Staff Software Engineer (Mobile)** from March 2024 onwards.
 	
-	- Creating delightful Customer Experiences (CX) with the best teams at Zendesk.
-	- Mobile Apps and Mobile SDKs.
+	- We create delightful Customer Experiences (CX) with the best teams at Zendesk.
+	- Group Tech Lead for Mobile SDKs: Android, Unity and iOS & Mobile Apps (Support): Android and iOS.
 	- Working on the Android Native Messaging SDK.
-	- Working on Scaling Mobile SDKs.
-	- Staff Plus: Architect archetype.
-	- Mentor.
+	- Working on Scaling Mobile SDKs and Apps.
+	- Architect and Mentor.
 
 ## Formerly
 - **Remote Staff Software Engineer (Mobile SDKs)** from June 2022 until February 2024.
