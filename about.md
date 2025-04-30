@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Raúl Hernández López / Raul Hernandez Lopez
-*Senior Staff Software Engineer for Mobile*
+*Senior Staff Software Engineer for Mobile and SDKs*
 
 ### Overview
 I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (11+ Years Experience), specializing in the Android platform (10 YE) & the Kotlin language (7 YE).
@@ -21,20 +21,20 @@ I do love traveling when I can, listening to technical and not so technical musi
 # Work experience
 
 ## Currently
-- **Remote Senior Staff Software Engineer (Mobile)** at **Zendesk** from March 2024 onwards.
+- **Remote Senior Staff Software Engineer (Mobile and SDKs)** at **Zendesk** from March 2024 onwards.
 	
 	- We create delightful Customer Experiences (CX) with the best teams at Zendesk.
 	- Group Tech Lead for Mobile SDKs: Android, Unity and iOS & Mobile Apps (Support): Android and iOS.
-	- Working on the Android Native Messaging SDK.
-	- Working on Scaling Mobile SDKs and Apps.
+	- We work on the Android Native Messaging SDK.
+	- We work on Scaling Mobile SDKs and Apps.
 	- Architect and Mentor.
 
 ## Formerly
 - **Remote Staff Software Engineer (Mobile SDKs)** at **Zendesk** from June 2022 until February 2024.
-	- Helping Zendesk creating delightful customer experiences for the Mobile SDKs team.
+	- Helped Zendesk creating delightful customer experiences for the Mobile SDKs team.
 	- Mobile SDKs.
-	- Working on the Android Native Messaging SDK.
-	- Working on Scaling Mobile SDKs.
+	- Worked on the Android Native Messaging SDK.
+	- Worked on Scaling Mobile SDKs.
 	- Staff Plus: Architect archetype.
 	- Mentor.
 
@@ -190,9 +190,10 @@ I do love traveling when I can, listening to technical and not so technical musi
 - [Gist](https://gist.github.com/raulh82vlc)
 
 # Studies
-- **MSc Computational & Software Techniques in Engineering** specialisation of *Software Engineering* at *Cranfield University (UK)*
-- **Engineer in Computer Science** specialisation of *Software Engineering* (second cycle) & *Information Systems* (first cycle) or **BSc(Hons) Information Systems + MSc Software Engineering** (BSc + MSc is equivalent to the Spanish Engineer degree) at *Polytechnic University of Valencia (Spain)*
-- **BSc(Hons) Information technology** at *Edinburgh Napier University (UK)*
+- **MEd in Compulsory Secondary and Upper Secondary Education, Vocational Training and Language Teaching** specialisation of *Technology and Computer Science* at *Universidad Internacional de La Rioja (UNIR), (Spain, online)*
+- **MSc Computational & Software Techniques in Engineering** specialisation of *Software Engineering* at *Cranfield University (Cranfield, UK)*
+- **Engineer in Computer Science** specialisation of *Software Engineering* (second cycle) & *Information Systems* (first cycle) or **BSc(Hons) Information Systems + MSc Software Engineering** (BSc + MSc is equivalent to the Spanish Engineer degree) at *Polytechnic University of Valencia (UPV), (Valencia, Spain)*
+- **BSc(Hons) Information technology** at *Edinburgh Napier University (Edinburgh, UK)*
 
 ## Hobbies
 I do enjoy meeting new cultures, learning from others & self-learning myself, listening rock / metal music, running, reading or travelling.
