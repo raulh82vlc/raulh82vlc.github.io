@@ -5,16 +5,24 @@ permalink: /about/
 ---
 
 # Raúl Hernández López / Raul Hernandez Lopez
-*Senior Staff Software Engineer for Mobile and SDKs*
+*Remote Senior Staff Software Engineer (Mobile|Android) | ex (Zendesk|Twitter|Medtronic)*
 
-### Overview
-I would like to introduce myself as a continuous learner apart from being an experienced Software Engineer (11+ Years Experience), specializing in the Android platform (10 YE) & the Kotlin language (7 YE).
+## My profile
 
-Moreover, I am a public speaker when I get the chance for it, so far I've participated as an international speaker in different events like podcasts, meetups, panels, or conferences such as Droidcon: Berlin'23, UK'19 & '17, Spain'19, GOTO Copenhagen'19 or Remote such as EMEA & APAC'20 or FOSDEM'21; Podcasts such as AndroidDevPodcast Jul'20 or #ChimichurriCode Jun'21; Meetups such as Londroid April'17 or Virtual Meetups such as Kotlin London Dec'20 & Jun'21, MADG Spain Nov'20 RockNDroid Vigo May'21. I used to write some articles on Medium (linked from this blog too).
+### Who am I?
+Across my career, I’ve led **critical projects** and helped shape **healthy engineering cultures** through **communities of practice** (part of my DNA as a **Staff+ engineer**). Depending on the needs of my team, I’ve worn many hats: from **tech lead** to **team lead**, balancing **delivery** with **mentoring** and **long-term architecture thinking**.
 
-I am from Valencia (Spain) originally, where we used to love paella and horchata, nowadays I am also living and working (from home) in Valencia (Spain). Nevertheless, I've also lived/worked in London (UK) and Antwerp (Belgium).
+### My foundations
+My foundation spans the UK and Spain, where I completed my high-level IT/Computing education. I’ve had the opportunity to work in diverse settings across Belgium, Spain, and the UK (experiences that have made me **highly adaptable and culturally aware**).
 
-I do love traveling when I can, listening to technical and not so technical music, either attending metal/rock gigs, reading tech/no-tech books, hanging out with friends, a very cold beer, or running.
+Technically, I specialize in **native Android development** with **Kotlin** and **Java**, but I’m even more invested in engineering **soft skills (communication, influence, and leadership)** which only time and **experience** can teach.
+
+### Public speaking and technical contributions
+Outside of work, I enjoy **public speaking** and **sharing knowledge** with the **community**. I’ve been fortunate to speak at conferences like Droidcon UK (2017, 2019), Android Makers (2020), Droidcon Spain (2019), Droidcon EMEA/APAC (2020), GOTO Copenhagen (2019), and more. I’ve also contributed to podcasts like AndroidDevPodcast and Londroid, and I occasionally write reflective or technical pieces on my blog and Medium.
+
+### Let's keep in touch
+As I wrap up this chapter, I’ll be taking some time off to focus on my **Master’s in Teaching** before exploring new opportunities starting November. If you're looking for a **seasoned, thoughtful engineer** who’s passionate about **people and platforms**, I’d love to connect.
+
 
 - [Presentations slides](https://speakerdeck.com/raulh82vlc) index in SpeakerDeck.
 
