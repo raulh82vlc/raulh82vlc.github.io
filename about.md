@@ -26,25 +26,24 @@ As I wrap up this chapter, I’ll be taking some time off to focus on my **Maste
 
 - [Presentations slides](https://speakerdeck.com/raulh82vlc) index in SpeakerDeck.
 
+## Currently
+Studying **Master in Teaching Computer Science and Technology**.
+
 # Work experience
 
-## Currently
-- **Remote Senior Staff Software Engineer (Mobile and SDKs)** at **Zendesk** from March 2024 onwards.
-	
-	- We create delightful Customer Experiences (CX) with the best teams at Zendesk.
-	- Group Tech Lead for Mobile SDKs: Android, Unity and iOS & Mobile Apps (Support): Android and iOS.
-	- We work on the Android Native Messaging SDK.
-	- We work on Scaling Mobile SDKs and Apps.
-	- Architect and Mentor.
-
 ## Formerly
+- **Remote Senior Staff Software Engineer (Mobile and SDKs)** at **Zendesk** from March 2024 until June 2025.
+	- Created delightful Customer Experiences (CX) with the best teams at Zendesk.
+	- Group Tech Lead for Mobile SDKs: Android, Unity and iOS & Mobile Apps (Support): Android and iOS.
+	- Worked on the Android Native Messaging SDK.
+	- Worked on Scaling Mobile SDKs and Apps.
+	- Architect, Group Tech Lead and Mentor.
 - **Remote Staff Software Engineer (Mobile SDKs)** at **Zendesk** from June 2022 until February 2024.
 	- Helped Zendesk creating delightful customer experiences for the Mobile SDKs team.
 	- Mobile SDKs.
 	- Worked on the Android Native Messaging SDK.
 	- Worked on Scaling Mobile SDKs.
-	- Staff Plus: Architect archetype.
-	- Mentor.
+	- Architect, Tech Lead and Mentor.
 
 - **Remote Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018 until April 2022*
 	- Fully Remote from 2020 to 2022.
