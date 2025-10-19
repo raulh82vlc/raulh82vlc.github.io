@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Monkey
+* source:	https://sketchfab.com/3d-models/japanese-monkey-6805de96391f4ad7b1933c041d756d27
+* author:	seirogan (https://sketchfab.com/seirogan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Monkey" (https://sketchfab.com/3d-models/japanese-monkey-6805de96391f4ad7b1933c041d756d27) by seirogan (https://sketchfab.com/seirogan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,98 @@
+<!doctype html>
+<!-- 
+Animal maze game
+-->
+<html lang="es">
+	<head>
+		<meta charset='utf-8'>
+		<title>Animal maze game</title>
+		<style>
+			body {
+				background-color: #000;
+				margin: 0px;
+				overflow: hidden;
+			}
+			/* #container, #container canvas {
+				border: none;
+				outline: none;
+				margin: 0;
+				padding: 0;
+			} */
+			#win {
+            	display: none;
+            	position: absolute;
+            	top: 50%;
+            	left: 50%;
+            	transform: translate(-50%, -50%);
+            	background: rgba(255, 215, 0, 0.95);
+            	padding: 40px;
+            	border-radius: 20px;
+            	text-align: center;
+            	border: 5px solid #854314;
+            	z-index: 200;
+				font-family: Arial, sans-serif;
+        	}
+			#win button {
+            	margin-top: 20px;
+            	padding: 10px 30px;
+            	font-size: 18px;
+            	background: #7e3f12;
+            	color: white;
+            	border: none;
+            	border-radius: 10px;
+            	cursor: pointer;
+        	}
+			#win button:hover {
+            	background: #6a4622;
+        	}
+			#info {
+				position: absolute;
+				top: 50%;
+            	left: 50%;
+				background: rgba(255, 255, 255, 0.9);
+				padding: 15px;
+				border-radius: 10px;
+				border: 3px solid #793d12;
+				z-index: 200;
+				font-family: Arial, sans-serif;
+        	}
+			#info h2 {
+				margin: 0 0 10px 0;
+				color: #604020;
+			}
+			#info p {
+				margin: 5px 0;
+			}
+		</style>
+	</head>
+	<body>
+		<!-- game screens -->
+		<div id="win">
+        <h1>Lo has logrado, niveles pasados.</h1>
+        	<p style="font-size: 20px; color: #333333;">Has completado todos los niveles</p>
+        	<button onclick="restartGame()">Jugar de nuevo</button>
+    	</div>
+		<div id="info">
+        	<h2>🐒 Animal maze</h2>
+        	<p>Nivel: <span id="level">1</span></p>
+        	<p>⬅️ girar a izquierda ⬆️ Mover adelante ⬇️ Retroceder ➡️ Girar a derecha</p>
+			<button onclick="this.parentElement.style.display='none'">Cerrar</button>
+        <p style="font-size: 12px; color: #666666e4;">Encuentra el animal <span id="animalIcon">🐒</span></p></p>
+    </div>
+		<div id="container"></div>
+
+		<!-- scripts / libraries -->
+		<script src="lib/three.min_r140.js"></script>
+		<script src="lib/OrbitControls.js"></script>
+		<script src="lib/stats.min.js"></script>
+		<script src="lib/dat.gui.min.js"></script>
+		<script src="lib/GLTFLoader.js"></script>
+		<script src="lib/tween_18.js"></script>
+	
+		<!-- My code -->
+		<script src="js/maze_creator.js"></script>
+		<script src="js/animal_maze.js"></script>
+		
+
+	</body>
+</html>
