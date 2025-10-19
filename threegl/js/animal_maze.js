@@ -212,20 +212,20 @@ function loadScene() {
     
     if (currentLevel === 1) {
         // monkey
-        createAnimalTexture('threegl/models/japanese_monkey/scene.gltf')
+        createAnimalTexture('models/japanese_monkey/scene.gltf')
     } else {
         // fish
-        createAnimalTexture('threegl/models/shiny_fish/scene.gltf')
+        createAnimalTexture('models/shiny_fish/scene.gltf')
     }
     
     const cubeTextureLoader = new THREE.CubeTextureLoader();
     cubemap = cubeTextureLoader.load([
-        'threegl/skybox/phobos_lf.jpg', 
-        'threegl/skybox/phobos_rt.jpg', 
-        'threegl/skybox/phobos_up.jpg', 
-        'threegl/skybox/phobos_dn.jpg', 
-        'threegl/skybox/phobos_ft.jpg',  
-        'threegl/skybox/phobos_bk.jpg' 
+        'skybox/phobos_lf.jpg', 
+        'skybox/phobos_rt.jpg', 
+        'skybox/phobos_up.jpg', 
+        'skybox/phobos_dn.jpg', 
+        'skybox/phobos_ft.jpg',  
+        'skybox/phobos_bk.jpg' 
     ], 
         function (texture) {
             console.log('Cubemap loaded.');
@@ -240,12 +240,12 @@ function loadScene() {
     // load 6 textures  each one for skybox
     const textureLoader = new THREE.TextureLoader();    
     const materials = [
-        new THREE.MeshBasicMaterial({ map: textureLoader.load('threegl/skybox/phobos_lf.jpg'), side: THREE.BackSide }), 
-        new THREE.MeshBasicMaterial({ map: textureLoader.load('threegl/skybox/phobos_rt.jpg'), side: THREE.BackSide }), 
-        new THREE.MeshBasicMaterial({ map: textureLoader.load('threegl/skybox/phobos_up.jpg'), side: THREE.BackSide }), 
-        new THREE.MeshBasicMaterial({ map: textureLoader.load('threegl/skybox/phobos_dn.jpg'), side: THREE.BackSide }), 
-        new THREE.MeshBasicMaterial({ map: textureLoader.load('threegl/skybox/phobos_ft.jpg'), side: THREE.BackSide }), 
-        new THREE.MeshBasicMaterial({ map: textureLoader.load('threegl/skybox/phobos_bk.jpg'), side: THREE.BackSide })  
+        new THREE.MeshBasicMaterial({ map: textureLoader.load('skybox/phobos_lf.jpg'), side: THREE.BackSide }), 
+        new THREE.MeshBasicMaterial({ map: textureLoader.load('skybox/phobos_rt.jpg'), side: THREE.BackSide }), 
+        new THREE.MeshBasicMaterial({ map: textureLoader.load('skybox/phobos_up.jpg'), side: THREE.BackSide }), 
+        new THREE.MeshBasicMaterial({ map: textureLoader.load('skybox/phobos_dn.jpg'), side: THREE.BackSide }), 
+        new THREE.MeshBasicMaterial({ map: textureLoader.load('skybox/phobos_ft.jpg'), side: THREE.BackSide }), 
+        new THREE.MeshBasicMaterial({ map: textureLoader.load('skybox/phobos_bk.jpg'), side: THREE.BackSide })  
     ];
 
     const skyboxGeometry = new THREE.BoxGeometry(1000, 1000, 1000); // big cube
@@ -318,7 +318,7 @@ function loadScene() {
 function createWallsFromMaze() {
     // creating walls of the maze
     var wallGeometry = new THREE.BoxGeometry(cellSize, 30, 5);
-    var wallTexture = currentLevel === 1 ? createWallTexture('threegl/images/wood.jpg') : createWallTexture('threegl/images/water_background.jpg');
+    var wallTexture = currentLevel === 1 ? createWallTexture('images/wood.jpg') : createWallTexture('images/water_background.jpg');
     var wallMaterial = new THREE.MeshPhongMaterial({
         map: wallTexture
     });
