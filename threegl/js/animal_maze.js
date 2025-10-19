@@ -212,20 +212,20 @@ function loadScene() {
     
     if (currentLevel === 1) {
         // monkey
-        createAnimalTexture('../models/japanese_monkey/scene.gltf')
+        createAnimalTexture('models/japanese_monkey/scene.gltf')
     } else {
         // fish
-        createAnimalTexture('../models/shiny_fish/scene.gltf')
+        createAnimalTexture('models/shiny_fish/scene.gltf')
     }
     
     const cubeTextureLoader = new THREE.CubeTextureLoader();
     cubemap = cubeTextureLoader.load([
-        '../skybox/phobos_lf.jpg', 
-        '../skybox/phobos_rt.jpg', 
-        '../skybox/phobos_up.jpg', 
-        '../skybox/phobos_dn.jpg', 
-        '../skybox/phobos_ft.jpg',  
-        '../skybox/phobos_bk.jpg' 
+        'skybox/phobos_lf.jpg', 
+        'skybox/phobos_rt.jpg', 
+        'skybox/phobos_up.jpg', 
+        'skybox/phobos_dn.jpg', 
+        'skybox/phobos_ft.jpg',  
+        'skybox/phobos_bk.jpg' 
     ], 
         function (texture) {
             console.log('Cubemap loaded.');
@@ -318,7 +318,7 @@ function loadScene() {
 function createWallsFromMaze() {
     // creating walls of the maze
     var wallGeometry = new THREE.BoxGeometry(cellSize, 30, 5);
-    var wallTexture = currentLevel === 1 ? createWallTexture('../images/wood.jpg') : createWallTexture('../images/water_background.jpg');
+    var wallTexture = currentLevel === 1 ? createWallTexture('images/wood.jpg') : createWallTexture('images/water_background.jpg');
     var wallMaterial = new THREE.MeshPhongMaterial({
         map: wallTexture
     });
