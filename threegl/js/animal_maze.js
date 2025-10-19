@@ -2,7 +2,7 @@
 const nearPlane = 0.1;
 const DEFAULT_SIZE_MAZE = 10;
 const RED_COLOUR = 0xFF0000;
-const DISTANCE_TO_END_MAZE = 30;
+const DISTANCE_TO_END_MAZE = 40;
 const ROTATION_SIDES = 0.03;
 const AMBIENT_COLOUR = 0xffffff;
 const targetFPS = 60;
@@ -23,6 +23,8 @@ var animalMarker; // animal at the end of maze marker in minimap
 var raycaster = new THREE.Raycaster(); // for collisions
 var currentSizeByLevelMaze = DEFAULT_SIZE_MAZE
 var lastFrameTime = 0;
+var soundTrack = null;
+var audioStarted = false;
 
 // GUI controls
 var controls = {
@@ -41,6 +43,10 @@ const stats = new Stats();
 
 // Event listeners para controles
 document.addEventListener('keydown', function(event) {
+    if (!audioStarted && soundTrack) {
+        soundTrack.play();
+        audioStarted = true;
+    }
     switch (event.code) {
         case 'ArrowUp':
         case 'KeyW':
@@ -213,9 +219,11 @@ function loadScene() {
     if (currentLevel === 1) {
         // monkey
         createAnimalTexture('models/japanese_monkey/scene.gltf')
+        createAudioTrack('audio/jungle-forest.mp3')
     } else {
         // fish
         createAnimalTexture('models/shiny_fish/scene.gltf')
+        createAudioTrack('audio/under-the-sea.mp3')
     }
     
     const cubeTextureLoader = new THREE.CubeTextureLoader();
@@ -377,10 +385,10 @@ function createAnimalTexture(model) {
     loader.load(model,
         function (gltf) {
             var object = gltf.scene;
-            
+            offsetEndMaze = 30
             // calculate position final
-            var endX = (mazeSize - 1 - mazeSize / 2) * cellSize + cellSize / 2;
-            var endZ = (mazeSize - 1 - mazeSize / 2) * cellSize + cellSize / 2;
+            var endX = ((mazeSize - 1 - mazeSize / 2) * cellSize + cellSize / 2) - offsetEndMaze;
+            var endZ = ((mazeSize - 1 - mazeSize / 2) * cellSize + cellSize / 2) - offsetEndMaze;
             
             // reckon bounding box object
             var boxAnimal = new THREE.Box3().setFromObject(object);
@@ -395,15 +403,15 @@ function createAnimalTexture(model) {
             object.rotation.y = Math.PI;
             object.castShadow = true;
             object.receiveShadow = true;
-            positionAnimal.set(endX, 5, endZ);
+            positionAnimal.set(endX, 2, endZ);
             
             scene.add(object);
-            var rotationAnim = { y: Math.PI };
+            var rotationAnim = { x: Math.PI };
             new TWEEN.Tween(rotationAnim)
-                .to({ y: Math.PI + (Math.PI * 2) }, 4000) // rotate 360 degrees in 4 secs
+                .to({ x: -Math.PI + (-Math.PI * 2) }, 4000) // rotate 360 degrees in 4 secs
                 .easing(TWEEN.Easing.Linear.None)
                 .onUpdate(function() {
-                    object.rotation.y = rotationAnim.y;
+                    object.rotation.x = rotationAnim.x;
                 })
                 .repeat(Infinity) // repeat all the time
                 .start();
@@ -415,6 +423,41 @@ function createAnimalTexture(model) {
         console.log(error)
     }
     );
+}
+
+function createAudioTrack(file) {
+    if (soundTrack) {
+        if (soundTrack.isPlaying) {
+            soundTrack.stop();
+        }
+        // disconnect listener
+        if (soundTrack.source) {
+            soundTrack.disconnect();
+        }
+    }
+    
+    const listener = new THREE.AudioListener();
+    camera.add(listener);
+    // create a global audio source
+    soundTrack = new THREE.Audio( listener );
+
+    // load a sound and set it as the Audio object's buffer
+    const audioLoader = new THREE.AudioLoader();
+    audioLoader.load(file, function( buffer ) {
+        soundTrack.setBuffer( buffer );
+        soundTrack.setLoop( true );
+        soundTrack.setVolume( 0.5 );
+        // if already connected, play
+        if (audioStarted) {
+            soundTrack.play();
+        }
+    },
+    function(xhr) {
+        console.log((xhr.loaded / xhr.total * 100) + '% cargado audio');
+    },
+    function(error) {
+        console.error('Error cargando audio:', error);
+    });
 }
 
 /**
@@ -503,12 +546,14 @@ function update() {
         var distanceToAnimal = playerPosition.distanceTo(positionAnimal);
 
         if (distanceToAnimal < DISTANCE_TO_END_MAZE) {
-            if (currentLevel === 1) {
-                console.log("Distancia al final o animal:", distanceToAnimal)
+            console.log("Distancia al final del laberinto o animal:", distanceToAnimal)
+            if (soundTrack && soundTrack.isPlaying) {
+                soundTrack.stop();
+            }
+            if (currentLevel === 1) {   
                 currentLevel = 2;
                 loadScene();
             } else {
-                console.log("Distancia al final o animal:", distanceToAnimal)
                 document.getElementById('win').style.display = 'block';
             }
         }
@@ -522,8 +567,19 @@ function update() {
 
 function restartGame() {
     currentLevel = 1;
+    
+    if (audioStarted && soundTrack) {
+        try {
+            // stop previous sound
+            soundTrack.stop();
+        } catch (e) {
+            console.warn("Error al detener audio:", e);
+        }
+    }
+    audioStarted = false;
     var winDiv = document.getElementById('win');
     if (winDiv) {
+        // close div once won
         winDiv.style.display = 'none';
     }
     currentSizeByLevelMaze = controls.currentSizeByLevelMaze;
