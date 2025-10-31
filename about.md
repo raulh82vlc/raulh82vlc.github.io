@@ -197,10 +197,12 @@ Studying **Master in Teaching Computer Science and Technology**.
 - [Gist](https://gist.github.com/raulh82vlc)
 
 # Studies
-- **MEd in Compulsory Secondary and Upper Secondary Education, Vocational Training and Language Teaching** specialisation of *Technology and Computer Science* at *Universidad Internacional de La Rioja (UNIR), (Spain, online)*
+- **MSc in Artificial Intelligence, Pattern Recognition, and Digital Imaging** specialisation in *Human Language Technologies and Pattern Recognition* at *Polytechnic University of Valencia (UPV), (Valencia, Spain)*
+	- *September 2025 onwards*
+- **MEd in Compulsory Secondary and Upper Secondary Education, Vocational Training and Language Teaching** specialisation in *Technology and Computer Science* at *Universidad Internacional de La Rioja (UNIR), (Spain, online)*
 	- *February 2025 to February 2026*
 - **MSc Computational & Software Techniques in Engineering** specialisation of *Software Engineering* at *Cranfield University (Cranfield, UK)*
-- **Engineer in Computer Science** specialisation of *Software Engineering* (second cycle) & *Information Systems* (first cycle) or **BSc(Hons) Information Systems + MSc Software Engineering** (BSc + MSc is equivalent to the Spanish Engineer degree) at *Polytechnic University of Valencia (UPV), (Valencia, Spain)*
+- **Engineer in Computer Science** specialisation in *Software Engineering* (second cycle) & *Information Systems* (first cycle) or **BSc(Hons) Information Systems + MSc Software Engineering** (BSc + MSc is equivalent to the Spanish Engineer degree) at *Polytechnic University of Valencia (UPV), (Valencia, Spain)*
 - **BSc(Hons) Information technology** at *Edinburgh Napier University (Edinburgh, UK)*
 
 ## Hobbies
