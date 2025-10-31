@@ -27,7 +27,7 @@ As I wrap up this chapter, I’ll be taking some time off to focus on my **Maste
 - [Presentations slides](https://speakerdeck.com/raulh82vlc) index in SpeakerDeck.
 
 ## Currently
-I'm studying a **MSc in Artificial Intelligence, Pattern Recognition, and Digital Imaging** & finishing **Master in Teaching Computer Science and Technology**.
+I'm studying a **MSc in Artificial Intelligence, Pattern Recognition, and Digital Imaging** & finishing a **Master in Teaching Computer Science and Technology**.
 
 # Work experience
 
