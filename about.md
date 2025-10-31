@@ -224,10 +224,6 @@ I do enjoy meeting new cultures, learning from others & self-learning myself, li
 ### Social media
 - [@RaulHernandez androiddev.social](https://androiddev.social/@RaulHernandez)
 - [@RaulHernandez kotlin.social](https://kotlin.social/@RaulHernandez)
-- [@RaulHernandezL (deprecated account at Twitter)](https://twitter.com/RaulHernandezL)
-
-### Contact me
-- [mail-me](mailto:raulh82vlc@duck.com)
 
 ### Other public profiles
 - [Raul's Medium](https://raul-h82.medium.com/)
