@@ -17,11 +17,11 @@ avatar: https://cdn.masto.host/androiddevsocial/accounts/avatars/109/370/256/526
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: raulh82vlc@duck.com
   github: raulh82vlc
   linkedin: raulhernandezl
   rss: # just type anything here for a working RSS icon
-  twitter: RaulHernandezL
+  email:
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 
