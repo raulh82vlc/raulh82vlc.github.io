@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Raúl Hernández López / Raul Hernandez Lopez
-*Remote Senior Staff Software Engineer (Mobile|Android) | ex (Zendesk|Twitter|Medtronic)*
+*Remote Senior Staff Software Engineer ( Mobile | Android ) | ex ( Zendesk | Twitter | Medtronic )*
 
 ## My profile
 
