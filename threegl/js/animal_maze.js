@@ -6,6 +6,8 @@ const DISTANCE_TO_END_MAZE = 40;
 const ROTATION_SIDES = 0.03;
 const AMBIENT_COLOUR = 0xffffff;
 const GOLDEN_COLOUR ='#FFD700'
+const ORANGE_COLOUR = 0xFF6600
+const BLUE_COLOUR = 0x00BFFF
 const targetFPS = 60;
 const frameInterval = 1000 / targetFPS; // 16.67ms needed for 60 FPS
 var renderer, scene, camera, cameraTop;
@@ -486,7 +488,7 @@ function addLightTorches() {
         
         // point light for torch
         var pointlight = new THREE.PointLight(
-            currentLevel === 1 ? 0xFF6600 : 0x00BFFF, // orage in level 1, blue level 2
+            currentLevel === 1 ? ORANGE_COLOUR : BLUE_COLOUR,
             2.6,
             100,
             2
