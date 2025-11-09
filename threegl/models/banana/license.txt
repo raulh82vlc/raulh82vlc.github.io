@@ -1,0 +1,11 @@
+Model Information:
+* title:	Banana Skin in Substance Painter
+* source:	https://sketchfab.com/3d-models/banana-skin-in-substance-painter-b0d1aa58ef3a442e929363e8422641c7
+* author:	8N Films Official (https://sketchfab.com/8nfilms)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Banana Skin in Substance Painter" (https://sketchfab.com/3d-models/banana-skin-in-substance-painter-b0d1aa58ef3a442e929363e8422641c7) by 8N Films Official (https://sketchfab.com/8nfilms) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

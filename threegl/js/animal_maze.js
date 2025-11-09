@@ -5,6 +5,7 @@ const RED_COLOUR = 0xFF0000;
 const DISTANCE_TO_END_MAZE = 40;
 const ROTATION_SIDES = 0.03;
 const AMBIENT_COLOUR = 0xffffff;
+const GOLDEN_COLOUR ='#FFD700'
 const targetFPS = 60;
 const frameInterval = 1000 / targetFPS; // 16.67ms needed for 60 FPS
 var renderer, scene, camera, cameraTop;
@@ -25,6 +26,17 @@ var currentSizeByLevelMaze = DEFAULT_SIZE_MAZE
 var lastFrameTime = 0;
 var soundTrack = null;
 var audioStarted = false;
+// added skybox to fix the bug, now it changes depending on position of the player
+var skybox = null;
+var sphere = null; // same for sphere to make it not visible on screen
+// collected items, coral in level 2, bananas in level 1
+var collectedItems = []; // collected items
+var collectedItemsMeshes = []; // collected items meshes
+var numCollectedItems = 0;
+// sprite is to render the number of collected items on screen
+var textSpriteToRender = null;
+// torches
+var lightTorches = []; // new lights
 
 // GUI controls
 var controls = {
@@ -189,6 +201,11 @@ function loadScene() {
     }
     walls = [];
     wallMeshes = [];
+    collectedItems = []; // collected items
+    collectedItemsMeshes = []; // collected items meshes
+    numCollectedItems = 0;
+    lightTorches = []; // new lights
+
 
     // sky and fog colour depending on level
     fogIntesity = 500 // 800 is few fog
@@ -227,7 +244,7 @@ function loadScene() {
     }
     
     const cubeTextureLoader = new THREE.CubeTextureLoader();
-    cubemap = cubeTextureLoader.load([
+    var cubemap = cubeTextureLoader.load([
         'skybox/phobos_lf.jpg', 
         'skybox/phobos_rt.jpg', 
         'skybox/phobos_up.jpg', 
@@ -237,6 +254,7 @@ function loadScene() {
     ], 
         function (texture) {
             console.log('Cubemap loaded.');
+            scene.background = cubemap;
         }, 
         undefined, 
         function (error) {
@@ -256,25 +274,52 @@ function loadScene() {
         new THREE.MeshBasicMaterial({ map: textureLoader.load('skybox/phobos_bk.jpg'), side: THREE.BackSide })  
     ];
 
-    const skyboxGeometry = new THREE.BoxGeometry(1000, 1000, 1000); // big cube
-    const skybox = new THREE.Mesh(skyboxGeometry, materials);
+    cubeTextureLoader.load([
+        'skybox/phobos_lf.jpg', 
+        'skybox/phobos_rt.jpg', 
+        'skybox/phobos_up.jpg', 
+        'skybox/phobos_dn.jpg', 
+        'skybox/phobos_ft.jpg',  
+        'skybox/phobos_bk.jpg' 
+    ], 
+        function (cubemapForSphere) {
+            // create a reflect material
+            const sphereGeometry = new THREE.SphereGeometry(5, 64, 64);
+            const reflectiveMaterial = new THREE.MeshPhongMaterial({
+                envMap: cubemapForSphere, // use el cubemap to reflect
+                metalness: 1.0,
+                roughness: 0.1
+            });
+            sphere = new THREE.Mesh(sphereGeometry, reflectiveMaterial);
+            sphere.position.set(0, 0, 0); // Posicionar la esfera
+            scene.castShadow = true;
+            scene.add(sphere);
+        }, 
+        undefined, 
+        function (error) {
+            console.error('Error loading cubemap', error);
+        }
+    );
 
+    const skyboxGeometry = new THREE.BoxGeometry(800, 800, 800); // big cube
+    skybox = new THREE.Mesh(skyboxGeometry, materials);
+    skybox.position.set(playerPosition.x,
+            playerPosition.y,
+            playerPosition.z);
+    skybox.updateMatrix();
+    skybox.updateMatrixWorld();
+    if (sphere) {
+        sphere.position.set(playerPosition.x,
+            playerPosition.y,
+            playerPosition.z);
+    }
     scene.add(skybox);
-    
-    // create a reflect material
-    const sphereGeometry = new THREE.SphereGeometry(1, 32, 32);
-    const reflectiveMaterial = new THREE.MeshPhongMaterial({
-        envMap: cubemap // Usar el cubemap como entorno reflectante
-    });
-    const sphere = new THREE.Mesh(sphereGeometry, reflectiveMaterial);
-    sphere.position.x = 0; // Posicionar la esfera
-    scene.add(sphere);
 
     // ambient light
-    var ambientLight = new THREE.AmbientLight(AMBIENT_COLOUR, 0.7);
+    var ambientLight = new THREE.AmbientLight(AMBIENT_COLOUR, 0.5); // reduced ambient light to give torches light more significant value, from 0.7 to 0.5
     scene.add(ambientLight);
 
-    var directionalLight = new THREE.DirectionalLight(AMBIENT_COLOUR, 1.0);
+    var directionalLight = new THREE.DirectionalLight(AMBIENT_COLOUR, 0.8); // reducing directional light too from 1 to 0.8
     directionalLight.position.set(100, 200, 100);
     directionalLight.castShadow = true;
     directionalLight.shadow.camera.left = -500;
@@ -284,8 +329,10 @@ function loadScene() {
     directionalLight.shadow.camera.far = 1000;
     scene.add(directionalLight);
 
-    var hemisphereLight = new THREE.HemisphereLight(AMBIENT_COLOUR, 0x444444, 0.5);
+    var hemisphereLight = new THREE.HemisphereLight(AMBIENT_COLOUR, 0x444444, 0.3); // reduced from 0.5 to 0.2 too
     scene.add(hemisphereLight);
+    addLightTorches();
+    addCollectedItems();
 
     // player marker to show in the minimap
     var markerGeometry = new THREE.CylinderGeometry(10, 10, 5, 10);
@@ -311,11 +358,202 @@ function loadScene() {
     cameraTop.bottom = -mapSize;
     cameraTop.updateProjectionMatrix();
 
-    // update UI
+    updateUIWithNewObjects();
+}
+
+function updateUIWithNewObjects() {
     var levelElement = document.getElementById('level');
     var animalIconElement = document.getElementById('animalIcon');
     if (levelElement) levelElement.textContent = currentLevel;
     if (animalIconElement) animalIconElement.textContent = currentLevel === 1 ? '🐒' : '🐠';
+    
+    // update counter
+    updateCollectedItemsText();
+}
+
+function createText(text) {
+    // canvas
+    var canvas = document.createElement('canvas');
+    // 2d context
+    var context = canvas.getContext('2d');
+    canvas.width = 512;
+    canvas.height = 128;
+    
+    // almost alpha equal to 0
+    context.fillStyle = 'rgba(0, 0, 0, 0.8)';
+    context.fillRect(0, 0, canvas.width, canvas.height);
+    
+    // gold colour
+    context.strokeStyle = GOLDEN_COLOUR;
+    context.lineWidth = 4;
+    context.strokeRect(3, 3, canvas.width - 6, canvas.height - 6);
+    
+    // text features
+    context.font = 'bold 38px Arial';
+    context.fillStyle = GOLDEN_COLOUR;
+    context.textAlign = 'center';
+    context.textBaseline = 'middle';
+    context.fillText(text, canvas.width / 2, canvas.height / 2);
+    
+    // texture for canvas
+    var texture = new THREE.CanvasTexture(canvas);
+    texture.needsUpdate = true;
+    
+    // create sprite for text
+    var spriteMaterial = new THREE.SpriteMaterial({ map: texture });
+    var spriteToRender = new THREE.Sprite(spriteMaterial);
+    spriteToRender.scale.set(16, 4, 1); // sprite size
+    return spriteToRender;
+}
+
+/**
+ * collected items multi purpose
+ * 1) clean up
+ * 2) render icon and counter with text
+ * 3) refresh with position besides player
+ * 4) render sprite with counter again
+ */
+function updateCollectedItemsText() {
+    if (textSpriteToRender) {
+        scene.remove(textSpriteToRender);
+        if (textSpriteToRender.material.map) textSpriteToRender.material.map.dispose();
+        if (textSpriteToRender.material) textSpriteToRender.material.dispose();
+    }
+    var icon = currentLevel === 1 ? '🍌' : '🪸';
+    var text = icon + ' ' + numCollectedItems + '/' + collectedItems.length;
+    textSpriteToRender = createText(text);
+    if (textSpriteToRender) {
+        updateTextSprinteContent();
+        scene.add(textSpriteToRender);
+    }
+}
+
+function addCollectedItems() {
+    // only 50% of collected items if so
+    var numCollectedItems = Math.floor(mazeSize * 0.5);
+    
+    for (var i = 0; i < numCollectedItems; i++) {
+        // random position
+        var x = Math.floor(Math.random() * mazeSize);
+        var y = Math.floor(Math.random() * mazeSize);
+        
+        // remove first and last position of the maze
+        if ((x === 0 && y === 0) || (x === mazeSize - 1 && y === mazeSize - 1)) {
+            continue;
+        }
+        // items appear right in the middle of the maze
+        var posX = (x - mazeSize / 2) * cellSize + cellSize / 2;
+        var posZ = (y - mazeSize / 2) * cellSize + cellSize / 2;
+        // either banana or coral for second level
+        const collectedItemTexture = currentLevel === 1 ? 'models/banana/scene.gltf' : 'models/coral/scene.gltf';
+        createCollectedItemTexture(collectedItemTexture, posX, posZ)
+    }
+}
+
+// adds torches with light
+function addLightTorches() {
+    // number up to 50% chances
+    var numLights = Math.floor(mazeSize * 0.50);
+    var wallIndices = [];
+    for (var i = 0; i < walls.length; i++) {
+        wallIndices.push(i);
+    }
+    wallIndices.sort(function() { return 0.5 - Math.random(); });
+    for (var i = 0; i < numLights && i < wallIndices.length; i++) {
+
+        var wall = walls[wallIndices[i]];
+
+        var posX = wall.pos.x;
+        var posY = 15; // fixed initial posY
+        var posZ = wall.pos.z;
+
+        var offset = 6; // small offset
+        // add to when direction horizontal
+        if (wall.direction === 'horizontal') {
+            // north or south
+            if (wall.pos.z < 0) {
+                posZ += offset; // wall north
+            } else {
+                posZ -= offset; // south
+            }
+        } else {
+            if (wall.pos.x < 0) {
+                posX += offset; // wall west
+            } else {
+                posX -= offset; // east
+            }
+        }
+        
+        // point light for torch
+        var pointlight = new THREE.PointLight(
+            currentLevel === 1 ? 0xFF6600 : 0x00BFFF, // orage in level 1, blue level 2
+            2.6,
+            100,
+            2
+        );
+        pointlight.position.set(posX, posY + offset * 2, posZ);
+        pointlight.castShadow = true;
+        scene.add(pointlight);
+        
+        // torch model
+        createFlameTexture('models/torch/scene.gltf', posX, posY - offset, posZ)
+
+        // flicker ilumination for flame
+        var flickerAnim = { intensity: 1.5 };
+        new TWEEN.Tween(flickerAnim)
+            .to({ intensity: 1.0 }, 200)
+            .easing(TWEEN.Easing.Quadratic.InOut)
+            .onUpdate(function() {
+                pointlight.intensity = flickerAnim.intensity;
+            })
+            .yoyo(true)
+            .repeat(Infinity)
+            .start();
+        lightTorches.push({ light: pointlight });
+    }
+}
+
+/**
+ * adds items that will be collected while playing
+ */
+function addItemsCollected() {
+    var collectionDistance = 15;
+    for (var i = 0; i < collectedItems.length; i++) {
+        var collectedItem = collectedItems[i];
+        if (!collectedItem.collected) {
+            var distance = playerPosition.distanceTo(collectedItem.mesh.position);
+            
+            if (distance < collectionDistance) {
+                // add collected item
+                collectedItem.collected = true;
+                numCollectedItems++;
+                
+                var meshToRemove = collectedItem.mesh;
+                // animation when collected, makes it smaller
+                var scaleDown = { scale: 1 };
+                new TWEEN.Tween(scaleDown)
+                    .to({ scale: 0 }, 400)
+                    .easing(TWEEN.Easing.Back.In)
+                    .onUpdate(function() {
+                        meshToRemove.scale.set(scaleDown.scale, scaleDown.scale, scaleDown.scale);
+                    })
+                    .onComplete(function() {
+                        // remove item from mesh once collected
+                        scene.remove(meshToRemove);
+                        if (meshToRemove.geometry) meshToRemove.geometry.dispose();
+                        if (meshToRemove.material && meshToRemove.material.map) {
+                            meshToRemove.material.map.dispose();
+                            meshToRemove.material.dispose();
+                        }
+                    })
+                    .start();
+                
+                // update new collectedItems
+                updateUIWithNewObjects();
+                break;
+            }
+        }
+    }
 }
 
 /**
@@ -330,16 +568,41 @@ function createWallsFromMaze() {
     var wallMaterial = new THREE.MeshPhongMaterial({
         map: wallTexture
     });
-
+    // random new heights
+    var wallHeights = [20, 25, 30, 35, 40, 45];
+    var wallTextures = [];
+    if (currentLevel === 1) {
+        // new mix of textures for walls
+        wallTextures = [
+            createWallTexture('images/wood.jpg'),
+            createWallTexture('images/stone.jpg'),
+              createWallTexture('images/stone2.jpg')
+        ];
+    } else {
+        // new mix of textures for walls
+        wallTextures = [
+            createWallTexture('images/water_background.jpg'),
+            createWallTexture('images/sea2.jpg'),
+            createWallTexture('images/water-rock.jpg')
+        ];
+    }
     for (var y = 0; y < mazeSize; y++) {
         for (var x = 0; x < mazeSize; x++) {
             var cell = mazeCreator.maze[y][x];
             var posX = (x - mazeSize / 2) * cellSize + cellSize / 2;
             var posZ = (y - mazeSize / 2) * cellSize + cellSize / 2;
+            // select random textures for each wall
+            var wallTexture = wallTextures[Math.floor(Math.random() * wallTextures.length)];
+            
+            var wallMaterial = new THREE.MeshPhongMaterial({
+                map: wallTexture
+            });
             // HORIZONTAL CELLS
             if (cell.walls.top && y === 0) {
-                var wall = new THREE.Mesh(wallGeometry, wallMaterial);
-                wall.position.set(posX, 15, posZ - cellSize / 2);
+                var wallHeightTop = wallHeights[Math.floor(Math.random() * wallHeights.length)];
+                var wallGeometryTop = new THREE.BoxGeometry(cellSize, wallHeightTop, 5);
+                var wall = new THREE.Mesh(wallGeometryTop, wallMaterial);
+                wall.position.set(posX, wallHeightTop / 2, posZ - cellSize / 2);
                 wall.castShadow = true;
                 wall.receiveShadow = true;
                 scene.add(wall);
@@ -347,8 +610,10 @@ function createWallsFromMaze() {
                 walls.push({ pos: wall.position, direction: 'horizontal' });
             }
             if (cell.walls.bottom) {
-                var wall = new THREE.Mesh(wallGeometry, wallMaterial);
-                wall.position.set(posX, 15, posZ + cellSize / 2);
+                var wallHeightBottom = wallHeights[Math.floor(Math.random() * wallHeights.length)];
+                var wallGeometryBottom = new THREE.BoxGeometry(cellSize, wallHeightBottom, 5);
+                var wall = new THREE.Mesh(wallGeometryBottom, wallMaterial);
+                wall.position.set(posX, wallHeightBottom / 2, posZ + cellSize / 2);
                 wall.castShadow = true;
                 wall.receiveShadow = true;
                 scene.add(wall);
@@ -357,8 +622,10 @@ function createWallsFromMaze() {
             }
             // VERTICAL CELLS
             if (cell.walls.left && x === 0) {
-                var wall = new THREE.Mesh(wallGeometry, wallMaterial);
-                wall.position.set(posX - cellSize / 2, 15, posZ);
+                var wallHeightLeft = wallHeights[Math.floor(Math.random() * wallHeights.length)];
+                var wallGeometryLeft = new THREE.BoxGeometry(cellSize, wallHeightLeft, 5);
+                var wall = new THREE.Mesh(wallGeometryLeft, wallMaterial);
+                wall.position.set(posX - cellSize / 2, wallHeightLeft / 2, posZ);
                 wall.rotation.y = Math.PI / 2;
                 wall.castShadow = true;
                 wall.receiveShadow = true;
@@ -367,8 +634,10 @@ function createWallsFromMaze() {
                 walls.push({ pos: wall.position, direction: 'vertical' });
             }
             if (cell.walls.right) {
-                var wall = new THREE.Mesh(wallGeometry, wallMaterial);
-                wall.position.set(posX + cellSize / 2, 15, posZ);
+                var wallHeightRight = wallHeights[Math.floor(Math.random() * wallHeights.length)];
+                var wallGeometryRight = new THREE.BoxGeometry(cellSize, wallHeightRight, 5);
+                var wall = new THREE.Mesh(wallGeometryRight, wallMaterial);
+                wall.position.set(posX + cellSize / 2, wallHeightRight / 2, posZ);
                 wall.rotation.y = Math.PI / 2;
                 wall.castShadow = true;
                 wall.receiveShadow = true;
@@ -415,6 +684,94 @@ function createAnimalTexture(model) {
                 })
                 .repeat(Infinity) // repeat all the time
                 .start();
+    },
+    (xhr) => {
+        console.log((xhr.loaded / xhr.total) * 100 + '% loaded')
+    },
+    (error) => {
+        console.log(error)
+    }
+    );
+}
+
+function createCollectedItemTexture(model, positionX, positionZ) {
+    const loader = new THREE.GLTFLoader();
+    loader.load(model,
+        function (gltf) {
+            var object = gltf.scene;
+            
+            // reckon bounding box object
+            var box = new THREE.Box3().setFromObject(object);
+            var size = box.getSize(new THREE.Vector3());
+            
+            var targetSize = 50; 
+            var maxDimension = Math.max(size.x, size.y, size.z);
+            var scaleFactor = targetSize / maxDimension;
+            object.scale.set(scaleFactor, scaleFactor, scaleFactor);
+            object.position.set(positionX, 20, positionZ);
+            // rotate to face opposite to wall
+            // object.rotation.y = Math.PI;
+            object.castShadow = true;
+            object.receiveShadow = true;
+
+            // rotate animation
+            var rotationAnimation = { y: 0 };
+            new TWEEN.Tween(rotationAnimation)
+                .to({ y: Math.PI * 2 }, 2000) // 2 secs rotation
+                .easing(TWEEN.Easing.Linear.None)
+                .onUpdate(function() {
+                    object.rotation.y = rotationAnimation.y;
+                })
+                .repeat(Infinity) // repetir todo el tiempo
+                .start();
+            
+            // floating animation
+            var floatingAnimation = { y: 20 };
+            new TWEEN.Tween(floatingAnimation)
+                .to({ y: 15 }, 1000)
+                .easing(TWEEN.Easing.Quadratic.InOut)
+                .onUpdate(function() {
+                    object.position.y = floatingAnimation.y;
+                })
+                .yoyo(true)
+                .repeat(Infinity)
+                .start();
+
+            scene.add(object);
+            
+            collectedItems.push({ mesh: object, collected: false });
+            collectedItemsMeshes.push(object);
+            updateCollectedItemsText();
+    },
+    (xhr) => {
+        console.log((xhr.loaded / xhr.total) * 100 + '% loaded')
+    },
+    (error) => {
+        console.log(error)
+    }
+    );
+}
+
+function createFlameTexture(model, positionX, positionY, positionZ) {
+    const loader = new THREE.GLTFLoader();
+    loader.load(model,
+        function (gltf) {
+            var object = gltf.scene;
+            
+            // reckon bounding box object
+            var box = new THREE.Box3().setFromObject(object);
+            var size = box.getSize(new THREE.Vector3());
+            
+            var targetSize = 20; 
+            var maxDimension = Math.max(size.x, size.y, size.z);
+            var scaleFactor = targetSize / maxDimension;
+            object.scale.set(scaleFactor, scaleFactor, scaleFactor);
+            object.position.set(positionX, positionY, positionZ);
+            
+            object.castShadow = true;
+            object.receiveShadow = true;
+
+            scene.add(object);
     },
     (xhr) => {
         console.log((xhr.loaded / xhr.total) * 100 + '% loaded')
@@ -516,6 +873,20 @@ function updatePlayerPosition() {
     // update camera
     camera.position.copy(playerPosition);
     camera.rotation.y = playerRotation;
+    
+    if (skybox) {
+        // console.log('skybox before position x:', skybox.position.x, ' y:', skybox.position.y, skybox.position.z, ' z:', skybox.position.y)
+        skybox.position.set(playerPosition.x,
+            playerPosition.y,
+            playerPosition.z);
+        sphere.position.set(playerPosition.x,
+            playerPosition.y,
+            playerPosition.z);
+        skybox.updateMatrix();
+        skybox.updateMatrixWorld(); 
+        // console.log('player update position x:', playerPosition.x, ' y:', playerPosition.y, skybox.position.y, ' z:', playerPosition.z)
+        // console.log('skybox after player update position x:', skybox.position.x, ' y:', skybox.position.y, skybox.position.y, ' z:', skybox.position.z)
+    }
 
     // update dot on minimap
     if (playerDot) {
@@ -539,7 +910,9 @@ function update() {
     
     // update player position
     updatePlayerPosition();
+    updateTextSprinteContent();
 
+    addItemsCollected();
     
     // check distance to win
     if (positionAnimal) {
@@ -565,8 +938,29 @@ function update() {
     }
 }
 
+function updateTextSprinteContent() {
+    if (textSpriteToRender) {
+        
+        const forward = 25;  // forward our camera position
+        const right = 25;    // rigth side
+        const down = -16;     // bottom
+        const dirX = -Math.sin(playerRotation);
+        const dirZ = -Math.cos(playerRotation);
+        const rightX = -dirZ;
+        const rightZ = dirX;
+        
+        // reckon bottom right position from camera
+        textSpriteToRender.position.set(
+            playerPosition.x + (dirX * forward) + (rightX * right),
+            playerPosition.y + down,
+            playerPosition.z + (dirZ * forward) + (rightZ * right)
+        );
+    }
+}
+
 function restartGame() {
     currentLevel = 1;
+    numCollectedItems = 0;
     
     if (audioStarted && soundTrack) {
         try {
