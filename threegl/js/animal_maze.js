@@ -575,7 +575,6 @@ function addItemsCollected() {
  */
 function createWallsFromMaze() {
     // creating walls of the maze
-    var wallGeometry = new THREE.BoxGeometry(cellSize, 30, 5);
     var wallTexture = currentLevel === 1 ? createWallTexture('images/wood.jpg') : createWallTexture('images/water_background.jpg');
     var wallMaterial = new THREE.MeshPhongMaterial({
         map: wallTexture
@@ -887,7 +886,6 @@ function updatePlayerPosition() {
     camera.rotation.y = playerRotation;
     
     if (skybox) {
-        // console.log('skybox before position x:', skybox.position.x, ' y:', skybox.position.y, skybox.position.z, ' z:', skybox.position.y)
         skybox.position.set(playerPosition.x,
             playerPosition.y,
             playerPosition.z);
@@ -896,7 +894,6 @@ function updatePlayerPosition() {
             playerPosition.z);
         skybox.updateMatrix();
         skybox.updateMatrixWorld(); 
-        // console.log('player update position x:', playerPosition.x, ' y:', playerPosition.y, skybox.position.y, ' z:', playerPosition.z)
         // console.log('skybox after player update position x:', skybox.position.x, ' y:', skybox.position.y, skybox.position.y, ' z:', skybox.position.z)
     }
 
