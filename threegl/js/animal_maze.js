@@ -133,11 +133,6 @@ function setGUI() {
     gui_maze.add(controls, 'showMinimap').name("Mostrar minimapa").listen();
     gui_maze.add(controls, 'currentSizeByLevelMaze', 10, 30).name("Cambiar nivel laberinto").listen();
     
-    // maze debug menu wireframe option
-    gui.add(controls, 'wireframe').name('Alambres').onChange(function(value) {
-        updateWireframe(value);
-    });
-    
     gui_maze.open();
 }
 
