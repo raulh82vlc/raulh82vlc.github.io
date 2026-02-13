@@ -6,12 +6,16 @@ permalink: /about/
 
 # Raúl Hernández López / Raul Hernandez Lopez
 **AI Engineer in Training** | **Senior Staff Software Engineer in Mobile**
+
 *NLP & Pattern Recognition* | *Ex-Twitter & Zendesk* | *Remote* | Available Sep 2026
+
 *Public Speaking, Technical Writing, Open-source Projects, Tech Blog*
 
 
+### Overview
 **Bridging the gap between Scalable Platforms and Artificial Intelligence**.
 After 12+ years architecting high-performance mobile apps for global leaders like Twitter and Zendesk, I am pivoting to the intersection of Software Engineering and AI. Currently pursuing a full-time **MSc. in Artificial Intelligence, Pattern Recognition and Digital Imaging** (MIARFID) at UPV, focusing on NLP, Computer Vision, and Deep Learning.
+
 **Staff+engineer DNA**: led critical projects, shaped engineering cultures through communities of practice, and balanced delivery with mentoring and long-term architecture thinking.
 
 
