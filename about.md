@@ -5,29 +5,18 @@ permalink: /about/
 ---
 
 # Raúl Hernández López / Raul Hernandez Lopez
-*Remote Senior Staff Software Engineer ( Mobile | Android ) | ex ( Zendesk | Twitter | Medtronic )*
-
-## My profile
-
-### Who am I?
-Across my career, I’ve led **critical projects** and helped shape **healthy engineering cultures** through **communities of practice** (part of my DNA as a **Staff+ engineer**). Depending on the needs of my team, I’ve worn many hats: from **tech lead** to **team lead**, balancing **delivery** with **mentoring** and **long-term architecture thinking**.
-
-### My foundations
-My foundation spans the UK and Spain, where I completed my high-level IT/Computing education. I’ve had the opportunity to work in diverse settings across Belgium, Spain, and the UK (experiences that have made me **highly adaptable and culturally aware**).
-
-Technically, I specialize in **native Android development** with **Kotlin** and **Java**, but I’m even more invested in engineering **soft skills (communication, influence, and leadership)** which only time and **experience** can teach.
-
-### Public speaking and technical contributions
-Outside of work, I enjoy **public speaking** and **sharing knowledge** with the **community**. I’ve been fortunate to speak at conferences like Droidcon UK (2017, 2019), Android Makers (2020), Droidcon Spain (2019), Droidcon EMEA/APAC (2020), GOTO Copenhagen (2019), and more. I’ve also contributed to podcasts like AndroidDevPodcast and Londroid, and I occasionally write reflective or technical pieces on my blog and Medium.
-
-### Let's keep in touch
-As I wrap up this chapter, I’ll be taking some time off to focus on my **Master’s in Teaching** before exploring new opportunities starting November. If you're looking for a **seasoned, thoughtful engineer** who’s passionate about **people and platforms**, I’d love to connect.
+**AI Engineer in Training** | **Senior Staff Software Engineer in Mobile**
+*NLP & Pattern Recognition* | *Ex-Twitter & Zendesk* | *Remote* | Available Sep 2026
+*Public Speaking, Technical Writing, Open-source Projects, Tech Blog*
 
 
-- [Presentations slides](https://speakerdeck.com/raulh82vlc) index in SpeakerDeck.
+**Bridging the gap between Scalable Platforms and Artificial Intelligence**.
+After 12+ years architecting high-performance mobile apps for global leaders like Twitter and Zendesk, I am pivoting to the intersection of Software Engineering and AI. Currently pursuing a full-time **MSc. in Artificial Intelligence, Pattern Recognition and Digital Imaging** (MIARFID) at UPV, focusing on NLP, Computer Vision, and Deep Learning.
+**Staff+engineer DNA**: led critical projects, shaped engineering cultures through communities of practice, and balanced delivery with mentoring and long-term architecture thinking.
+
 
 ## Currently
-I'm studying a **MSc in Artificial Intelligence, Pattern Recognition, and Digital Imaging** & finishing a **Master in Teaching Computer Science and Technology**.
+Open to start conversations on interesting projects about AI.
 
 # Work experience
 
