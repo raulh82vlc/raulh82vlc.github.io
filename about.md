@@ -12,15 +12,22 @@ permalink: /about/
 *Public Speaking, Technical Writing, Open-source Projects, Tech Blog*
 
 
-### Overview
-**Bridging the gap between Scalable Platforms and Artificial Intelligence**.
-After 12+ years architecting high-performance mobile apps for global leaders like Twitter and Zendesk, I am pivoting to the intersection of Software Engineering and AI. Currently pursuing a full-time **MSc. in Artificial Intelligence, Pattern Recognition and Digital Imaging** (MIARFID) at UPV, focusing on NLP, Computer Vision, and Deep Learning.
+Bridging the gap between Scalable Platforms and Artificial Intelligence.
 
-**Staff+engineer DNA**: led critical projects, shaped engineering cultures through communities of practice, and balanced delivery with mentoring and long-term architecture thinking.
+Who am I?
+After 12+ years architecting high-performance mobile apps for global leaders like Twitter and Zendesk, I am pivoting my career to the intersection of Software Engineering and AI.
 
+I am currently taking a deliberate career break to pursue a full-time M.Sc. in Artificial Intelligence, Pattern Recognition and Digital Imaging (MIARFID) at UPV. My current focus is on the mathematical and architectural foundations of Pattern Recognition and Natural Language Processing (NLP).
 
-## Currently
-Open to start conversations on interesting projects about AI.
+Engineering DNA:
+Across my career, I’ve led critical projects and helped shape healthy engineering cultures through communities of practice (part of my DNA as a Staff+ engineer). Depending on the needs of my team, I’ve worn many hats: from tech lead to team lead, balancing delivery with mentoring and long-term architecture thinking.
+
+Technical Context:
+- Engineering: Kotlin, Android, System Design, Scalable Architecture.
+- AI (Current Focus): Python, Machine Learning Fundamentals, NLP.
+
+Note:
+While currently focused on my academic milestones, I will be open to exploratory conversations starting June 2026, aiming for a new role in September 2026. Feel free to reach out to discuss how we might collaborate then.
 
 # Work experience
 
