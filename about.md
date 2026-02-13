@@ -4,10 +4,10 @@ title: About the author
 permalink: /about/
 ---
 
-# Raúl Hernández López / Raul Hernandez Lopez
-**AI Engineer in Training** | **Senior Staff Software Engineer in Mobile**
+# Raúl Hernández López \| Raul Hernandez Lopez
+**AI Engineer in Training** \| **Senior Staff Software Engineer in Mobile**
 
-NLP & Pattern Recognition | Ex-Twitter & Zendesk | Remote | Available Sep 2026
+*NLP & Pattern Recognition* \| *Ex-Twitter & Zendesk* \| *Remote* \| Available Sep 2026 (flexible)
 
 *Public Speaking, Technical Writing, Open-source Projects, Tech Blog*
 
