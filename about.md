@@ -49,7 +49,7 @@ Led and developed a solution for our team on the EXIST 2026 challenge about Sexi
 
 - **Remote Senior Software Engineer - Android** at **Twitter** in *EMEA timezone from July 2018 until April 2022*
 	- Fully Remote from 2020 to 2022.
-	- Collaborated for the Twitter Blue team. Jan'21 - April'22.
+	- Collaborated for the Twitter Blue team. Jan'21 - April'22. [Introducing Twitter Blue - Twitter’s first-ever subscription offering](https://blog.x.com/en_us/topics/company/2021/introducing-twitter-blue)
 	- Collaborated for the Consumer Search Clients (CSC) team. Dec'19 - Jan'21
 	- Collaborated for the Live Events / Events Clients (EC) team. Apr'18 - Sep'18 & May'19 - Dec'19.
 	- Collaborated for the Periscope / Go Live Together (Hydra) team. Oct'18 - Apr'19
