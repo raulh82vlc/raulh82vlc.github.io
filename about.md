@@ -24,10 +24,10 @@ Across my career, I’ve led critical projects and helped shape healthy engineer
 
 Technical Context:
 - Engineering: Kotlin, Android, System Design, Scalable Architecture.
-- AI (Current Focus): Python, Machine Learning Fundamentals, NLP.
+- AI (Current Focus): Python, Machine Learning, NLP, Computer Vision, Data Visualisation, Biometrics.
 
 Note:
-While currently focused on my academic milestones, I will be open to exploratory conversations starting June 2026, aiming for a new role from August or September 2026. Feel free to reach out to discuss how we might collaborate then.
+While currently focused on my academic milestones, I will be open to exploratory conversations starting June 2026, aiming for a new role from September 2026. Feel free to reach out to discuss how we might collaborate then.
 
 # Work experience
 **Data Science and AI Engineer** | NLP at **EXIST 2026** from February 2026 and currently.
