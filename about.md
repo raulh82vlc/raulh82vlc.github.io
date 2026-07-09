@@ -30,8 +30,10 @@ Note:
 While currently focused on my academic milestones, I will be open to exploratory conversations starting June 2026, aiming for a new role from September 2026. Feel free to reach out to discuss how we might collaborate then.
 
 # Work experience
-**Data Science and AI Engineer** | NLP at **EXIST 2026** from February 2026 and currently.
-Led and developed a solution for our team on the EXIST 2026 challenge about Sexism detection, where we achieved the first position on the soft-soft context evaluation. Our model was trained in a cascade approach from sexism identification towards sexism categorisation and intention, successfully applying the LeWiDi (Learning with Disagreement) paradigm. The team nickname is NeverChorizonInMyPaella, and the team members are Giuseppe Di Palma and Raul Hernandez Lopez. We have submitted a paper has been accepted, now the camera ready version is waiting for publication on the CLEF 2026 Working Notes. More information and ranking: [EXIST 2026 competition](https://nlp.uned.es/exist2026/)
+**Lead AI Engineer** | NLP at **EXIST 2026** from February 2026 and currently.
+Led and developed a solution for our team on the EXIST 2026 challenge about Sexism detection, where we achieved the first position on the soft-soft context evaluation. Our model was trained in a cascade approach from sexism identification towards sexism categorisation and intention, successfully applying the LeWiDi (Learning with Disagreement) paradigm. The team nickname is NeverChorizonInMyPaella, and the team members are Giuseppe Di Palma and Raul Hernandez Lopez.
+We have submitted a paper and it has been accepted, now the camera ready version is waiting for publication on the CLEF 2026 Working Notes.
+More information and ranking: [EXIST 2026 competition](https://nlp.uned.es/exist2026/)
 
 ## Formerly
 - **Remote Senior Staff Software Engineer (Mobile and SDKs)** at **Zendesk** from March 2024 until June 2025.
