@@ -11,13 +11,10 @@ permalink: /about/
 
 *Public Speaking, Technical Writing, Open-source Projects, Tech Blog*
 
-
 Bridging the gap between Scalable Platforms and Artificial Intelligence.
 
 Who am I?
-After 12+ years architecting high-performance mobile apps for global leaders like Twitter and Zendesk, I am pivoting my career to the intersection of Software Engineering and AI.
-
-I am currently taking a deliberate career break to pursue a full-time M.Sc. in Artificial Intelligence, Pattern Recognition and Digital Imaging (MIARFID) at UPV. My current focus is on the mathematical and architectural foundations of Pattern Recognition and Natural Language Processing (NLP).
+After 12+ years architecting high-performance mobile apps and complex systems for global leaders like Twitter and Zendesk, I am pivoting to the intersection of Software Engineering and AI. Entering the final phase of an M.Sc. in Artificial Intelligence (MIARFID) at UPV with all core coursework completed, and currently focusing on my final thesis, specialising in NLP, Computer Vision, and Deep Learning.
 
 Engineering DNA:
 Across my career, I’ve led critical projects and helped shape healthy engineering cultures through communities of practice (part of my DNA as a Staff+ engineer). Depending on the needs of my team, I’ve worn many hats: from tech lead to team lead, balancing delivery with mentoring and long-term architecture thinking.
@@ -25,9 +22,6 @@ Across my career, I’ve led critical projects and helped shape healthy engineer
 Technical Context:
 - Engineering: Kotlin, Android, System Design, Scalable Architecture.
 - AI (Current Focus): Python, Machine Learning, NLP, Computer Vision, Data Visualisation, Biometrics.
-
-Note:
-While currently focused on my academic milestones, I will be open to exploratory conversations starting June 2026, aiming for a new role from September 2026. Feel free to reach out to discuss how we might collaborate then.
 
 # Work experience
 **Lead AI Engineer** | NLP at **EXIST 2026** from February 2026 and currently.
