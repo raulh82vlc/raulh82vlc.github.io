@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 # Raúl Hernández López \| Raul Hernandez Lopez
+{:.no_toc}
+
 **AI Software Engineer** \| **Senior Staff Software Engineer in Mobile** | **Teacher**
 
 *NLP & Pattern Recognition* \| *Ex-Twitter & Zendesk* \| *Remote* \| Available Sep 2026 (flexible)
@@ -23,11 +25,74 @@ Technical Context:
 - Engineering: Kotlin, Android, System Design, Scalable Architecture.
 - AI (Current Focus): Python, Machine Learning, NLP, Computer Vision, Data Visualisation, Biometrics.
 
+## Contents
+{:.no_toc}
+
+* TOC
+{:toc}
+
+# Applied AI projects
+*Research and engineering work carried out during the M.Sc. in Artificial Intelligence (MIARFID) at UPV, most recent first.*
+
+## EXIST 2026 competition (CLEF) — Academic research in NLP
+*February 2026 – July 2026* · **Lead AI Engineer** · Team **NeverChorizoInMyPaella** (Giuseppe Di Palma & Raúl Hernández López)
+
+Part of the ALC (*Applications of Computational Linguistics*) module, where I achieved a Distinction (MH).
+
+- **AI architecture & implementation**: led the engineering of a cascade NLP model in Python and PyTorch, progressing from raw data ingestion to sexism identification, categorisation and intention, designed for classifying sexist content in social media (TikTok) videos.
+- **Technical achievement (1st place)**: secured the 1st global position in the Categorisation (soft-soft context) evaluation by applying the LeWiDi (Learning with Disagreement) paradigm to handle highly nuanced and ambiguous language coming from different annotators and their psysiological data (HR, EEG and ET).
+- **Testing & QA validation**: ran rigorous functional validation and evaluation of AI outputs with PyEvALL, identifying model inconsistencies across diverse datasets to improve reliability against the official competition metrics (F1 for majority voting, ICM for soft evaluation).
+- **Research & publication**: co-authored an accepted academic paper detailing the model architecture, methodology and evaluation, presented at CLEF 2026 (21–24 September 2026).
+
+Links: [EXIST 2026 ranking and info](https://nlp.uned.es/exist2026/) · [CLEF 2026 Working Notes](https://clef-staging.pages.dev/)
+
+Paper reference: *"NeverChorizoInMyPaella at EXIST 2026: Multimodal Sexism Identification and Categorisation in TikTok Videos via Sequential Cascade Training and Visual Cross-Attention"*, pp. 2202–2215 — Giuseppe Di-Palma, Raúl Hernández-López.
+
+## Early sepsis detection and trade-off in models — Academic research on tabular data
+*February 2026 – May 2026* · Group project
+
+Part of the ARA (*Pattern recognition and machine learning applications*) module, graded 9.6 out of 10.
+
+- **Data curation & feature engineering**: investigated and curated data from a cardiology challenge dataset, using tree-based models to engineer features, optimise hyperparameters and select an appropriate decision threshold via a cascade approach, with stratified cross-validation in 3 folds.
+- **Explainability**: added an explainability layer on top of the pre-trained XGBoost model to understand which variables drive the early prediction of sepsis.
+- **Metric selection**: chose metrics adjusted to clinically relevant trade-offs, such as AUPRC.
+
+Link: [Presentation](https://canva.link/872devldpivejaa)
+
+## Georeferenced running data visualisation — Data science
+*February 2026 – June 2026* · Individual project
+
+Part of the Data Visualisation module.
+
+- **System integration & API**: integrated Python data-processing components with external API endpoints, handling structured mapping data inside a Streamlit application.
+- **Data security**: implemented strict data encryption to protect personal user information, keeping robust privacy standards for sensitive health and fitness data.
+- **Algorithmic optimisation**: engineered Python utilities to programmatically process complex datasets with robust data handling.
+Link: [Web app](https://running-visualisation-app.streamlit.app) | [GitHub repository](https://github.com/raulh82vlc/running-web-streamlit)
+
+## Local RAG assistant — Agents and RAG research in NLP
+*November 2025 – January 2026* · Individual project
+
+Part of the Human Language Technologies course.
+
+- **RAG architecture & document ingestion**: architected and implemented a local Retrieval-Augmented Generation pipeline in Python, handling document ingestion and chunking strategies for unstructured data.
+- **Embeddings & search**: integrated a vector database (Qdrant) for efficient similarity search and embedding storage.
+- **AI agent orchestration**: orchestrated local LLMs (Ollama) with LangChain to build an automated conversational workflow inside a Streamlit application.
+
+Link: [GitHub repository](https://github.com/raulh82vlc/tlh-assistant)
+
+## Half-marathon plan generator — Algorithmic research
+*September 2025 – November 2025* · Individual project
+
+Part of the Metaheuristic Techniques module.
+
+- **Algorithmic optimisation**: engineered a scalable Python utility to generate and optimise training plans from baseline performance metrics.
+- **Open-source architecture**: built the solution with clean, maintainable Python principles, strict version control, and released it as a FOSS repository.
+
+Link: [GitHub repository](https://github.com/raulh82vlc/running-plan-generator)
+
+
 # Work experience
-**Lead AI Engineer** | NLP at **EXIST 2026** from February 2026 and currently.
-Led and developed a solution for our team on the EXIST 2026 challenge about Sexism detection, where we achieved the first position on the soft-soft context evaluation. Our model was trained in a cascade approach from sexism identification towards sexism categorisation and intention, successfully applying the LeWiDi (Learning with Disagreement) paradigm. The team nickname is NeverChorizonInMyPaella, and the team members are Giuseppe Di Palma and Raul Hernandez Lopez.
-We have submitted a paper and it has been accepted, now the camera ready version is waiting for publication on the CLEF 2026 Working Notes.
-More information and ranking: [EXIST 2026 competition](https://nlp.uned.es/exist2026/)
+*Industry roles, most recent first.*
 
 ## Formerly
 - **Remote Senior Staff Software Engineer (Mobile and SDKs)** at **Zendesk** from March 2024 until June 2025.
