@@ -1,9 +1,11 @@
-
 //
 // VARIABLES
 //
+// Runtime theming (light/dark) lives in CSS custom properties in style.scss.
+// Sass variables here are only for values needed at compile time.
+//
 
-// Colors
+// Brand accent, kept from the original theme
 $blue: #4183C4;
 
 // Grays
@@ -15,9 +17,18 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$systemSans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+             Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+$systemMono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+             "Liberation Mono", monospace;
+
+// Aliases kept so any existing partial referencing the old names still compiles
+$helvetica: $systemSans;
+$helveticaNeue: $systemSans;
 $georgia: Georgia, serif;
+
+// Layout
+$maxWidth: 800px;
 
 // Mobile breakpoints
 @mixin mobile {
