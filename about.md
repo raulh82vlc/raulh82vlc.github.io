@@ -9,7 +9,7 @@ permalink: /about/
 
 **AI Software Engineer** \| **Senior Staff Software Engineer in Mobile** | **Teacher**
 
-*NLP & Pattern Recognition* \| *Ex-Twitter & Zendesk* \| *Remote* \| Available Sep 2026 (flexible)
+*NLP & Pattern Recognition* \| *Ex-Twitter & Zendesk* \| *Remote* or *Hybrid* from Valencia \| Available from November 2026 onwards
 
 *Public Speaking, Technical Writing, Open-source Projects, Tech Blog*
 
