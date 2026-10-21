@@ -44,9 +44,9 @@ Part of the ALC (*Applications of Computational Linguistics*) module, where I ac
 - **Testing & QA validation**: ran rigorous functional validation and evaluation of AI outputs with PyEvALL, identifying model inconsistencies across diverse datasets to improve reliability against the official competition metrics (F1 for majority voting, ICM for soft evaluation).
 - **Research & publication**: co-authored an accepted academic paper detailing the model architecture, methodology and evaluation, presented at CLEF 2026 (21–24 September 2026).
 
-Links: [EXIST 2026 ranking and info](https://nlp.uned.es/exist2026/) · [CLEF 2026 Working Notes](https://clef-staging.pages.dev/)
+Links: [Paper](https://ceur-ws.org/Vol-4283/paper160.pdf) | [CLEF 2026 Working Notes (listing)](https://ceur-ws.org/Vol-4283/) | [EXIST 2026 ranking and info](https://nlp.uned.es/exist2026/)
 
-Paper reference: *"NeverChorizoInMyPaella at EXIST 2026: Multimodal Sexism Identification and Categorisation in TikTok Videos via Sequential Cascade Training and Visual Cross-Attention"*, pp. 2202–2215 — Giuseppe Di-Palma, Raúl Hernández-López.
+Paper reference: *"NeverChorizoInMyPaella at EXIST 2026: Multimodal Sexism Identification and Categorisation in TikTok Videos via Sequential Cascade Training and Visual Cross-Attention"*, pp. 2202–2215 — Giuseppe Di-Palma, Raúl Hernández-López (both authors contributed equally).
 
 ## Early sepsis detection and trade-off in models — Academic research on tabular data
 *February 2026 – May 2026* · Group project
