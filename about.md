@@ -35,7 +35,7 @@ Technical Context:
 *Research and engineering work carried out during the MSc in Artificial Intelligence, Pattern Recognition and Digital Imaging (MIARFID) at UPV, most recent first.*
 
 ## EXIST 2026 competition (CLEF) — Academic research in NLP
-*February 2026 – July 2026* · **Lead AI Engineer** · Team **NeverChorizoInMyPaella** (Giuseppe Di Palma & Raúl Hernández López)
+*February 2026 – September 2026* · **Lead AI Engineer** · Team **NeverChorizoInMyPaella** (Giuseppe Di Palma & Raúl Hernández López)
 
 Part of the ALC (*Applications of Computational Linguistics*) module, where I achieved a Distinction (MH).
 
@@ -64,7 +64,7 @@ Link: [Presentation](https://canva.link/872devldpivejaa)
 ## Georeferenced running data visualisation — Data science
 *February 2026 – June 2026* · Individual project
 
-Part of the Data Visualisation module.
+Part of the Data Visualisation module, this module was graded 9.6 out of 10; this assignment was graded 10 out of 10.
 
 - **System integration & API**: integrated Python data-processing components with external API endpoints, handling structured mapping data inside a Streamlit application.
 - **Data security**: implemented strict data encryption to protect personal user information, keeping robust privacy standards for sensitive health and fitness data.
@@ -74,7 +74,7 @@ Link: [Web app](https://running-visualisation-app.streamlit.app) | [GitHub repos
 ## Local RAG assistant — Agents and RAG research in NLP
 *November 2025 – January 2026* · Individual project
 
-Part of the Human Language Technologies course.
+Part of the Human Language Technologies course; this assignment was graded 10 out of 10.
 
 - **RAG architecture & document ingestion**: architected and implemented a local Retrieval-Augmented Generation pipeline in Python, handling document ingestion and chunking strategies for unstructured data.
 - **Embeddings & search**: integrated a vector database (Qdrant) for efficient similarity search and embedding storage.
@@ -85,22 +85,23 @@ Link: [GitHub repository](https://github.com/raulh82vlc/tlh-assistant)
 ## Half-marathon plan generator — Algorithmic research
 *September 2025 – November 2025* · Individual project
 
-Part of the Metaheuristic Techniques module.
+Part of the Metaheuristic Techniques module; this assignment was graded 9 out of 10.
 
 - **Algorithmic optimisation**: engineered a scalable Python utility to generate and optimise training plans from baseline performance metrics.
 - **Open-source architecture**: built the solution with clean, maintainable Python principles, strict version control, and released it as a FOSS repository.
 
 Link: [GitHub repository](https://github.com/raulh82vlc/running-plan-generator)
 
+Other than these projects, I have insights about machine translation, biometrics, computer vision or machine learning in general; if by any chance you are keen, let's talk.
 
 # Work experience
 *Industry roles, most recent first.*
 ## Currently
-- **Vocational Training Teacher**  (short contract) at Generalitat Valenciana (GVA) from October 2026 and currently (November most probably ends this short contract).
+- **Vocational Training Teacher**  (short contract) at **Generalitat Valenciana (GVA)** from October 2026 - currently *(this short contract  will most probably end in November)*.
 
 ## Formerly
-- **Vocational Training Teacher** (short contract) at Generalitat Valenciana (GVA) from April to April 2026.
-- **Vocational Training Teacher** (internship of Master's in Teaching) at Universidad Internacional de La Rioja (UNIR) from September to December 2025.
+- **Vocational Training Teacher** (short contract) at **Generalitat Valenciana (GVA)**. April 2026.
+- **Vocational Training Teacher** (internship of Master's in Teaching at UNIR) at **Enseñanzas Profesionales Sorolla (Grupo Sorolla)** on behalf of **Universidad Internacional de La Rioja (UNIR)**  from September until December 2025.
 - **Remote Senior Staff Software Engineer (Mobile and SDKs)** at **Zendesk** from March 2024 until June 2025.
 	- Created delightful Customer Experiences (CX) with the best teams at Zendesk.
 	- Group Tech Lead for Mobile SDKs: Android, Unity and iOS & Mobile Apps (Support): Android and iOS.
