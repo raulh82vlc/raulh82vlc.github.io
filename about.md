@@ -16,7 +16,7 @@ permalink: /about/
 Bridging the gap between Scalable Platforms and Artificial Intelligence.
 
 Who am I?
-After 12+ years architecting high-performance mobile apps and complex systems for global leaders like Twitter and Zendesk, I am pivoting to the intersection of Software Engineering and AI. Entering the final phase of an M.Sc. in Artificial Intelligence (MIARFID) at UPV with all core coursework completed, and currently focusing on my final thesis, specialising in NLP, Computer Vision, and Deep Learning.
+After 12+ years architecting high-performance mobile apps and complex systems for global leaders like Twitter and Zendesk, I am pivoting to the intersection of Software Engineering and AI. Entering the final phase of an MSc in Artificial Intelligence, Pattern Recognition and Digital Imaging (MIARFID) at Universitat Politècnica de València (UPV) with all core coursework completed, and currently focusing on my final thesis, specialising in NLP, Computer Vision, and Deep Learning.
 
 Engineering DNA:
 Across my career, I’ve led critical projects and helped shape healthy engineering cultures through communities of practice (part of my DNA as a Staff+ engineer). Depending on the needs of my team, I’ve worn many hats: from tech lead to team lead, balancing delivery with mentoring and long-term architecture thinking.
@@ -32,7 +32,7 @@ Technical Context:
 {:toc}
 
 # Applied AI projects
-*Research and engineering work carried out during the M.Sc. in Artificial Intelligence (MIARFID) at UPV, most recent first.*
+*Research and engineering work carried out during the MSc in Artificial Intelligence, Pattern Recognition and Digital Imaging (MIARFID) at UPV, most recent first.*
 
 ## EXIST 2026 competition (CLEF) — Academic research in NLP
 *February 2026 – July 2026* · **Lead AI Engineer** · Team **NeverChorizoInMyPaella** (Giuseppe Di Palma & Raúl Hernández López)
@@ -40,9 +40,11 @@ Technical Context:
 Part of the ALC (*Applications of Computational Linguistics*) module, where I achieved a Distinction (MH).
 
 - **AI architecture & implementation**: led the engineering of a cascade NLP model in Python and PyTorch, progressing from raw data ingestion to sexism identification, categorisation and intention, designed for classifying sexist content in social media (TikTok) videos.
-- **Technical achievement (1st place)**: secured the 1st global position in the Categorisation (soft-soft context) evaluation by applying the LeWiDi (Learning with Disagreement) paradigm to handle highly nuanced and ambiguous language coming from different annotators and their psysiological data (HR, EEG and ET).
+- **Technical achievement (1st place)**: secured the 1st global position in the Categorisation (soft-soft context) evaluation by applying the LeWiDi (Learning with Disagreement) paradigm to handle highly nuanced and ambiguous language coming from different annotators and their physiological data (HR, EEG and ET).
 - **Testing & QA validation**: ran rigorous functional validation and evaluation of AI outputs with PyEvALL, identifying model inconsistencies across diverse datasets to improve reliability against the official competition metrics (F1 for majority voting, ICM for soft evaluation).
-- **Research & publication**: co-authored an accepted academic paper detailing the model architecture, methodology and evaluation, presented at CLEF 2026 (21–24 September 2026).
+- **Research & publication**: co-authored an academic paper detailing the model’s architecture, methodology and evaluation metrics alongside Giuseppe Di Palma (both authors contributed equally). Additionally, I presented it as both an A0 poster and a talk at CLEF 2026 (21–24 September 2026, Jena, Germany).
+
+![Raúl presenting the poster at CLEF 2026, Jena](./images/foto-raul-clef.jpeg)
 
 Links: [Paper](https://ceur-ws.org/Vol-4283/paper160.pdf) | [CLEF 2026 Working Notes (listing)](https://ceur-ws.org/Vol-4283/) | [EXIST 2026 ranking and info](https://nlp.uned.es/exist2026/)
 
@@ -93,8 +95,12 @@ Link: [GitHub repository](https://github.com/raulh82vlc/running-plan-generator)
 
 # Work experience
 *Industry roles, most recent first.*
+## Currently
+- **Vocational Training Teacher**  (short contract) at Generalitat Valenciana (GVA) from October 2026 and currently (November most probably ends this short contract).
 
 ## Formerly
+- **Vocational Training Teacher** (short contract) at Generalitat Valenciana (GVA) from April to April 2026.
+- **Vocational Training Teacher** (internship of Master's in Teaching) at Universidad Internacional de La Rioja (UNIR) from September to December 2025.
 - **Remote Senior Staff Software Engineer (Mobile and SDKs)** at **Zendesk** from March 2024 until June 2025.
 	- Created delightful Customer Experiences (CX) with the best teams at Zendesk.
 	- Group Tech Lead for Mobile SDKs: Android, Unity and iOS & Mobile Apps (Support): Android and iOS.
@@ -130,6 +136,15 @@ Link: [GitHub repository](https://github.com/raulh82vlc/running-plan-generator)
 	- Collaborating for Live Events team.
 - **Lead Android Developer / Chapter Android Lead** at **Touch Surgery** in *London (UK)* June 2017 until April the 27th 2018
 - ...more at the bottom section...
+
+# Studies
+- **MSc in Artificial Intelligence, Pattern Recognition, and Digital Imaging** specialisation in *Human Language Technologies and Pattern Recognition* at *Polytechnic University of Valencia (UPV), (Valencia, Spain)*
+	- *September 2025 onwards*
+- **Master in Education in Compulsory Secondary and Upper Secondary Education, Vocational Training and Language Teaching** specialisation in *Technology and Computer Science* at *Universidad Internacional de La Rioja (UNIR), (Spain, online)*
+	- *February 2025 to February 2026*
+- **MSc Computational & Software Techniques in Engineering** specialisation of *Software Engineering* at *Cranfield University (Cranfield, UK)*
+- **Engineer in Computer Science** specialisation in *Software Engineering* (second cycle) & *Information Systems* (first cycle) or **BSc(Hons) Information Systems + MSc Software Engineering** (BSc + MSc is equivalent to the Spanish Engineer degree) at *Polytechnic University of Valencia (UPV), (Valencia, Spain)*
+- **BSc(Hons) Information technology** at *Edinburgh Napier University (Edinburgh, UK)*
 
 # 2023 Public speaking
 - ***Panel: "What I wish I knew when I was a junior developer that I would tell as a staff software engineer"*** at ***Droidcon Berlin (Germany)*** (July).
@@ -255,23 +270,11 @@ Link: [GitHub repository](https://github.com/raulh82vlc/running-plan-generator)
 	- [Video](https://www.youtube.com/watch?v=cX-1ICue0N4&feature=youtu.be)
 	- [Slides](https://speakerdeck.com/raulh82vlc/from-junior-to-experienced-in-few-years-quest-of-a-hero)
 
-# Public code snippets & side projects
+## Public code snippets & side projects
 - [Github](https://github.com/raulh82vlc)
 - [Gist](https://gist.github.com/raulh82vlc)
 
-# Studies
-- **MSc in Artificial Intelligence, Pattern Recognition, and Digital Imaging** specialisation in *Human Language Technologies and Pattern Recognition* at *Polytechnic University of Valencia (UPV), (Valencia, Spain)*
-	- *September 2025 onwards*
-- **MEd in Compulsory Secondary and Upper Secondary Education, Vocational Training and Language Teaching** specialisation in *Technology and Computer Science* at *Universidad Internacional de La Rioja (UNIR), (Spain, online)*
-	- *February 2025 to February 2026*
-- **MSc Computational & Software Techniques in Engineering** specialisation of *Software Engineering* at *Cranfield University (Cranfield, UK)*
-- **Engineer in Computer Science** specialisation in *Software Engineering* (second cycle) & *Information Systems* (first cycle) or **BSc(Hons) Information Systems + MSc Software Engineering** (BSc + MSc is equivalent to the Spanish Engineer degree) at *Polytechnic University of Valencia (UPV), (Valencia, Spain)*
-- **BSc(Hons) Information technology** at *Edinburgh Napier University (Edinburgh, UK)*
-
-## Hobbies
-I do enjoy meeting new cultures, learning from others & self-learning myself, listening rock / metal music, running, reading or travelling.
-
-### Extension of Formerly work experience
+# Extension of Formerly work experience
 - **Senior Android Developer** at *Supe app / Rise Project UK* *London (UK)* 2016-2017
 - **Android developer** at **YouView** in *London (UK)* 2015-2016
 - **Senior Android Developer** working at a startup called *Critizen app / Next Chance Stocks SL* in *Madrid (Spain)* 2015
@@ -291,3 +294,6 @@ I do enjoy meeting new cultures, learning from others & self-learning myself, li
 ### Other public profiles
 - [Raul's Medium](https://raul-h82.medium.com/)
 - [Raul's LinkedIn](https://www.linkedin.com/in/raulhernandezl/)
+
+### Hobbies
+I do enjoy meeting new cultures, learning from others & self-learning myself, listening rock / metal music, running, reading or travelling.
